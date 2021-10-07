@@ -1,0 +1,14 @@
+{{ range (where site.RegularPages "Type" (.Get 0)) }}
+<div class="event-card card mb-4">
+  <div class="event-card-date"><span class="h2 d-block">{{.Params.year}}</span> {{.Params.month}}</div>
+  <div class="card-body">
+    <h3 class="h5">{{ .Title }}</h3>
+    <p>{{ .Params.location | markdownify }}</p>
+  </div>
+  {{ if .Params.readmore }}
+  <div class="card-footer">
+    <a href="{{ .RelPermalink }}" class="btn btn-sm btn-outline-primary">Read more</a>
+  </div>
+  {{ end }}
+</div>
+{{ end }}

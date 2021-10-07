@@ -1,0 +1,180 @@
+######################## default configuration ####################
+baseURL = "http://demo.themefisher.com/"
+title = "IGEL"
+theme = "godocs"
+# google analytics
+googleAnalytics = "" # example : UA-123-45
+# disable language
+disableLanguages = ["fr"] # desable language from here
+
+# hugo outputs
+[outputs]
+home = [ "HTML", "JSON"]
+
+# render unsafe html
+[markup.goldmark.renderer]
+unsafe = true
+
+# table of content
+[markup.tableOfContents]
+startLevel = 1
+endLevel = 6
+ordered = false
+
+############################# Plugins ##############################
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/search/auto-complete.css"
+[[params.plugins.css]]
+link = "plugins/featherlight/featherlight.min.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/js/all.min.js"
+attributes = "crossorigin='anonymous' defer='defer' data-search-pseudo-elements"
+[[params.plugins.js]]
+link = "plugins/scrollmenu/scrollmenu.min.js"
+[[params.plugins.js]]
+link = "plugins/featherlight/featherlight.min.js"
+[[params.plugins.js]]
+link = "plugins/clipboard/clipboard.min.js"
+[[params.plugins.js]]
+link = "plugins/search/auto-complete.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+[[params.plugins.js]]
+link = "plugins/search/lunr.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search-page.js"
+
+# site variables
+[params.variables]
+# Color Variables
+primary_color = "#038b3d"
+text_color = "#333"
+text_color_dark = "#222"
+text_color_light = "#999"
+body_color = "#fff"
+border_color = "#E2E2E2"
+black = "#000"
+white = "#fff"
+light = "#FBFBFB"
+
+# Font Variables
+primary_font = "Montserrat:wght@300;400;500;600;700;800"
+primary_font_type = "sans-serif" # [serif/sans-serif]
+secondary_font = ""
+secondary_font_type = "" # [serif/sans-serif]
+icon_font = "Font Awesome 5 Free"
+
+#################### default parameters ################################
+[params]
+logo = "images/logo.png"
+favicon = "images/favicon.png"
+# Meta data
+description = "This is meta description"
+author = "Themefisher"
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+
+# Preloader
+[params.preloader]
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
+
+# Navigation button
+# [[params.nav_button]]
+# style = "outline" # available style: solid, outline
+# label = "changelog"
+# link = "changelog"
+
+[[params.nav_button]]
+style = "solid" # available style: solid, outline
+label = "Membership"
+link = "membership/"
+
+  
+############################# social site ########################
+[[params.social]]
+title = "twitter"
+icon = "fab fa-twitter" # fontawesome icon : https://fontawesome.com/icons
+link = "#"
+
+
+################################### English language #####################################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+weight = 1
+# copyright
+copyright = "Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+
+# banner
+[Languages.en.banner]
+title = "Documentation Theme By Themefisher Team"
+subtitle = "Lorem ipsum dolor amet, consetetur sadiffspscing elitr, diam nonumy invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua At."
+image = "images/banner.jpg"
+
+# call to action
+[Languages.en.call_to_action]
+enable = true
+title = "How to become a member?"
+image = "images/cta-illustration.jpg"
+content = ""
+
+  # call to action button
+  [Languages.en.call_to_action.button]
+  enable = "true"
+  label = "Click here"
+  link = "member/"
+
+
+############## English navigation ###############
+# main menu
+[[Languages.en.menu.main]]
+name = "Home"
+url = ""
+weight = 1
+
+[[Languages.en.menu.main]]
+name = "About us"
+url = "about-us/"
+weight = 2
+
+[[Languages.en.menu.main]]
+name = "Events"
+url = "events/"
+weight = 3
+
+[[Languages.en.menu.main]]
+name = "SSOL"
+url = "ssol/"
+weight = 4
+
+[[Languages.en.menu.main]]
+name = "Research Coalitions"
+url = "research-coalitions/"
+weight = 5
+
+[[Languages.en.menu.main]]
+name = "Discourse"
+url = "discourse/"
+weight = 6
+
+
+# footer menu
+[[Languages.en.menu.footer]]
+name = "Contact"
+url = "contact"
+weight = 1
