@@ -83,8 +83,20 @@
 
 
 <!-- discourse -->
-<d-topics-list discourse-url="https://discourse.igelsociety.org" category="6" per-page="5"></d-topics-list>
-<script src="https://discourse.igelsociety.org/javascripts/embed-topics.js"></script>
+<!--d-topics-list discourse-url="https://discourse.igelsociety.org" category="6" per-page="5"></d-topics-list>
+<script src="https://discourse.igelsociety.org/javascripts/embed-topics.js"></script-->
+<div id='discourse-comments'></div>
+
+<script type="text/javascript">
+  DiscourseEmbed = { discourseUrl: 'http://discourse.igelsociety.org/',
+                      discourseEmbedUrl: 'http://igelsociety.org/' };
+  
+  (function() {
+    var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+    d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+  })();
+</script>
 
 <!-- twitter -->
 <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/IgelSociety" height="" data-widget-id="712011356296249344" data-chrome="noheader nofooter">Tweets by @IgelSociety</a>

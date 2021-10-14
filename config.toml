@@ -109,7 +109,7 @@ link = "membership/"
 [[params.social]]
 title = "twitter"
 icon = "fab fa-twitter" # fontawesome icon : https://fontawesome.com/icons
-link = "#"
+link = "https://twitter.com/IgelSociety"
 
 
 ################################### English language #####################################
