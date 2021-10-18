@@ -4,8 +4,8 @@ image: "images/logo.png"
 description: "meta description"
 location: "Orlando, United States"
 year: "2022"
-month: "July 14-16"
-duration: "July 14-16"
+month: "14-16 July"
+duration: ""
 fee: "tba"
 type: "upcoming" #[upcoming]
 readmore: true

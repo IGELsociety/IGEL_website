@@ -1,5 +1,5 @@
 ---
-title: "Scientific Study of Literature (SSOL)"
+title: "Events"
 description: "meta description"
 ---
 

@@ -13,12 +13,12 @@ IGEL sponsors publication of the journal Scientific Study of Literature (SSOL) t
 
 
 ### Editorial Board
-David Hanauer, Indiana University of Pennsylvania - General Editor
-Arthur Jacobs, Freie Universität Berlin - Associate Editor
-Melanie C. Green, University of Buffalo - Associate Editor
-Gerhard Lauer, Johannes Gutenberg-Universität Mainz - Associate Editor
-Paul Sopcák, MacEwan University - Assistant Editor
-Justin Nicholas, University of Wisconsin - Copy Editor
+- David Hanauer, Indiana University of Pennsylvania - General Editor
+- Arthur Jacobs, Freie Universität Berlin - Associate Editor
+- Melanie C. Green, University of Buffalo - Associate Editor
+- Gerhard Lauer, Johannes Gutenberg-Universität Mainz - Associate Editor
+- Paul Sopcák, MacEwan University - Assistant Editor
+- Justin Nicholas, University of Wisconsin - Copy Editor
 
 
 ### Related journals
