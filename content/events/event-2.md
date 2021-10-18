@@ -5,10 +5,10 @@ description: "meta description"
 location: "Siegen, Germany"
 year: "1987"
 month: "" # 30 April
-duration: "6 Month"
-fee: "Free"
+duration: ""
+fee: ""
 type: "past-conference" #[upcoming/past]
-readmore: true
+readmore: false
 ---
 
 ## About Event
