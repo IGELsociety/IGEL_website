@@ -46,7 +46,7 @@ Marloes Mak, Radboud University Nijmegen, The Netherlands
 
 {{< speaker img="images/caroline.jpg" >}}
 ##### Training School coordinator
-Caroline Rutsch, RWTH Aachen, Germany
+Caroline Kutsch, RWTH Aachen, Germany
 {{</ speaker >}}
 
 {{< speaker img="images/federico.jpg" >}}
