@@ -149,5 +149,7 @@ For more information on the two initiatives that are already running successfull
 - Franziska Hartung - Coordinator Multiple Labs project
 		
 
-### Newsletter Archive
+
+
+## Newsletter Archive
 This [link](https://sites.google.com/igelassoc.org/igel2018/home/recent-igel-newsletters) will redirect you to IGEL's old website, where an archive of our newsletters is kept for archiving purpose. If you are looking for updated information about events, publications, and the network of researchers doing empirical literary studies, you can visit our [Events](/events/) page and the [Discourse](/discourse/) platform.
