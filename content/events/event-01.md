@@ -9,6 +9,7 @@ duration: ""
 fee: "tba"
 type: "upcoming" #[upcoming]
 readmore: true
+weight: 1
 ---
 
 ## About Event
