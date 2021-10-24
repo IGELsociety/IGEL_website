@@ -28,7 +28,7 @@ Thus, our research coalition represents (and brings together) a wide range of to
 
 <h4>Members</h4>
 
-{{< card "images/members/member-1.jpg" >}}
+{{< card "images/paul.jpg" >}}
 #### Paul Sopčák
 Lecturer in the English Department and Academic Integrity Coordinator, MacEwan University, Edmonton, Canada.
 
