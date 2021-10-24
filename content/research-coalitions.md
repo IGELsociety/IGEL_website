@@ -457,7 +457,7 @@ bio
 
 <h4>Resources</h4>
 
-{{< video "https://vimeo.com/573080187" "Stories with benefits" >}}
+{{< youtube "https://vimeo.com/573080187" "Stories with benefits" >}}
 
 <h4>I’d like to become a member</h4>
 {{< button "Ask to join" "/contact">}}
