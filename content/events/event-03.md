@@ -1,5 +1,5 @@
 ---
-title: "GEL conference"
+title: "IGEL conference"
 image: "images/logo.png"
 description: "meta description"
 location: "Amsterdam, Netherlands"
@@ -9,7 +9,7 @@ duration: "6 Month"
 fee: "Free"
 type: "past-conference" #[upcoming/past]
 readmore: true
-weight: 3
+weight: 16
 ---
 
 ## About Event

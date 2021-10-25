@@ -1,5 +1,5 @@
 ---
-title: "GEL conference"
+title: "IGEL conference"
 image: "images/logo.png"
 description: "meta description"
 location: "Siegen, Germany"
@@ -9,7 +9,7 @@ duration: ""
 fee: ""
 type: "past-conference" #[upcoming/past]
 readmore: false
-weight: 2
+weight: 17
 ---
 
 ## About Event

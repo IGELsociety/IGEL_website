@@ -1,5 +1,5 @@
 ---
-title: "GEL conference"
+title: "IGEL conference"
 image: "images/logo.png"
 description: "meta description"
 location: "Torino, Italy"
@@ -9,7 +9,7 @@ duration: "6 Month"
 fee: "Free"
 type: "past-conference" #[upcoming/past]
 readmore: true
-weight: 15
+weight: 4
 ---
 
 ## About Event

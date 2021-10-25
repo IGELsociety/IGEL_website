@@ -1,5 +1,5 @@
 ---
-title: "GEL conference"
+title: "IGEL conference"
 image: "images/logo.png"
 description: "meta description"
 location: "Liverpool, United Kingdom"
@@ -9,7 +9,7 @@ duration: "6 Month"
 fee: "Free"
 type: "past-conference" #[upcoming/past]
 readmore: true
-weight: 18
+weight: 1
 ---
 
 ## About Event

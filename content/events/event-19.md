@@ -9,7 +9,7 @@ duration: "6 Month"
 fee: "Free"
 type: "past-training" #[upcoming/past]
 readmore: true
-weight: 19
+weight: 4
 ---
 
 ## About Event
