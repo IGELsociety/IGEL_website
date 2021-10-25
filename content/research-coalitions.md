@@ -430,7 +430,7 @@ Tragedy is broadly defined as a story genre that depicts protagonists who grappl
 
 <h4>Members</h4>
 
-{{< card "images/members/member-1.jpg" >}}
+{{< card "images/members/khoo.jpg" >}}
 #### Guan Soon Khoo
 Associate Professor of Instruction, University of Texas, Austin, USA.
 
