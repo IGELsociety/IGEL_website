@@ -9,7 +9,7 @@ duration: ""
 fee: ""
 type: "past-conference" #[upcoming/past]
 readmore: false
-weight: 0.1
+weight: 2
 ---
 
 ## About Event
