@@ -66,49 +66,35 @@ Frank has a background in literary theory and comparative literature. His resear
 
 
 <h4>Publications</h4>
-Paul Sopčák, Lecturer in the English Department and Academic Integrity Coordinator, MacEwan University, Edmonton, Canada
-
-Sopčák, P. (2007). “Creation from nothing”: a foregrounding study of James Joyce’s drafts for Ulysses. Language and Literature, 16(2), 183–196. Reprinted in M. Toyota (Ed.). Stylistics, Vol 4. New Delhi ; Thousand Oaks, California: SAGE Publications. DOI: 10.1177/0963947007075984.
-Salgaro, M., & Sopčák, P., (Eds.). (2018). Empirical Studies of Literariness: A Special Issue. Scientific Study of Literature, 8(1), in preparation.
-Sopčák, P. (2011). A numerically aided phenomenological study of existential reading. In F. Hakemulder (Ed.), De Stralende Lezer: Wetenschappelijk Onderzoek Naar De Invloed Van Het Lezen (pp. 123-152). Den Haag: Stichting Lezen.
-
-Davide Castiglione, Lecturer in English language and literature, Vilnius University, Lithuania
-
-Castiglione, D. (in press; estimated publication in September 2018), Difficulty in Poetry: a Stylistic and Processing Model. Palgrave Macmillan, London.
-Castiglione, D. (2017). Difficult poetry processing: Reading times and the narrativity hypothesis. Language and Literature, 26(2), 99-121. DOI: 0963947017704726
-Castiglione, D. (2013a). The channel of (mis)communication: Semantic and pragmatic deviances in two poems by Geoffrey Hill and Susan Howe. PALA conference proceedings.
-Castiglione, D. (2013b). The semantics of difficult poems: Deriving a checklist of linguistic phenomena. Journal of Literary Semantics, 42(1), 115-140.  DOI: 10.1515/jls-2013-0003
-
-Winfried Menninghaus, Director, Department of Language and Literature, Max Planck Institute for Empirical Aesthetics (Frankfurt am Main)
-
-Wallot, S., & Menninghaus, W. (2018). Ambiguity effects of rhyme and meter. Journal of Experimental Psychology: Learning, Memory, and Cognition. Advance online publication. http://dx.doi.org/10.1037/xlm0000557
-Hideyuki, H. & Menninghaus, W. (2018). The eye tracks the aesthetic appeal of sentences. Journal of Vision, 18(3), 19. https://doi.org/10.1167/18.3.19
-Wassiliwizky, E., Koelsch, S., Wagner, V., Jacobsen, T., & Menninghaus, W. (2017). The emotional power of poetry: Neural circuitry, psychophysiology and compositional principles. Social Cognitive and Affective Neuroscience, 12(8), 1229-1240. doi:10.1093/scan/nsx069
-Menninghaus, W., Wagner, V., Wassiliwizky, E., Jacobsen, T., & Knoop, C.A. (2017). The emotional and aesthetic powers of parallelistic diction. Poetics,  63, 47-59. DOI: 10.1016/j.poetic.2016.12.00
-Obermeier, C., Kotz, S. A., Jessen, S., Raettig, T., Koppenfels, M. von, & Menninghaus, W. (2016). Aesthetic appreciation of poetry correlates with ease of processing in event-related potentials. Cognitive, Affective, & Behavioral Neuroscience, 16(2), 362–373. http://doi.org/10.3758/s13415-015-0396-x
-Menninghaus W., Bohrn I., Knoop C., Kotz S., Schlotz W., Jacobs A. (2015). Rhetorical features facilitate prosodic processing while handicapping ease of semantic comprehension. Cognition, 143, 48-60. doi.org/10.1016/j.cognition.2015.05.026.
-Menninghaus, W., Bohrn, I. C., Altmann, U., Lubrich, O., & Jacobs, A. M. (2014). Sounds funny? Humor effects of phonological and prosodic figures of speech. Psychology of Aesthetics, Creativity, and the Arts, 8(1), 71–76. doi:10.1037/a0035309.
-
-Willie van Peer, Emeritus professor of Literature and Intercultural Hermeneutics, Ludwig Maximilian University in Munich, Germany
-
-van Peer, W. (1986). Stylistics and Psychology. Investigations of Foregrounding. London: Croom Helm.
-van Peer, W. (1990). The measurement of metre: Its cognitive and affective functions. Poetics 19, 259-275. 10.1016/0304-422X(90)90023-X
-van Peer, W. (1991). But what is literature? Toward a descriptive definition of literary texts (pp. 127-141). Roger D. Sell (Ed.) Literary Pragmatics. London / New York: Routledge.
-van Peer, W. (1996). Canon formation: Ideology or aesthetic quality? The British Journal of Aesthetics, 36(2), 97-108.
-van Peer, W., & Chatman, S. (2001). Introduction (pp. 1-13). In W. van Peer & S. Chatman (Eds.), New Perspectives on Narrative Perspective. Albany, NY: SUNY Press.
-Van Peer, W., & Hakemulder, F. (2006). Foregrounding (pp. 546-551). In K. Brown (Ed.), The Pergamon Encyclopaedia of Language and Linguisitics, Volume 4. Oxford: Elsevier.
-van Peer, W., & Nousi, A. (2006). What reading does to readers: Stereotypes, foregrounding, and language learning (pp. 181-193). In G. Watson & S. Zyngier (Eds.), Literature and Stylistics for Language Learners. London: Palgrave Macmillan.
-van Peer, W., Hakemulder, F., & Zyngier, S. (2007). Lines on feeling: Foregrounding, aesthetic appreciation, and meaning. Language and Literature, 16(2), 197-213. DOI: 10.1177/0963947007075985
-
-Frank Hakemulder, Assistant Professor, Department of Media and Culture Studies, Utrecht University, The Netherlands; Affiliated Full Professor at the Reading Center of Stavanger University, Norway
-
-Balint, K., Hakemulder, F., Kuijpers, M. Tan, E., & Doicaru,M. (2016). Reconceptualizing foregrounding: Identifying response strategies to deviation in absorbing narratives. Scientific Study of Literature, 6(2), 176-207. DOI: 10.1177/0963947007075985
-Zyngier, S., Hakemulder, F. & Van Peer, W. (2007). Complexity and foregrounding: In the eye of the beholder? Poetics Today, 28(4), 653–682. DOI: 10.1215/03335372-2007-011
-van Peer, W., Hakemulder, F., & Zyngier, S. (2007). Lines on feeling: Foregrounding, aesthetic appreciation, and meaning. Language and Literature, 16(2), 197-213. DOI: 10.1177/0963947007075985
-Hakemulder, F. (2007). Tracing foregrounding in responses to film. Language and Literature, 16, 125-139. DOI: 10.1177/0963947007075980
-Hakemulder, F. (2004) Foregrounding and its effects on readers’ perception. Discourse Processes, 38(2), 193-218. DOI: 10.1177/0963947007075980
-Hakemulder, F. (2008). The more you see, the more you get: How spectators use their limited capacity for attention in responses to formal aspects of film (pp. 332-352). In J. Auracher & W. van Peer (Eds.), New Beginnings in Literary Studies. Newcastle: Cambridge Scholars Publishing.
-Van Peer, W., & Hakemulder, F. (2006). Foregrounding (pp. 546-551). In K. Brown (Ed.), The Pergamon Encyclopaedia of Language and Linguisitics, Volume 4 (2nd Edition). Oxford: Elsevier.
+* Salgaro, M., & Sopčák, P., (Eds.). (2018). Empirical Studies of Literariness: A Special Issue. *Scientific Study of Literature*, 8(1), in preparation.
+* Sopčák, P. (2011). A numerically aided phenomenological study of existential reading. In F. Hakemulder (Ed.), *De Stralende Lezer: Wetenschappelijk Onderzoek Naar De Invloed Van Het Lezen* (pp. 123-152). Den Haag: Stichting Lezen.
+* Wallot, S., & Menninghaus, W. (2018). Ambiguity effects of rhyme and meter. *Journal of Experimental Psychology: Learning, Memory, and Cognition*. Advance online publication. http://dx.doi.org/10.1037/xlm0000557
+* Hideyuki, H. & Menninghaus, W. (2018). The eye tracks the aesthetic appeal of sentences. *Journal of Vision*, 18(3), 19. https://doi.org/10.1167/18.3.19
+* Castiglione, D. (2018), *Difficulty in Poetry: a Stylistic and Processing Model*. Palgrave Macmillan, London.
+* Castiglione, D. (2017). Difficult poetry processing: Reading times and the narrativity hypothesis. *Language and Literature*, 26(2), 99-121. DOI: 0963947017704726
+* Wassiliwizky, E., Koelsch, S., Wagner, V., Jacobsen, T., & Menninghaus, W. (2017). The emotional power of poetry: Neural circuitry, psychophysiology and compositional principles. *Social Cognitive and Affective Neuroscience*, 12(8), 1229-1240. doi:10.1093/scan/nsx069
+* Menninghaus, W., Wagner, V., Wassiliwizky, E., Jacobsen, T., & Knoop, C.A. (2017). The emotional and aesthetic powers of parallelistic diction. *Poetics*,  63, 47-59. DOI: 10.1016/j.poetic.2016.12.00
+* Obermeier, C., Kotz, S. A., Jessen, S., Raettig, T., Koppenfels, M. von, & Menninghaus, W. (2016). Aesthetic appreciation of poetry correlates with ease of processing in event-related potentials. *Cognitive, Affective, & Behavioral Neuroscience*, 16(2), 362–373. http://doi.org/10.3758/s13415-015-0396-x
+* Balint, K., Hakemulder, F., Kuijpers, M. Tan, E., & Doicaru,M. (2016). Reconceptualizing foregrounding: Identifying response strategies to deviation in absorbing narratives. *Scientific Study of Literature*, 6(2), 176-207. DOI: 10.1177/0963947007075985
+* Menninghaus W., Bohrn I., Knoop C., Kotz S., Schlotz W., Jacobs A. (2015). Rhetorical features facilitate prosodic processing while handicapping ease of semantic comprehension. *Cognition*, 143, 48-60. doi.org/10.1016/j.cognition.2015.05.026.
+* Menninghaus, W., Bohrn, I. C., Altmann, U., Lubrich, O., & Jacobs, A. M. (2014). Sounds funny? Humor effects of phonological and prosodic figures of speech. *Psychology of Aesthetics, Creativity, and the Arts*, 8(1), 71–76. doi:10.1037/a0035309.
+* Castiglione, D. (2013a). The channel of (mis)communication: Semantic and pragmatic deviances in two poems by Geoffrey Hill and Susan Howe. *PALA conference proceedings*.
+* Castiglione, D. (2013b). The semantics of difficult poems: Deriving a checklist of linguistic phenomena. *Journal of Literary Semantics*, 42(1), 115-140.  DOI: 10.1515/jls-2013-0003
+* Hakemulder, F. (2008). The more you see, the more you get: How spectators use their limited capacity for attention in responses to formal aspects of film (pp. 332-352). In J. Auracher & W. van Peer (Eds.), *New Beginnings in Literary Studies*. Newcastle: Cambridge Scholars Publishing.
+* van Peer, W., Hakemulder, F., & Zyngier, S. (2007). Lines on feeling: Foregrounding, aesthetic appreciation, and meaning. *Language and Literature*, 16(2), 197-213. DOI: 10.1177/0963947007075985
+* Zyngier, S., Hakemulder, F. & Van Peer, W. (2007). Complexity and foregrounding: In the eye of the beholder? *Poetics Today*, 28(4), 653–682. DOI: 10.1215/03335372-2007-011
+* van Peer, W., Hakemulder, F., & Zyngier, S. (2007). Lines on feeling: Foregrounding, aesthetic appreciation, and meaning. *Language and Literature*, 16(2), 197-213. DOI: 10.1177/0963947007075985
+* Hakemulder, F. (2007). Tracing foregrounding in responses to film. *Language and Literature*, 16, 125-139. DOI: 10.1177/0963947007075980
+* Sopčák, P. (2007). “Creation from nothing”: a foregrounding study of James Joyce’s drafts for Ulysses. Language and Literature, 16(2), 183–196. Reprinted in M. Toyota (Ed.). *Stylistics*, Vol 4. New Delhi ; Thousand Oaks, California: SAGE Publications. DOI: 10.1177/0963947007075984.
+* van Peer, W., & Hakemulder, F. (2006). Foregrounding (pp. 546-551). In K. Brown (Ed.), *The Pergamon Encyclopaedia of Language and Linguisitics*, Volume 4 (2nd Edition). Oxford: Elsevier.
+* van Peer, W., & Hakemulder, F. (2006). Foregrounding (pp. 546-551). In K. Brown (Ed.), *The Pergamon Encyclopaedia of Language and Linguisitics*, Volume 4. Oxford: Elsevier.
+* van Peer, W., & Nousi, A. (2006). What reading does to readers: Stereotypes, foregrounding, and language learning (pp. 181-193). In G. Watson & S. Zyngier (Eds.), *Literature and Stylistics for Language Learners*. London: Palgrave Macmillan.
+* Hakemulder, F. (2004) Foregrounding and its effects on readers’ perception. *Discourse Processes*, 38(2), 193-218. DOI: 10.1177/0963947007075980
+* van Peer, W., & Chatman, S. (2001). Introduction (pp. 1-13). In W. van Peer & S. Chatman (Eds.), *New Perspectives on Narrative Perspective*. Albany, NY: SUNY Press.
+* van Peer, W. (1996). Canon formation: Ideology or aesthetic quality? *The British Journal of Aesthetics*, 36(2), 97-108.
+* van Peer, W. (1991). But what is literature? Toward a descriptive definition of literary texts (pp. 127-141). Roger D. Sell (Ed.) *Literary Pragmatics*. London / New York: Routledge.
+* van Peer, W. (1990). The measurement of metre: Its cognitive and affective functions. *Poetics* 19, 259-275. 10.1016/0304-422X(90)90023-X
+* van Peer, W. (1986). *Stylistics and Psychology. Investigations of Foregrounding*. London: Croom Helm.
 
 
 <h4>Resources</h4>
@@ -616,7 +602,7 @@ Director, Centre for Research into Reading, Literature and Society (CRILS), Univ
 WWith Dr. Josie Billington, Philip left the Department of English in 2010 to form a centre within the Institute of Psychology, Health and Society that supports collaboration with psychologists and health professionals (as well as The Reader organization) in studies of the benefits of literary reading. He is general editor of the Oxford University Press paperback series entitled *The Literary Agenda*, which addresses future directions in literary studies. His most recent research includes studies of brain-imaging (fMRI and EEG) and language analysis of readers' personal and autobiographical responses (*Reading in Action*; forthcoming).
 {{</ card >}}
 
-{< card "images/members/member-1.jpg" >}}
+{{< card "images/members/member-1.jpg" >}}
 #### Arthur Jacobs
 Professor of Experimental and Neurocognitive Psychology, Dahlem Institute for Neuroimaging of Emotion, Freie Universität Berlin (FUB), Berlin, Germany.
 
@@ -632,7 +618,7 @@ WEmily's research hovers between cognitive literary studies and the health human
 (Photo by Sybilla Pereira)
 {{</ card >}}
 
-{< card "images/members/member-1.jpg" >}}
+{{< card "images/members/member-1.jpg" >}}
 #### Don Kuiken
 Professor, Department of Psychology, University of Alberta, Edmonton, Canada.
 
@@ -706,7 +692,7 @@ Regardless of which date for the origin of empirical studies of literature is co
 Dept. of Foreign Languages and Literatures, University of Verona, Verona, Italy.
 {{</ card >}}
 
-{{< card "images/members/salgaro.jpg" >}}
+{{< card "images/members/member-1.jpg" >}}
 #### Christoph Hoffmann
 Professor of Science Studies, University of Luzern, Switzerland.
 {{</ card >}}
