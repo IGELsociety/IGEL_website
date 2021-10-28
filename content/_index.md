@@ -4,7 +4,7 @@ title: IGEL
 ---
 # International Society for the Empirical Study of Literature
 
-{{< news color="#AFD5AA" >}}
+{{< news color="#00cc5f" >}}
 
 ### I am a special news
 
