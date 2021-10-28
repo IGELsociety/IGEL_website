@@ -66,6 +66,7 @@ Frank has a background in literary theory and comparative literature. His resear
 
 
 <h4>Publications</h4>
+
 * Salgaro, M., & Sopčák, P., (Eds.). (2018). Empirical Studies of Literariness: A Special Issue. *Scientific Study of Literature*, 8(1), in preparation.
 * Sopčák, P. (2011). A numerically aided phenomenological study of existential reading. In F. Hakemulder (Ed.), *De Stralende Lezer: Wetenschappelijk Onderzoek Naar De Invloed Van Het Lezen* (pp. 123-152). Den Haag: Stichting Lezen.
 * Wallot, S., & Menninghaus, W. (2018). Ambiguity effects of rhyme and meter. *Journal of Experimental Psychology: Learning, Memory, and Cognition*. Advance online publication. http://dx.doi.org/10.1037/xlm0000557
@@ -362,6 +363,7 @@ Professor Oatley earned his PhD at University College London and held professors
 {{</ card >}}
 
 <h4>Publications</h4>
+
 * Rain, M. & Mar. R. A. (in press). Adult attachment and engagement with fictional characters. *Journal of Social and Personal Relationships*.
 * Mumper, M. L., & Gerrig, R. J. (2021). The Representation of Emotion Inferences. *Discourse Processes*, 1-22.
 * Lenhart, J., Dangel, S. & Richter, T. (2021). The relationship between lifetime book reading and empathy in adolescents: Examining transportability as a moderator. *Psychology of Aesthetics, Creativity, and the Arts*. https://doi.org/10.1037/aca0000341
@@ -626,6 +628,7 @@ Don specializes in the study of dreams, aesthetics, and phenomenology. He has pu
 {{</ card >}}
 
 <h4>Publications</h4>
+
 *	Bruhn, M. J. (in press). ‘Poetry is passion’: Lyrical balladry as affective narratology. In J. Faflak & R. Sha (Eds.), *Romanticism and Consciousness Revisited*. Edinburgh University Press.
 *	Bruhn, M. J. (2021). Philosophy of science, methodology, and theory development in empirical studies of literary experience. In D. Kuiken & A. Jacobs (Eds.), *Handbook of Empirical Literary Studies* (487-513). Berlin: Walter de Gruyter.
 *	Davis, P. (2021). Not straightforward: Characteristics of the psychology of grammar in the Victorian realist novel. In D. Tyler (Ed.), *On Style in Victorian Fiction* (pp. 41-57). Cambridge University Press.
@@ -699,6 +702,7 @@ Professor of Science Studies, University of Luzern, Switzerland.
 
 
 <h4>Publications</h4>
+
 * Sopcak, P., Salgaro, M. & Herrmann, J.B.  (Eds.). (2016). Transdisciplinary Approaches to Literature and Empathy. Special Issue, Scientific Study of Literature, 6(1).
 * Salgaro, M., Vangi, M. (Eds.) (2016). Mythos Rhythmus. Wissenschaft. Kunst und Literatur um 1900. Stuttgart: Franz Steiner Verlag. 
 * Salgaro, M. (2015). How literary can literariness be? Methodological problems in the study of foregrounding. Scientific Study of Literature 5:2, 229–249. doi10.1075/ssol.5.2.06sal 
@@ -708,10 +712,6 @@ Professor of Science Studies, University of Luzern, Switzerland.
 * Salgaro M. (2009). The Text as a Manual. Some Reflections on the Concept of Language from a Neuroaesthetic Perspective. Journal of Literary Theory 3:1, 155–166.
 * Hoffmann, C. (2006). Unter Beobachtung: Naturforschung in der Zeit der Sinnesapparate. Göttingen: Wallstein Verlag.
 * Hoffmann, C. (1997). „Der Dichter am Apparat“: Medientechnik, Experimentalpsychologie und Texte Robert Musils 1899-1942. München: Wilhelm Fink Verlag.
-
-
-<h4>Resources</h4>
-
 
 
 <h4>I’d like to become a member</h4>
