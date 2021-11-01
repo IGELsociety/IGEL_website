@@ -185,13 +185,13 @@ Stefan holds an M.A. (Magister Artium) in General Linguistics and British Studie
 * Computer Analysis of Metrical Structure
 
 **Metricalizer** (Bobenhausen & Hammerich, 2015). Metricalizer analyzes any (German) poem in its metrical structure. In doing so, it also provides information about so-called "metrical complexity."
-  * [Metricalizer](https://metricalizer.de/de/)
+    * [Metricalizer](https://metricalizer.de/de/)
 
 * Manual and Automated Data Analyses
 
 **CLARIN-D**. CLARIN-D provides a research infrastructure that helps researchers in the Humanities, Cultural and Social Sciences with manual and automated analyses of their own and re-used research data. See in particular the MAUS-tools that provide automatic text-alignment to speech.
-  * [CLARIN-D](https://www.clarin-d.net/en/)
-  * [MAUS](https://clarin.phonetik.uni-muenchen.de/BASWebServices/interface/WebMAUSBasic)
+    * [CLARIN-D](https://www.clarin-d.net/en/)
+    * [MAUS](https://clarin.phonetik.uni-muenchen.de/BASWebServices/interface/WebMAUSBasic)
 
 
 <h4>I’d like to become a member</h4>
