@@ -72,25 +72,25 @@ Frank has a background in literary theory and comparative literature. His resear
 * Wallot, S., & Menninghaus, W. (2018). Ambiguity effects of rhyme and meter. *Journal of Experimental Psychology: Learning, Memory, and Cognition*. Advance online publication. http://dx.doi.org/10.1037/xlm0000557
 * Hideyuki, H. & Menninghaus, W. (2018). The eye tracks the aesthetic appeal of sentences. *Journal of Vision*, 18(3), 19. https://doi.org/10.1167/18.3.19
 * Castiglione, D. (2018), *Difficulty in Poetry: a Stylistic and Processing Model*. Palgrave Macmillan, London.
-* Castiglione, D. (2017). Difficult poetry processing: Reading times and the narrativity hypothesis. *Language and Literature*, 26(2), 99-121. DOI: 0963947017704726
+* Castiglione, D. (2017). Difficult poetry processing: Reading times and the narrativity hypothesis. *Language and Literature*, 26(2), 99-121. https://doi.org/0963947017704726
 * Wassiliwizky, E., Koelsch, S., Wagner, V., Jacobsen, T., & Menninghaus, W. (2017). The emotional power of poetry: Neural circuitry, psychophysiology and compositional principles. *Social Cognitive and Affective Neuroscience*, 12(8), 1229-1240. doi:10.1093/scan/nsx069
-* Menninghaus, W., Wagner, V., Wassiliwizky, E., Jacobsen, T., & Knoop, C.A. (2017). The emotional and aesthetic powers of parallelistic diction. *Poetics*,  63, 47-59. DOI: 10.1016/j.poetic.2016.12.00
+* Menninghaus, W., Wagner, V., Wassiliwizky, E., Jacobsen, T., & Knoop, C.A. (2017). The emotional and aesthetic powers of parallelistic diction. *Poetics*,  63, 47-59. https://doi.org/10.1016/j.poetic.2016.12.00
 * Obermeier, C., Kotz, S. A., Jessen, S., Raettig, T., Koppenfels, M. von, & Menninghaus, W. (2016). Aesthetic appreciation of poetry correlates with ease of processing in event-related potentials. *Cognitive, Affective, & Behavioral Neuroscience*, 16(2), 362–373. http://doi.org/10.3758/s13415-015-0396-x
-* Balint, K., Hakemulder, F., Kuijpers, M. Tan, E., & Doicaru,M. (2016). Reconceptualizing foregrounding: Identifying response strategies to deviation in absorbing narratives. *Scientific Study of Literature*, 6(2), 176-207. DOI: 10.1177/0963947007075985
+* Balint, K., Hakemulder, F., Kuijpers, M. Tan, E., & Doicaru,M. (2016). Reconceptualizing foregrounding: Identifying response strategies to deviation in absorbing narratives. *Scientific Study of Literature*, 6(2), 176-207. https://doi.org/10.1177/0963947007075985
 * Menninghaus W., Bohrn I., Knoop C., Kotz S., Schlotz W., Jacobs A. (2015). Rhetorical features facilitate prosodic processing while handicapping ease of semantic comprehension. *Cognition*, 143, 48-60. doi.org/10.1016/j.cognition.2015.05.026.
 * Menninghaus, W., Bohrn, I. C., Altmann, U., Lubrich, O., & Jacobs, A. M. (2014). Sounds funny? Humor effects of phonological and prosodic figures of speech. *Psychology of Aesthetics, Creativity, and the Arts*, 8(1), 71–76. doi:10.1037/a0035309.
 * Castiglione, D. (2013a). The channel of (mis)communication: Semantic and pragmatic deviances in two poems by Geoffrey Hill and Susan Howe. *PALA conference proceedings*.
-* Castiglione, D. (2013b). The semantics of difficult poems: Deriving a checklist of linguistic phenomena. *Journal of Literary Semantics*, 42(1), 115-140.  DOI: 10.1515/jls-2013-0003
+* Castiglione, D. (2013b). The semantics of difficult poems: Deriving a checklist of linguistic phenomena. *Journal of Literary Semantics*, 42(1), 115-140.  https://doi.org/10.1515/jls-2013-0003
 * Hakemulder, F. (2008). The more you see, the more you get: How spectators use their limited capacity for attention in responses to formal aspects of film (pp. 332-352). In J. Auracher & W. van Peer (Eds.), *New Beginnings in Literary Studies*. Newcastle: Cambridge Scholars Publishing.
-* van Peer, W., Hakemulder, F., & Zyngier, S. (2007). Lines on feeling: Foregrounding, aesthetic appreciation, and meaning. *Language and Literature*, 16(2), 197-213. DOI: 10.1177/0963947007075985
-* Zyngier, S., Hakemulder, F. & Van Peer, W. (2007). Complexity and foregrounding: In the eye of the beholder? *Poetics Today*, 28(4), 653–682. DOI: 10.1215/03335372-2007-011
-* van Peer, W., Hakemulder, F., & Zyngier, S. (2007). Lines on feeling: Foregrounding, aesthetic appreciation, and meaning. *Language and Literature*, 16(2), 197-213. DOI: 10.1177/0963947007075985
-* Hakemulder, F. (2007). Tracing foregrounding in responses to film. *Language and Literature*, 16, 125-139. DOI: 10.1177/0963947007075980
-* Sopčák, P. (2007). “Creation from nothing”: a foregrounding study of James Joyce’s drafts for Ulysses. Language and Literature, 16(2), 183–196. Reprinted in M. Toyota (Ed.). *Stylistics*, Vol 4. New Delhi ; Thousand Oaks, California: SAGE Publications. DOI: 10.1177/0963947007075984.
+* van Peer, W., Hakemulder, F., & Zyngier, S. (2007). Lines on feeling: Foregrounding, aesthetic appreciation, and meaning. *Language and Literature*, 16(2), 197-213. https://doi.org/10.1177/0963947007075985
+* Zyngier, S., Hakemulder, F. & Van Peer, W. (2007). Complexity and foregrounding: In the eye of the beholder? *Poetics Today*, 28(4), 653–682. https://doi.org/10.1215/03335372-2007-011
+* van Peer, W., Hakemulder, F., & Zyngier, S. (2007). Lines on feeling: Foregrounding, aesthetic appreciation, and meaning. *Language and Literature*, 16(2), 197-213. https://doi.org/10.1177/0963947007075985
+* Hakemulder, F. (2007). Tracing foregrounding in responses to film. *Language and Literature*, 16, 125-139. https://doi.org/10.1177/0963947007075980
+* Sopčák, P. (2007). “Creation from nothing”: a foregrounding study of James Joyce’s drafts for Ulysses. Language and Literature, 16(2), 183–196. Reprinted in M. Toyota (Ed.). *Stylistics*, Vol 4. New Delhi ; Thousand Oaks, California: SAGE Publications. https://doi.org/10.1177/0963947007075984.
 * van Peer, W., & Hakemulder, F. (2006). Foregrounding (pp. 546-551). In K. Brown (Ed.), *The Pergamon Encyclopaedia of Language and Linguisitics*, Volume 4 (2nd Edition). Oxford: Elsevier.
 * van Peer, W., & Hakemulder, F. (2006). Foregrounding (pp. 546-551). In K. Brown (Ed.), *The Pergamon Encyclopaedia of Language and Linguisitics*, Volume 4. Oxford: Elsevier.
 * van Peer, W., & Nousi, A. (2006). What reading does to readers: Stereotypes, foregrounding, and language learning (pp. 181-193). In G. Watson & S. Zyngier (Eds.), *Literature and Stylistics for Language Learners*. London: Palgrave Macmillan.
-* Hakemulder, F. (2004) Foregrounding and its effects on readers’ perception. *Discourse Processes*, 38(2), 193-218. DOI: 10.1177/0963947007075980
+* Hakemulder, F. (2004) Foregrounding and its effects on readers’ perception. *Discourse Processes*, 38(2), 193-218. https://doi.org/10.1177/0963947007075980
 * van Peer, W., & Chatman, S. (2001). Introduction (pp. 1-13). In W. van Peer & S. Chatman (Eds.), *New Perspectives on Narrative Perspective*. Albany, NY: SUNY Press.
 * van Peer, W. (1996). Canon formation: Ideology or aesthetic quality? *The British Journal of Aesthetics*, 36(2), 97-108.
 * van Peer, W. (1991). But what is literature? Toward a descriptive definition of literary texts (pp. 127-141). Roger D. Sell (Ed.) *Literary Pragmatics*. London / New York: Routledge.
@@ -180,16 +180,14 @@ Stefan holds an M.A. (Magister Artium) in General Linguistics and British Studie
 * Scharinger, M. (2009). Minimal representations of alternating vowels. *Lingua*, 119(10), 1414-1425. https://doi.org/10.1016/j.lingua.2007.12.009
 
 
-<h4>Resources</h4>
+<h6>Computer Analysis of Metrical Structure</h6>
 
-* Computer Analysis of Metrical Structure
-
-**Metricalizer** (Bobenhausen & Hammerich, 2015). Metricalizer analyzes any (German) poem in its metrical structure. In doing so, it also provides information about so-called "metrical complexity."
+* **Metricalizer** (Bobenhausen & Hammerich, 2015). Metricalizer analyzes any (German) poem in its metrical structure. In doing so, it also provides information about so-called "metrical complexity."
     * [Metricalizer](https://metricalizer.de/de/)
 
-* Manual and Automated Data Analyses
+<h6>Manual and Automated Data Analyses</h6>
 
-**CLARIN-D**. CLARIN-D provides a research infrastructure that helps researchers in the Humanities, Cultural and Social Sciences with manual and automated analyses of their own and re-used research data. See in particular the MAUS-tools that provide automatic text-alignment to speech.
+* **CLARIN-D**. CLARIN-D provides a research infrastructure that helps researchers in the Humanities, Cultural and Social Sciences with manual and automated analyses of their own and re-used research data. See in particular the MAUS-tools that provide automatic text-alignment to speech.
     * [CLARIN-D](https://www.clarin-d.net/en/)
     * [MAUS](https://clarin.phonetik.uni-muenchen.de/BASWebServices/interface/WebMAUSBasic)
 
@@ -350,9 +348,333 @@ Berenike applies computational and reader-response approaches to the study of li
 * Steen, G. J., Dorst, A. G., Herrmann, J. B., Kaal, A. A., Krennmayr, T., & Pasma, T. (2010). A method for linguistic metaphor identification: From MIP to MIPVU. *Converging Evidence in Language and Communication Research*, 14. Amsterdam: John Benjamins.
 
 
+<h4>I’d like to become a member</h4>
+{{< button "Ask to join" "/contact">}}
+
+
+## Modes of Reading Engagement
+
+### Embodied Reading (Simulation, Imagery) 
+
+<h4>Abstract</h4>
+
+Readers experience a number of sensations during reading. We do not – or do not only – process words and sentences in a detached, abstract manner. Instead we can “perceive” what we read about. We see descriptions of scenery. We feel what characters feel. Perhaps we hear the sounds in a story. These sensations tend to be grouped under the umbrella terms 'mental simulation' and ‘mental imagery’.
+
+In this chapter we will give an overview of empirical research on the role of mental simulation during literary reading. We will discuss what mental simulation is, and how it relates to mental imagery. Moreover, we investigate when, under what circumstances mental simulation occurs during literature reading. Finally, we ask what the effect is that mental simulation has on the literary reader’s experience. We will also illustrate the (online) methods used in studying mental simulation, as well as unresolved questions in this field.
+
+<h4>Members</h4>
+
+{{< card "images/members/member-1.jpg" >}}
+#### Anežka Kuzmičová
+Department of Czech Language and Theory of Communication, Charles University, Prague, Czech Republic.
+
+Anežka studies reading as cognitive process, embodied experience, and situated practice. Her current research is divided between three interconnected topics: (a) the role of the physical environment in reading; (b) the distinctive text experiences afforded by digital devices, such as digital audiobooks and smart mobile phones; (c) the relationships between text properties, personal variables, and imaginative/empathic reader response. Her work is interdisciplinary, empirical-theoretical, and largely collaborative. Anežka has produced numerous articles in which she combined the framework of embodied cognition with text-linguistic and aesthetic approaches, elaborating a model and typology of readers’ mental imagery in the reading of literary narrative. The model is currently under empirical testing.
+{{</ card >}}
+
+{{< card "images/members/member-1.jpg" >}}
+#### Erin M. McTigue
+Researcher and Associate Professor, National Centre for Reading Education and Reading Research, Stavanger, Norway.
+
+Erin's primary research areas reside in children’s literacy development, including (a) readers’ motivation, (b) literature for promoting empathy, and (c) disciplinary literacy, particularly the use of visuals in science. She has authored numerous journal articles, book chapters, and conference proceedings. Previously, Erin was a classroom teacher, a reading specialist, and an Associate Professor at Texas A&M University, where she taught graduate courses in assessment, disciplinary literacy and directed the TAMU Reading Clinic.  In relation to reading-concurrent embodiment (simulations, imagery), Erin has produced theoretical and empirical work on the Dual Coding Theory of cognition as applied to reading, designed visualization pedagogies for young readers, and investigated the link between visual literacy and learning.
+{{</ card >}}
+
+{{< card "images/members/member-1.jpg" >}}
+#### Anne Mangen
+Professor of Literacy at the National Centre for Reading Education and Reading Research, Stavanger, Norway.
+
+Anne's primary research is related to the effects and implications of digitization for reading and literacy, e.g. comparing reading of a variety of texts on paper and on different kinds of screen devices (tablets, computers, e-readers). Methodologically, she has experience using rating scales and measures of cognitive aspects of reading (recall, comprehension), and some experience with eye tracking technology and video data. In relation to reading-concurrent embodiment (simulations, imagery), she is currently working on an experimental study of whether different narrative styles induce different types of imagery as predicted by Kuzmičová’s (2014) phenomenological typology. 
+{{</ card >}}
+
+<h4>Publications</h4>
+
+* Burke, M., Kuzmičová, A., Mangen, A., & Schilhab, T. (2016). Empathy at the confluence of neuroscience and empirical literary studies. *Scientific Study of Literature* 6(1): 6–41. https://doi.org/10.1075/ssol.6.1.03bur.
+* Kuzmičová, A. (2016). Does it matter where you read? Situating narrative in physical environment. *Communication Theory* 26(3): 290–308. https://doi.org/10.1111/comt.12084.
+* Kuzmičová, A. (2014). Literary narrative and mental imagery: a view from embodied cognition. Style 48(3): 275–293.
+* Esrock, E., & Kuzmičová, A. (2014). Visual imagery in reading. In M. Kelly (ed.), *Encyclopedia of Aesthetics: Second Edition*. Oxford: Oxford University Press. Vol. 3. 416–420.
+* Kuzmičová, A. (2013). *Mental Imagery in the Experience of Literary Narrative: Views from Embodied Cognition* (diss.). Stockholm: Stockholm University. 177p. https://doi.org/10.13140/RG.2.2.30990.77128
+* Kuzmičová, A. (2013). Outer vs. inner reverberations: verbal auditory imagery and meaning-making in literary narrative. *Journal of Literary Theory* 7(1-2): 111–134. https://doi.org/10.1515/jlt-2013-0005.
+* Kuzmičová, A. (2012). Fidelity without mimesis: mental imagery from visual description. In G. Currie, P. Koťátko, M. Pokorný (eds.), *Mimesis: Metaphysics, Cognition, Pragmatics*. London: College Publications. 273–315.
+* Kuzmičová, A. (2012). Presence in the reading of literary narrative: a case for motor enactment. *Semiotica* 189(1/4): 23–48. https://doi.org/10.1515/semi.2011.071.
+*  Mangen, A., & Schilhab T. (2012). An Embodied view of Reading: Theoretical Considerations, Empirical Findings, and Educational Implications. In: Matre, S., & Skaftun, A. (eds) *Skriv! Les!* Trondheim: Akademika, pp. 285–300.
+* Sadoski, M., McTigue, E., & Paivio, A. (2012). A Dual Coding Theoretical Model of decoding in reading: Subsuming the LaBerge and Samuels Model. *Reading Psychology* 33(5): 465–496. 
+*  McTigue, E. M. (2010). Teaching young readers imagery in storytelling: What color is the monkey? *The Reading Teacher* 64(1): 53–56.
+*  McTigue, E. M. & Slough, S. (2010). Student-accessible science texts: Elements of design. *Reading Psychology* 31(3): 213–227.
+*  McTigue, E. M. (2009). Does “Multimedia Learning Theory” extend to middle school*  students? *Contemporary Educational Psychology* 34(2): 143–153.
+
+<h4>I’d like to become a member</h4>
+{{< button "Ask to join" "/contact">}}
+
+
+### Constructing Inferences (Situation Models)
+
+<h4>Abstract</h4>
+
+Theories of text and discourse comprehension indicate that generating inferences is a critical part of forming a coherent mental model of what we read. However, most of the work in this field has investigated the reading of simple narratives or expository text. This coalition represents the growing interest in the inferential processes that occur when people engage authentic fiction, literature, or other media (e.g., television, film, graphic novels). 
+
+Research in this area has emerged from scholars in literature, linguistics, cognitive psychology, education, and learning science. This research has explored (1) the types of inferences that are generated when reading literature, (2) the processes involved in the construction of these inferences, and (3) how these inferences influence literary comprehension, learning, and experience. It has demonstrated that reading literary works relies on both domain-general and discipline-specific processes, and the amount and types of inferences that are generated are dependent on complex interactions between the text, task, and reader. 
+
+The best means of capturing and evaluating literary-specific inferential processes as they unfold during and after reading is still an ongoing empirical question. Thus far, the research has been dominated by open-ended assessments such as think-aloud protocols and post-reading essays, but other work has employed reading times and recognition tests. The aims of this area of work are to refine and expand theory as well as to advance classroom practices.
+
+<h4>Members</h4>
+
+{{< card "images/members/member-1.jpg" >}}
+#### Kathryn S. McCarthy
+Assistant Professor, Department of Learning Sciences, Georgia State University, USA.
+
+Dr. McCarthy earned her degree in cognitive psychology from the University of Illinois at Chicago and completed a postdoc at Arizona State University. Her research focuses on discipline-specific reading comprehension with emphasis in the areas of literature and science. Katie has published theoretical and empirical papers on the types of inferences involved in literary reading and processes necessary to construct them. She is also active in the development and evaluation of activities and interventions that promote successful literary reading. More recently, she has explored computational approaches that leverage natural language processing, machine learning, and dynamical systems theory to model literary comprehension. 
+{{</ card >}}
+
+{{< card "images/members/member-1.jpg" >}}
+#### William S. Horton
+Associate Professor, Department of Psychology, Northwestern University, USA.
+
+Dr. Horton received his Ph.D. in cognitive psychology from the University of Chicago in 1999. After postdoctoral positions at Stony Brook University and Georgia Institute of Technology, in 2005 he joined the faculty of the Psychology department at Northwestern University, where he is now Associate Professor and current Head of the Cognitive area. He also a member of the Program in Cognitive Science at Northwestern and faculty affiliate of the Linguistics department. He has served as a Member of the Governing Board of the Society for Text and Discourse and is on the editorial board of the Society journal, *Discourse Processes*. Dr. Horton’s research focuses on issues in pragmatics in language use in both spoken and written contexts. He has published on the role of imagery in language comprehension, on readers’ inferences about the socio-pragmatic consequences of figurative language use in narratives, and on how affective appraisals can facilitate literary interpretation. He is also interested in cognitive models of theory of mind and the relationships between mental state inferences and literary reading. 
+{{</ card >}}
+
+{{< card "images/members/member-1.jpg" >}}
+#### Sarah Levine
+Assistant Professor, Stanford University, USA.
+
+Dr. Levine’s research focuses on the teaching and learning of literary interpretation in under-resourced urban high schools, with an emphasis on the links between in- and out-of-school interpretive practices. She is especially interested in the role of affect and emotion in interpretive reading, and ways that affect and emotion can play a more significant role in classroom reading. Before academia, Dr. Levine taught secondary English at a Chicago public school. Her primary goal as teacher and researcher is to help shape teaching and learning in secondary English so that literary reading can be the rich, transactional experience it was meant to be. Dr. Levine studies the effects of "affective evaluation" on literary interpretation, looking at ways that interpretation of authorial tone and identification of individual judgments and affective responses can support inexperienced literary readers in engaging in interpretation.
+{{</ card >}}
+
+{{< card "images/members/member-1.jpg" >}}
+#### Joseph Magliano
+Professor of Learning Sciences, Georgia State University, USA.
+
+Joseph Magliano's research focuses on how people understand what they read and watch. He is interested in understanding the mental processes that support comprehension and the nature of memory representations that we create for events depicted in text and film. He is also interested in developing new ways to detect struggling readers and help them become successful comprehenders.
+{{</ card >}}
+
+<h4>Publications</h4>
+
+* Levine, S.(2018). Using Everyday Language to Support Students in Constructing Thematic Interpretations. *Journal of the Learning Sciences* 28: 1-31.
+* Levine, S., Hall, A., Goldman, S., Lee, C.D. (2018). Design principles for instruction built on literary ways of knowing. In Nachowitz, M., Wilcox, K. (Eds.), *Literacy in Secondary English/Language Arts Classrooms: Bridging the Gap to College and Career* (invited).
+* McCarthy, K. S., Kopp, K. J., Allen, L. K., & McNamara, D. S. (2018). Methods of studying text: Memory, comprehension, and learning. In H. Otani & B. Schwarz (Eds.), *Handbook of Research Methods in Human Memory*. New York, NY: Routledge.
+* McCarthy, K. S. & Goldman, S. R. (2017). Constructing interpretive inferences about literary text: The role of domain-specific knowledge. *Learning and Instruction*. https://doi.org/10.1016/j.learninstruc.2017.12.004 
+* Balyan, R., McCarthy, K. S., & McNamara, D. S. (2017). Combining machine learning and natural language processing to assess literary text comprehension. In X. Hu, T. Barnes, A. Hershkovitz & L. Paquette (Eds.) *Proceedings of the 10thInternational Conference on Educational Dating Mining (EDM)*. Wuhan, China: International Educational Data Mining Society.
+* Lee, C.D., Goldman, S., Levine, S., Magliano, J. (2016). Epistemic cognition in literary reasoning. In Greene, J. A., Sandoval, W.A., & Bråten, I. (Eds.), *Handbook of Epistemic Cognition*, New York: Routledge (invited).
+* Levine, S., Bernstein, M. (2016). Opening George Hillocks’ territory of literature. *English Education*, 48, (2), 127-147 (invited).
+* Yukhymenko-Lescroart, M., Briner, S. W., Lawless, K., Levine, S., Magliano, J. P., Burkett, C., McCarthy, K. S., Lee, C. D., & Goldman, S. R. (2016). Development and initial validation of the Literature Epistemic Cognition Scale (LECS). *Learning and Individual Differences*, 51, 242-248. https://doi.org/10.1016/j.lindif.2016.09.014
+* Goldman, S. R., McCarthy, K. S., & Burkett, C. (2015). Interpretive inferences in literature. In E. O’Brien, A. Cook, & R. Lorch (Eds.), *Inferences during reading* (pp. 386-415). New York, NY: Cambridge University Press.
+* Levine, S., Horton, W. (2015). Helping high school students read like experts: Affective evaluation, salience, and literary interpretation. *Cognition and Instruction*, 33(2), 125-153. Doi: https://doi.org/10.1080/07370008.2015.1029609 
+* McCarthy, K. S. (2015). Reading beyond the lines: A critical review of cognitive approaches to literary interpretation and comprehension. *Scientific Study of Literature*, 5, 99-128. https://doi.org/10.1075/ssol.5.1.05mcc 
+* McCarthy, K. S. & Goldman, S. R. (2015). Comprehension of short stories: Effects of task instructions on literary interpretation. *Discourse Processes*, 52, 585-608. https://doi.org/10.1080/0163853X.2014.967610 
+* Levine, S., & Horton, W. S. (2015). Helping high school students read like experts: Affective evaluation, salience, and literary interpretation. *Cognition and Instruction*, 33, 125-153. https://doi.org/10.1080/07370008.2015.1029609
+* Levine, S. (2014). Making interpretation visible with an affect-based strategy. *Reading Research Quarterly*, 49 (3), 283-303. https://doi.org/10.1002/rrq.71 
+* Rapp, D. N., Hinze, S. R., Slaten, D. G., & Horton, W. S. (2014). Amazing stories: Acquiring and avoiding inaccurate information from fiction. *Discourse Processes*, 51, 50-74. https://doi.org/10.1080/0163853X.2013.855048 
+* Levine, S., Horton, W. (2013). Using affective appraisal to help readers construct literary interpretations. *Scientific Study of Literature*, 3(1), 105-136. https://doi.org/10.1075/ssol.3.1.10lev 
+* Horton, W. S. (2013). Character intimacy influences the processing of metaphoric utterances during narrative comprehension. *Metaphor and Symbol*, 28, 148-166. https://doi.org/10.1080/10926488.2013.797735 
+* Levine, S., & Horton, W. S. (2013). Using affective appraisal to help readers construct literary interpretations. *Scientific Study of Literature*, 3, 105-136. http://dx.doi.org/10.1075/ssol.3.1.10lev 
+* Powers, C., Bencic, R., Horton, W. S., & Beeman, M. (2012). Hemispheric inference priming during comprehension of conversations and narratives. *Neuropsychologia*, 50, 2577-2583. https://doi.org/10.1016/j.neuropsychologia.2012.07.008 
+* Powers, C., Bencic, R., Horton, W. S., & Beeman, M. (2012). Hemispheric inference priming during comprehension of conversations and narratives. *Neuropsychologia*, 50, 2577-2583. https://doi.org/10.1016/j.neuropsychologia.2012.07.008
+* Horton, W. S. (2007). Metaphor and readers’ attributions of intimacy. *Memory & Cognition*, 35, 87-94. https://doi.org/10.3758/BF03195945 
+* Horton, W. S., & Rapp, D. N. (2003). Out of sight, out of mind: Occlusion and the accessibility of information in narrative comprehension. *Psychonomic Bulletin & Review*, 10, 104-110. https://doi.org/10.3758/BF03196473
+
 <h4>Resources</h4>
 
+<h6>Epistemology Measures</h6>
 
+* **Literature Epistemic Cognition Scale** (LECS; Yukhymenko-Lescroart et al., 2016). The LECS is a Likert scale survey developed to measure epistemological reasoning about fictional texts and how one learns from fiction. The LECS yields subscores for beliefs regarding (1) multiple meanings, (2) the value of re-reading, and (3) the social function of reading literature. There are also several items related to reading habits. The instrument was validated with adolescents (11-18), and more recent research has demonstrated validity with adult populations.
+    * [LECS](http://www.projectreadi.org/wp-content/uploads/2017/05/YukhymenkoLECS2016.pdf)
+
+* **Reader Beliefs Inventory** (RBI; Schraw & Bruning, 1996). The RBI is a brief Likert scale survey that measures the degree to which readers believe that the meaning of a text is (1) inherent in the text (translational) and (2) co-constructed by the author and reader (transactional).
+    * [RBI article](https://www.jstor.org/stable/748278)
+
+<h6>Assessing Inferences</h6>
+
+* **Taxonomy of inference categories generated during literary comprehension** (Magilano, Baggett, & Graesser, 1996). Drawn for constructivist theories of discourse comprehension, this taxonomy outlines the types of inferences that could be made as people read literary works. The chapter also suggests a multi-pronged method for assessing how and when these inferences are generated.
+    * [APA PsycNet Link](https://psycnet.apa.org/record/1996-97973-011) to Magliano, Baggett, and Graesser (1996)
+
+* **Identifying types of literary inferences in open-ended responses** (McCarthy & Goldman, 2015). This scoring guide is used to evaluate essays about literary works. It provides definitions and examples for scoring idea units as (1) paraphrase, (2) text-based inferences, and (3) interpretive inferences. The proportion of each type of inference can indicate the degree to which readers’ are engaging in more sophisticated reasoning.
+    * [DOI Link](https://www.tandfonline.com/doi/full/10.1080/0163853X.2014.967610) to McCarthy and Goldman (2015)
+        
+<h4>I’d like to become a member</h4>
+{{< button "Ask to join" "/contact">}}
+
+
+### Absorption (Transportation, Immersion)
+
+<h4>Abstract</h4>
+
+Narrative absorption is a focused form of reading, which leaves the reader unaware of their surroundings, their bodies, and the passage of time (Nell, 1988). In the last decade research on narrative absorption during literary reading has ventured in two contrasting directions. There are those who try to narrow down the conceptualization of absorption to make it more amenable to online physiological measurement (Sukalla, Bilandzic, Bolls & Busselle, 2015; Hsu, Conrad & Jacobs, 2014; Jacobs & Lüdtke, 2017) and there are those who are trying to broaden its conceptualization in order to investigate its relationships to other constructs of interest to the field, such as aesthetic outcomes (Balint, Hakemulder, Kuijpers, Doicaru & Tan, 2016; Kuijpers, Douglas & Kuiken, 2018; Kuiken & Douglas, 2017) or the concept of flow (Thissen, Menninghaus & Schlotz, 2018). In addition, the research has also expanded to include studies that have originated in alternative fields such as medical humanities (Billington et al., 2017) or that are using new methodologies such as machine learning (Rebora, Kuijpers & Lendvai, 2018). This chapter will describe the most recent developments within the field of narrative absorption research and embed them in the context of more established research on the topic. 
+
+<h4>Members</h4>
+
+{{< card "images/moniek.jpg" >}}
+#### Moniek M. Kuijpers
+Postdoctoral research fellow, Gutenberg Institute for Book Science, Johannes Gutenberg University Mainz, Germany. 
+
+Moniek received her PhD in empirical studies of literature from the University of Utrecht, The Netherlands, in 2014. She continued her work on absorption at the Max Planck Institute for Empirical Aesthetics focusing on personality traits and reading habits of absorbed readers and the problem of how to measure absorption online using eye tracking methodology. Her current research is focused on the mention of absorption in online reader reviews and the relationship between absorbed narrative reading and psychological well-being. Moniek developed a self-report measuring instrument, the Story World Absorption Scale, to capture absorption. She has conducted and published several studies on the effects of various textual devices (i.e., suspense and curiosity structures, foregrounding) on absorption, but also on the individual differences (e.g., personality traits, reading habits) among readers who tend to get absorbed.  
+{{</ card >}}
+
+{{< card "images/members/member-1.jpg" >}}
+#### Katalin E. Bálint
+Associate Professor, Department of Communication Science, Vrije Universiteit Amsterdam, The Netherlands.
+
+Katalin defended her PhD dissertation in 2012 in the field of Psychology at Pécs University (Hungary). She was a postdoc researcher at Utrecht University in an NWO-funded project entitled *Varieties and Determinants of Absorption in Narrative Literature and Film* (2012-2014). She taught and researched at University of Augsburg (Germany) at the department of Media, Knowledge and Communication (2014-2016). Afterwards, she joined the New Media Design track at the department of Communication and Cognition at Tilburg University (2017-2018).
+{{</ card >}}
+
+{{< card "images/members/member-1.jpg" >}}
+#### Melanie C. Green
+Full Professor, Department of Communication, University at Buffalo, USA.
+
+Melanie received her Ph.D. from Ohio State University. Her research examines how narratives change the way individuals think and behave, including the effects of fictional stories on real-world attitudes. Her theory of "transportation into a narrative world" focuses on immersion into a story as a mechanism of narrative influence. She has examined narrative persuasion in a variety of contexts, from health communication to social issues. She has edited two books on these topics (*Narrative Impact* and *Persuasion: Psychological Insights and Perspectives, Second Edition*) and published numerous articles in psychology, communication, and interdisciplinary journals. Her work focuses on transportation into a narrative world, including factors that encourage (or discourage) transportation.
+{{</ card >}}
+
+{{< card "images/members/member-1.jpg" >}}
+#### Shawn Douglas
+PhD Candidate, Department of Psychology, University of Alberta, Canada.
+
+Shawn completed his MSc at Trent University in Applied Modelling and Quantitative Methods. He is currently working on his dissertation, further exploring the relationship between metaphorical thinking and self-change following literary reading. His interest in narrative absorption is three-fold: (1) understanding how expressive and integrative thinking are at times at odds and at other times coordinated during absorbed reading; (2) how metaphorical thinking exemplifies, informs, and is informed by absorbed reading, and (3) how life stories are changed or augmented through interaction with literary texts.
+{{</ card >}}
+
+{{< card "images/members/don.jpg" >}}
+#### Don Kuiken
+Professor, Department of Psychology, University of Alberta, Canada.
+
+Don specializes in the study of dreams, aesthetics, and phenomenology. He has published journal articles and book chapters concerning self-transformation through significant dreams and significant reading experiences, both of which can be deeply “absorbing.” The notion guiding his research is that a metaphoric and enactive mode of engagement is at work during both impactful dreams and significant reading events. Phenomenological (“qualitative”) studies identified what Don calls expressive enactment (Kuiken, Miall, & Sikora, 2004; Kuiken, Sikora, & Miall, 2011). More recent psychometric efforts have made expressive enactment accessible through self-report measures administered when reading experiences are reaching their conclusion (Kuiken & Douglas, 2017). Current studies address the cumulative and “creative” metaphoricity through which expressive enactment precipitates transformative aesthetic outcomes (e.g., being moved, sublime feeling).
+{{</ card >}}
+
+{{< card "images/members/member-1.jpg" >}}
+#### Miruna Doicaru
+Lecturer and Researcher, Academy of Digital Entertainment, NHTV Breda University of Applied Sciences, The Netherlands.
+
+Miruna completed her PhD at the Amsterdam School of Communication Research (University of Amsterdam). She now works as researcher and lecturer at NHTV. While exploring narrative absorption in film, she has tried to identify several types of experiences (narrative transportation, narrative engagement, suspense, curiosity, and surprise) and their determinants (narrative structure, film genre, viewer’s preference). She is developing new self-report tools to measure suspense and aesthetic appreciation. She distinguishes between story-world absorption (the story of a film as object of focused attention and emotional engagement) and artifact absorption (the film artifact as object of focused attention and emotional engagement. 
+{{</ card >}}
+
+{{< card "images/members/member-1.jpg" >}}
+#### Birte A. K. Thissen
+PhD Candidate, Max Planck Institute for Empirical Aesthetics, Frankfurt am Main, Germany.
+
+Birte received an MSc degree from Heinrich Heine University, Düsseldorf, in 2015. She then became a PhD candidate at the Max Planck Institute for Empirical Aesthetics, studying how so-called "flow experiences" contribute to the pleasure of reading fiction. Flow shares the notion of heightened attentional absorption and intrinsic enjoyment with narrative absorption and, although empirical research on this matter is still scarce, the theoretical link between these different approaches is plausible. In her current PhD project, Birte is gathering empirical evidence for the occurrence of flow during fiction reading and is developing and testing a self-report scale to capture flow during reading as well as investigating potential psychophysiological correlates of flow such as eye movement patterns.
+{{</ card >}}
+
+{{< card "images/federico.jpg" >}}
+#### Federico Pianzola
+Assistant Professor in Computational Humanities, University of Groningen, The Netherlands.
+
+Federico received a PhD in Italian Literature (U. of Florence/ U. of Cambridge) and then worked as a postdoc at the University of Milan-Bicocca (Italy) and at Sogang University (South Korea). His research concerns narrative theory and the impact of digital technologies on literature, especially regarding digital social reading. In one sentence, he uses computational, qualitative, and quantitative methods to study reader response. He is also a
+member of the scientific advisory board of OPERAS (the Research Infrastructure supporting open scholarly communication in the social sciences and humanities in the European Research Area), and a member of the governing board of IGEL.
+{{</ card >}}
+
+<h4>Publications</h4>
+
+* Kuiken, D. (2022). Expressive challenge and the metaphoricity of literary reading. In S. Willemsen & M. Kiss (Eds.), *Puzzling Stories: The aesthetic appeal of cognitive challenge in literature, film & television*. Berhahn, in press.
+* Kuiken, D., & Sopčák, P. (2021). Openness, reflective engagement, and self-altering literary reading. In D. Kuiken & A. M. Jacobs (Eds.), *Handbook of Empirical Literary Studies* (pp. 305–342). De Gruyter. https://doi.org/10.1515/9783110645958-013
+* Pianzola, Federico, Giuseppe Riva, Karin Kukkonen, and Fabrizia Mantovani. 2021. Presence, Flow, and Narrative Absorption: An Interdisciplinary Theoretical Exploration with a New Spatiotemporal Integrated Model Based on Predictive Processing. *Open Research Europe*, 1.28: 1-25. https://doi.org/10.12688/openreseurope.13193.1
+* Pianzola, Federico. 2021. Presence, flow, and narrative absorption questionnaires: A scoping review. *Open Research Europe*, 1.11: 1-12. https://doi.org/10.12688/openreseurope.13277.1
+* Kuijpers, M. M., Douglas, S., & Kuiken, D. (2019). Personality Traits and Reading Habits that Predict Absorbed Narrative Fiction Reading. *Psychology of Aesthetics, Creativity and the Arts*, 13(1), 74–88. https://doi.org/10.1037/aca0000168.
+* Bálint, K. E. & Tan, E. S. H. (2019). Engagement with Characters. From Social Cognition Responses to the Experience with Fictional Constructions. In Johannes Riis and Aaron Taylor (Eds), *Screening Characters: Theories of Character in Film, Television, and Interactive Media*. Routledge.
+* Kuzmicova, A. & Bálint, K. E. (2019). Personal Relevance in Story Reading: A Research Review. *Poetics Today*, 40 (3): 429–451. https://doi.org/10.1215/03335372-7558066 
+* Rooney, B. & Bálint, K. E. (2018). Watching more closely: Shot scale affects film viewers’ theory-of-mind tendency but not ability. *Frontiers of Psychology*. https://doi.org/10.3389/fpsyg.2017.02349 
+* Kuiken, D., & Douglas, S. (2018). Living metaphor as the site of bidirectional literary engagement. *Scientific Study of Literature*.
+* Kuiken, D., Porthukaran, A., Albrecht, K.-A., Douglas, S., & Cook, M. (2018). Metaphoric and associative aftereffects of impactful dreams. *Dreaming*, 28(1), 59-83. https://doi.org/10.1037/drm0000067
+* Kuiken, D., & Douglas, S. (2018). Living metaphor as the site of bidirectional literary engagement. *Scientific Study of Literature*, 8(1), 47–76. https://doi.org/10.1075/ssol.18004.kui
+* Kuiken, D., Porthukaran, A., Albrecht, K.-A., Douglas, S., & Cook, M. (2018). Metaphoric and associative aftereffects of impactful dreams. *Dreaming*, 28(1), 59-83. https://doi.org/10.1037/drm0000067
+* Pianzola, Federico, Katalin Bálint, and Jessica Weller. 2019. “Virtual Reality as a Tool for Promoting Reading via Enhanced Narrative Absorption and Empathy”. *Scientific Study of Literature* 9.2: 162–93. https://doi.org/10.1075/ssol.19013.pia
+* Thissen, B. K., Schlotz, W., & Menninghaus, W. (2018). Measuring optimal reading experiences: The Reading Flow Short Scale. *Frontiers in Psychology* 9, https://doi.org/10.3389/fpsyg.2018.02542
+* Kuiken, D., & Douglas, S. (2017). Forms of absorption that facilitate the aesthetic and explanatory effects of literary reading. In F. Hakemulder, M. Kuijpers, E. Tan, M. Doicaru, K. Balin, (Eds.) *Narrative Absorption* (pp. 217-249). Amsterdam: John Benjamins.
+* Kuiken, D., & Douglas, S. (2017). Identifying aspects of absorption that facilitate aesthetic response (pp. 217-249). In F. Hakemulder, M. Kuijpers, E. Tan, M. Doicaru, K. Bálint, (Eds.) N*arrative Absorption*. Amsterdam: John Benjamins.
+* Kuijpers, M. M., Hakemulder, F., Balint, K., Doicaru, M. M., & Tan, E. S. H. (2017). Towards a new understanding of absorbing reading experiences. In Hakemulder, F, Kuijpers, M. M., Tan, E. S. H., Balint, K., & Doicaru, M. M. (Eds.) *Narrative Absorption* (pp. 29-48). Amsterdam: John Benjamins.
+* Bálint, K. E., Kuijpers, M., Doicaru, M. (2017). The effect of suspense structure on felt suspense and narrative absorption in literary and filmic narratives. In Frank Hakemulder et al. (Eds), *Narrative Absorption* (pp. 177-197). Amsterdam: John Benjamins. 
+* Tan, E., Doicaru, M. M., Hakemulder, F., Balint, K., & Kuijpers. M (2017). Into film: Does absorption in a movie’s story world  pose a paradox? In F. Hakemulder, Kuijpers M. , Tan, E., Balint, K., & Doicaru, M. M. (Eds.), *Narrative absorption* (pp. 97-118). Amsterdam: John Benjamins.
+* Bálint, K. E, Hakemulder, F., Kuijpers, M., Doicaru, M., & Tan, E. S. (2016). Reconceptualizing foregrounding. *Scientific Study of Literature*, 6(2), 176-207. 
+* Appel, M., Gnambs, R., Richter, T., & Green, M. C.  (2015). The Transportation Scale - Short Form (TS-SF). *Media Psychology*, 18(2), 243-266.
+* Kuiken, D., & Douglas, S. (2015). Levels of analysis in neuroscientific studies of emotion: Comment on “The quartet theory of human emotions: an integrative and neurofunctional model” by S. Koelsch et al. *Physics of Life Reviews*, 13, 63–66. https://doi.org/10.1016/j.plrev.2015.04.009
+* Kuijpers, M. M. (2014). *Absorbing stories. The effects of textual devices on absorption and evaluative responses*. Utrecht: Unpublished PhD thesis.
+* Kuijpers, M. M., Hakemulder, F, Doicaru, M. M., Tan, E. S. H. (2014). Exploring absorbing reading experiences: Developing and validating a self-report scale to measure story world absorption. *Scientific Study of Literature*, 4(1), 89-122.
+* Green, M. C., & Clark, J. M.  (2013). Transportation into narrative worlds: Implications for entertainment media influences on tobacco use. *Addiction*, 108(3), 477-484.
+* Green, M. C., Chatham, C., & Sestir, M. (2012). Emotion and transportation into fact and fiction. *Scientific Study of Literature*, 2(1), 37-59.
+* Kuijpers, M. M. & Miall, D. S. (2011). Bodily Involvement in Literary Reading: An Experimental Study of Readers' Bodily Experiences during Reading. In F. Hakemulder (Eds.), *De Stralende Lezer. Wetenschappelijk Onderzoek naar de Invloed van het Lezen* (pp. 160-174). Delft: Eburon.
+* Sikora, S., Kuiken, D., & Miall, D. S. (2011). Expressive reading: A phenomenological study of readers’ experience of Coleridge’s ‘The rime of the ancient mariner.’ *Psychology of Aesthetics, Creativity, and the Arts*, 5(3), 258–268. https://doi.org/10.1037/a0021999
+* Sestir, M., & Green, M. C. (2010). You are who you watch: Identification and transportation effects on temporary self-concept. *Social Influence*, 5(4), 272-288.
+* Mazzocco, P. M., Green, M. C., Sasota, J. A, & Jones, N. W.  (2010). This story is not for everyone: Transportability and narrative persuasion. *Social Psychology and Personality Science*, 1(4), 361-368.
+* Kuiken, D. (2008). A theory of expressive reading. In S. Zyngier, M. Bortolussi, A. Chesnokova, & J. Auracher (Eds.), *Directions in Empirical Literary Studies: Essays in Honor of Willie van Peer* (pp. 49–68). Amsterdam: John Benjamins Publishing Company.
+* Kuiken, D., Miall, D. S., & Sikora, S. (2004). Forms of self-implication in literary reading. *Poetics Today*, 25(2), 171–203. https://doi.org/doi:10.1215/03335372-25-2-171
+* Kuiken, D., Phillips, L., Gregus, M., Miall, D. S., Verbitsky, M., & Tonkonogy, A. (2004). Locating self-modifying feelings within literary reading. *Discourse Processes*, 38(2), 267–286. https://doi.org/DOI:10.1207/s15326950dp3802_6
+* Green, M. C., Strange, J. J., & Brock, T. C. (Eds.) (2002). *Narrative Impact: Social and Cognitive Foundations*. Mahwah: Lawrence Erlbaum Associates.
+* Green, M. C., & Brock, T. C. (2000). The role of transportation in the persuasiveness of public narratives. *Journal of Personality and Social Psychology*, 79(5), 701-721.
+
+<h4>Resources</h4>
+
+* **Story World Absorption Scale**
+    * Validated: in [German, English, and Dutch](https://osf.io/zf439/)
+    * Not validated: in [Italian](https://zenodo.org/record/3348380#.YXvHDy8Rolk)
+
+* Scoping review of 23 questionnaires used to measure presence, flow, narrative absorption, and similar concepts
+    * [Article](https://open-research-europe.ec.europa.eu/articles/1-11) describing the review process
+    * [Repository](https://doi.org/10.17605/OSF.IO/RBZ8G) with with annotated items and summary model
+
+
+<h4>I’d like to become a member</h4>
+{{< button "Ask to join" "/contact">}}
+
+
+### Culture, Cognition, and Literary Comprehension
+
+<h4>Abstract</h4>
+
+Amidst the growing influence of globalization, people all over the world now have more options to enjoy the same cultural products and read the same literary works. Why is it that globally influential works are able to be accepted and appreciated by people from different cultural backgrounds? Do readers from diverse cultural settings differ in the understanding of topics, characters and plots, or does culture shape the reading in some dimensions, but not in others? How does the conceptualization of L1 influence the literary comprehension of L2? These questions with regards to cross-cultural reading of literary works against the backdrop of globalization require more thorough investigation. 
+
+Literary comprehension is inference-based communication between recipients and texts. Literary texts stimulate the reader’s imagination by means of a structure of “indeterminacy.” Readers use their world knowledge and concepts within their narrative imagination to fill in the indirect description of plot development and role shaping. For this reason, the generation of meaning in literary comprehension is determined by readers' intentionality. It is often stated that language and culture influence the way we think. However, relatively little has been done to investigate how people in different cultures read differently and to what extent literature from different cultural areas has affinity rather than differences. The study on Culture, Cognition and Literary Comprehension explores the extent to which the common ground and literary elements cognitively and emotionally engage readers. The research is conducted under an interdisciplinary framework that involves concepts in psychology, theories in literary studies, and linguistic models.
+
+<h4>Members</h4>
+
+{{< card "images/members/member-1.jpg" >}}
+#### Yehong Zhang
+Associate Professor, Director of Literature and Cognition Lab, Department of Foreign Languages and Literatures, Tsinghua University, Beijing, China.
+
+Yehong Zhang specializes in cognitive literary studies, cross-cultural empirical literary studies, narratology and literary theory. She has been Visiting Scholar at University of California, Berkeley, and the recipient of a Humboldt Research Fellowship. She is author of the book *Erzählung, Kognition und Kultur* (Narrative, Cognition and Culture) (mentis, 2011) and editor for the Special Issue *Cross-Cultural Reading* of A&HCI Journal *Comparative Literature Studies* (2017). She has led projects on empirical literary study of cross-cultural reading with national grants, and is currently working on a book about cognitive literary studies and cross-cultural narrative comprehension. 
+{{</ card >}}
+
+{{< card "images/members/member-1.jpg" >}}
+#### Anna Chesnokova
+Professor, English Philology and Translation Department, Borys Grinchenko Kyiv University, Ukraine.
+
+Anna Chesnokova is Professor of the English Philology and Translation Department at Borys Grinchenko Kyiv University, Ukraine. She has published on Stylistics and Empirical Studies of Literature. She has co-edited *Acting & Connecting. Cultural Approaches to Language and Literature* (LIT Verlag, 2007) and *Directions in Empirical Literary Studies* (John Benjamins, 2008) as well as contributed chapters to *The International Reception of Emily Dickinso*n (Continuum Press, 2009), *Cases on Distance Delivery and Learning Outcomes: Emerging Trends and Programs* (in collaboration, IGI Global, 2009), *Teaching Stylistics* (in collaboration, Palgrave Macmillan, 2011) and *Scientific Approaches to Literature in Learning Environments* (John Benjamins, 2016).
+{{</ card >}}
+
+{{< card "images/jan.jpg" >}}
+#### Jan Auracher
+Center for Language Studies, National University of Singapore.
+
+Jan Auracher received his doctoral degree in Germanic Studies and European Ethnology from the University of Munich, Germany. He then worked as Lecturer and Assistant Professor for German language and culture in Japan. His research interest is at the interface between the computer-linguistic analysis of texts and the psychological assessment of readers’ responses. Jan published articles on the interplay between narrative style and the experience of suspense, on phono-semantic congruencies in poems, and on the influence of stereotypes on readers’ assessment of fictional characters. 
+{{</ card >}}
+
+{{< card "images/members/member-1.jpg" >}}
+#### Atsushi Iida
+Associate Professor of English, University Education Center, Gunma University, Japan.
+
+Atsushi Iida was awarded his Ph.D. in English (Composition and TESOL) at Indiana University of Pennsylvania. His research interests include second language writing, poetry writing, literature in second language education, and writing for academic publication. He has published his work in various journals including *Assessing Writing, System, Qualitative Inquiry, Scientific Study of Literature, English Teaching Forum*, and *Asian EFL Journal*.
+{{</ card >}}
+
+<h4>Publications</h4>
+
+* Iida, A. (2018). Living in darkness at the time of the Great East Japan Earthquake: A poetic-narrative autoethnography. *Qualitative Inquiry*, 24(4), 270-280. https://doi.org/10.1177/1077800417745917 
+* Chesnokova, A., Zyngier, S., Viana, V., Jandre, J., Rumbesht, A. & Ribeiro F. (2017). Cross-cultural reader response to original and translated poetry: An empirical study in four languages. *Comparative Literature Studies* 54(4), 824–849. https://doi.org/10.5325/complitstudies.54.4.0824. 
+* van Peer, W. & Chesnokova, A. (2017). Literariness in readers’ experience. Further developments in empirical research and theory. *Science and Education*, 11, 5–17. https://doi.org/10.24195/2414-4665-2017-11-1.
+* Shurma, S. & Chesnokova, A. (2017). Emily Dickinson's poetry in Russian and Ukrainian translation: Synaesthetic shift. *Vertimo studijos* (Translation Studies) 10, 95–119. https://doi.org/10.15388/VertStud.2017.10.11291.
+* Zhang, Y., & Lauer, G. (eds.) (2017): Cross-Cultural Reading. Special Issue of *Comparative Literature Studies*, 54(4). http://dx.doi.org/10.5325/complitstudies.54.4.0693
+* Zhang, Y. (2017). Interdisciplinary study on cross-cultural poetry reading. *Comparative Literature Studies*, 54(4), 850-868. http://dx.doi.org/10.5325/complitstudies.54.4.0850
+* Auracher, J. (2017). Sound iconicity of abstract concepts: Place of articulation is implicitly associated with abstract concepts of size and social dominance. *PLOS ONE*, 12(11), e0187196. https://doi.org/10.1371/journal.pone.0187196
+* Auracher, J. & Hirose, A. (2017). The influence of reader's stereotypes on the assessment of fictional characters. *Comparative Literary Studies*, 54(4). https://doi.org/10.5325/complitstudies.54.4.0795 
+* Auracher, J. & Bosch, H. (2016). Showing with words: The influence of language concreteness on suspense. *Scientific Study of Literature*, 6(2), 208-242. https://doi.org/10.1075/ssol.6.2.03aur 
+* Chesnokova, A. (2016). Empirical stylistics in an EFL teaching context: Comparing virtual and face-to-face reading responses (105–124). In: M. Burke, O. Fialho & S. Zyngier, (eds.). *Scientific Approaches to Literature in Learning Environments*. Amsterdam / Philadelphia: John Benjamins. DOI 10.1075/lal.24.06che.
+* Chesnokova, A. & van Peer, W. (2016). Anyone came to live here some time ago: A cognitive semiotics approach to deviation as a foregrounding device. *Versus: Quaderni di studi semiotici*,122, 5–22.
+* Iida, A. (2016). Identity in second language writing: Exploring an EFL learner’s study abroad experience. *Eurasian Journal of Applied Linguistics*, 2(1), 1-14.
+* Iida, A. (2016). Exploring earthquake experiences: A study of second language learners’ ability to express and communicate deeply traumatic events in poetic form. *System*, 57, 120-133. http://dx.doi.org/10.1016/j.system.2016.02.004 
+* Auracher, J. (2015): Synaesthetic sound iconicity – Phonosemantic associations between acoustic features of phonemes and emotional behavior. In: M. K. Hiraga, W. J. Herlofsky, K. Shinohara, & K. Akita (eds.), *Iconicity: East Meets West* (93-108). Amsterdam: John Benjamins.  https://doi.org/10.1075/ill.14.05aur 
+* Zhang, Y., & Lauer, G. (2015). How culture shapes the reading of fairy tales: A cross-cultural approach. *Comparative Literature Studies*, 52(4), 663-681. http://dx.doi.org/10.5325/complitstudies.52.4.0663
+* Iida, A. (2012). The value of poetry writing: Cross-genre literacy development in a second language. *Scientific Study of Literature*, 2, 60-82. http://dx.doi.org/10.1075/ssol.2.1.04iid.
+* Zhang, Y. (2011): *Erzählung, Kognition und Kultur* (Narrative, Cognition and Culture). Muenster: Mentis. [Monograph]
+* Zhang, Y. (2011). Embodied mind and cross-cultural narrative patterns. In: M. Callies, W. R. Keller and A. Lohoefer (eds.): *Bi-Directionality of Cognitive Sciences. Avenues, Challenges, and Limitations*. Amsterdam: John Benjamins. 171-180. http://dx.doi.org/10.1075/hcp.30.11zha
+* Auracher, J., Albers, S., Zhai, Y., et al (2011). P for happiness / N for Sadness – Universals in sound symbolism to detect emotions in poetry. *Discourse Processes*, 48(1), 1-25. https://doi.org/10.1080/01638531003674894 
+* Auracher, J. (2009): Measuring beauty - EEG measurements in stylistics. *Doshisha Studies in Language and Culture*, 12(2), 369-393.
+* Zhang, Y. (2008). Culture and Reading. Cultural thought systems on the understanding of fairy tales (218-237). In: J. Auracher & W. van Peer (eds.), *New Beginnings in Literary Studies*. Newcastle: Cambridge Scholar Publishing.
+* Auracher, J., Schwaiger, M., & Tiourikov , A. (2007). Say it again: Ideas regarding the use of internet cooperation for academic education. In S. Zyngier & A. Chesnokova (eds.), *Intercultural Studies of Literature and the Media* (203-218). Berlin: LIT-Verlag.
+* Zyngier, S., Chesnokova, A. & Viana, V. (eds.) (2007). *Acting and Connecting: Cultural Approaches to Language and Literature*. Munster: LIT Verlag.
+* Zyngier, S., Bortolussi, M., Chesnokova, A. & Auracher, J. (eds.) (2008). *Directions in Empirical Literary Studies: In Honor of Willie van Peer*. Amsterdam / Philadelphia: John Benjamins. https://doi.org/10.1075/lal.
+* Iida, A. (2008). Poetry writing as expressive pedagogy in an EFL context: Identifying possible assessment tools for haiku poetry in EFL freshman college writing. *Assessing Writing* 13, 171-179. http://dx.doi.org/10.1016/j.asw.2008.10.001   
 
 <h4>I’d like to become a member</h4>
 {{< button "Ask to join" "/contact">}}
@@ -364,23 +686,186 @@ Berenike applies computational and reader-response approaches to the study of li
 
 <h4>Abstract</h4>
 
+Research in media psychology has historically tended to focus on the harmful effects of viewing (e.g., increases in aggression, heightened prejudice, unhealthy behaviors, etc.). However, over the last decade, an increasing number of scholars have turned their attention to “positive” media psychology, noting the ways in which media may inspire its audiences, may move viewers to heightened compassion and tenderness, and may ultimately serve as the catalyst for pro-social outcomes. This research coalition focuses recent and ongoing scholarship in this area, pointing to the various ways that “being moved” has been conceptualized and tested, including concepts such as appreciation, eudaimonic fulfillment, elevation, self-transcendence, poignancy, kama muta, and awe, among others. We are also interested in the challenges that scholars may face when attempting to harness to the pro-social potentials of inspiring media, and particularly so in the contemporary and rapidly evolving media landscape, and also in the context of “darker” uses of inspiration, such as their use for purposes such as marketing and in maintaining or strengthening in-group ties. We further consider the potential ways that these challenges may be addressed through the use of newer media technologies. 
 
 <h4>Members</h4>
 
 {{< card "images/members/member-1.jpg" >}}
-#### Name
-Dept., University, City, Country.
+#### Mary Beth Oliver
+Distinguished Professor, Co-Director of the Media Effects Research Laboratory, Bellisario College of Communications, Pennsylvania State University, USA.
 
-bio
+Mary Beth's research is in media psychology (with emphasis on individuals’ emotional responses to media), positive media psychology, and media and social cognition. She is a Research Fellow and recipient of the Aubrey Fisher Mentorship Award from the International Communication Association.
 {{</ card >}}
 
+{{< card "images/members/member-1.jpg" >}}
+#### Art Raney
+James E. Kirk Professor of Communication, Florida State University, USA.
+
+Art Raney's research primarily examines enjoyment of various media entertainment content, with specific attention to the role morality plays in those processes. He recently served as the principal investigator on a three-year project funded by the John Templeton Foundation to examine how self-transcendent emotions are elicited by and experienced with media content and how those experiences may promote character building, well-being, and prosociality.
+{{</ card >}}
+
+{{< card "images/members/member-1.jpg" >}}
+#### Anne Bartsch
+Professor of Communication, University of Leipzig, Germany.
+
+Anne Bartsch specializes in research on media uses and effects, with special focus on media entertainment and emotional media effects. Her work has been published in *Journal of Communication*, *Communication Research*, and *Media Psychology* (among others).
+{{</ card >}}
+
+{{< card "images/members/member-1.jpg" >}}
+#### Tilo Hartmann
+Associate Professor, Department of Communication Science, Vrije Universiteit Amsterdam, The Netherlands. 
+
+Tilo Hartmann applies media-psychological approaches and methodology to studies of the experience and perceptions of media users, including entertainment, mediated illusions, and media users’ choices and preferences.
+{{</ card >}}
+
+{{< card "images/members/member-1.jpg" >}}
+#### Michael D. Slater
+Social and Behavioral Science Distinguished Professor, Director of the School of Communication, Ohio State University, USA.
+
+Michael Slater's research includes theory-building efforts in narrative influences (Temporarily Expanded Boundaries of the Self and Mediated Wisdom of Experience), persuasion (Extended Elaboration Likelihood Model) and dynamic processes of media selection, media effects, and maintenance of personal and social identity (the Reinforcing Spirals Model), with particular interest in health outcomes. 
+{{</ card >}}
+
+{{< card "images/members/member-1.jpg" >}}
+#### Sophie H. Janicke-Bowles
+Assistant Professor, School of Communication, Chapman University, USA.
+
+Sophie Janicke-Bowles's research and teaching are in the field of positive psychology, spirituality and media, new technologies, and happiness. She has been exploring how people use and are impacted by media content that elicits self-transcendent emotions such as awe, elevation, gratitude, and compassion. Broadly speaking, she researches the role new and traditional media play in fostering well-being. 
+{{</ card >}}
+
+{{< card "images/members/member-1.jpg" >}}
+#### Frank M. Schneider
+Post-Doctoral Researcher, Institute for Media and Communication Studies, University of Mannheim, Germany.
+
+Frank M. Schneider's research interests include digital communication, entertainment and political communication research, communication processes and effects, and research methods. 
+{{</ card >}}
+
+{{< card "images/members/member-1.jpg" >}}
+#### Diana Rieger
+Assistant Professor for Digital Communication, University of Mannheim, Germany.
+
+Diana Rieger serves as Associate Editor for the *Journal of Media Psychology*. Her research focuses on the processes and effects of various (hedonic and eudaimonic) media fare, e.g. challenging situations.  
+{{</ card >}}
+
+{{< card "images/members/member-1.jpg" >}}
+#### Robin Nabi
+Professor of Communication, University of California, Santa Barbara, USA.
+
+Robin Nabi's research focuses on the influence of emotion on media message processing and effects. She has published numerous articles and book chapters, and she co-edited the *SAGE Handbook of Media Processes and Effects*. She has served as managing editor of the *Media Psychology* journal, as associate editor of *Journal of Communication*, and on the editorial board of numerous communication journals. 
+{{</ card >}}
+
+{{< card "images/members/member-1.jpg" >}}
+#### Katherine Dale
+Postdoctoral Scholar, School of Communication, Florida State University, USA.
+
+Katherine Dale's research interests include positive media psychology, media effects, and intergroup interaction. She is particularly interested in how media affect the way we see and experience the world.
+{{</ card >}}
+
+{{< card "images/members/member-1.jpg" >}}
+#### Jessica Myrick
+Associate Professor, Media Studies and Science Communication, Bellisario College of Communications, Pennsylvania State University, USA. 
+
+Jessica Myrick's research examines the roles of different emotions in shaping audience responses to health, science and environmental messages.
+{{</ card >}}
+
+{{< card "images/members/member-1.jpg" >}}
+#### Nicole Krämer
+Professor of Social Psychology, Media and Communication, University of Duisburg-Essen, Germany.
+
+Nicole Krämer, recipient of the venia legendi for psychology in 2006, studies social psychological aspects of computer-mediated-communication (e.g., social media effects on emotions and stereotypes). 
+{{</ card >}}
+
+{{< card "images/members/member-1.jpg" >}}
+#### Meghan S. Sanders
+Associate Professor, G. Lee Griffin Distinguished Professorship, Manship School of Mass Communication, USA.
+
+Meghan Sanders' scholarship focuses on the psychological effects of mass media, especially as they pertain to emotion, psychological and subjective well-being, and enjoyment and appreciation of entertainment. In addition to her faculty role, Sanders serves as director of the Media Effects Laboratory.  
+{{</ card >}}
+
+{{< card "images/members/member-1.jpg" >}}
+#### Enny Das
+Professor of Communication & Persuasion, Radboud University, Nijmegen, The Netherlands.
+
+Enny Das' research examines the interplay between message characteristics and receiver responses, with a particular focus on emotion. Current projects focus on the impact of existential narratives in times of grief, the role of language in doctor-patient communication, and computational approaches in the health domain.  
+{{</ card >}}
+
+{{< card "images/members/member-1.jpg" >}}
+#### Marie-Louise Mares
+Professor, Department of Communication Arts, University of Wisconsin-Madison, USA.
+
+Marie-Louise Mares' research focuses on life-span developmental changes in media uses and responses, with an emphasis on positive, pro-social outcomes. 
+{{</ card >}}
 
 <h4>Publications</h4>
 
-
-
-<h4>Resources</h4>
-
+* Oliver, M. B., & Raney, A. A. (2019). Positive media psychology: Emerging scholarship and a roadmap for emerging technologies. In J. A. MuVelaquez & C. Pulido (Eds.), *The Routledge Handbook of Positive Communication*. New York: Routledge.
+* Krämer, N. C., Neubaum, G., Winter, S., Rösner, L., Eimler, S. & Oliver, M. B. (2019). I feel what they say: The effect of social media comments on viewers' affective reactions toward elevating online videos. *Media Psychology*, 24(3), 332-358.
+* Oliver, M. B., Raney, A. A., Slater, M., Appel, M., Hartmann, T., Bartsch, A., Schneider, F., Janicke-Bowles, S. H., Krämer, N., Mares, M. L., Vorderer, P., Rieger, D., Dale, K. R., & Das, H. H. J. (2018). Self-transcendent media experiences: Taking meaningful media to a higher level. *Journal of Communication*, 68, 380-389. https://doi.org/ 10.1093/joc/jqx020
+* Raney, A. A., Janicke, S. H., Oliver, M. B., Dale, K. R., Jones, R. P., & Cox, D. (2018). Profiling the audience for self-transcendent media: A national survey. *Mass Communication and Society*. Article first published online January 10, 2018. http://www.tandfonline.com/doi/full/10.1080/15205436.2017.1413195
+* Bartsch, A., Oliver, M. B., Nitsch, C., & Scherr, S. (2018). Inspired by the Paralympics. Effects of empathy on audience interest in para-sports and on the destigmatization of persons with disabilities. *Communication Research*. https://doi.org/ 10.1177/0093650215626984
+* Slater, M.D., Oliver, M.B., Appel, M., Tchernev, J., & Silver, N. (2018). Mediated wisdom of experience revisited: Delay discounting, acceptance of death, and closeness to future self. *Human Communication Research*.
+* Slater, M.D., Ewoldsen, D.R., & Woods, K. (2018). Extending conceptualization and measurement of narrative engagement after-the-fact: Parasocial relationship and  retrospective imaginative involvement. *Media Psychology*.
+* Raney, A. A., Janicke, S. H., Oliver, M. B., Dale, K. R., Jones, R. P., & Cox, D. (2018). Profiling the sources of and audiences for inspiring media content: A national survey. *Mass Communication and Society*, 21(3), 296-319. https://doi.org/10.1080/15205436.2017.1413195
+* Wulf, T., Rieger, D., & Schmitt, J. (2018). Blissed by the past: Theorizing media-induced nostalgia as an audience response factor for entertainment and well-being. *Poetics*. 
+* Janicke, S. H., Rieger, D., & Connor, W. (2018). Finding meaning at work: The role of inspiring and funny YouTube videos on work-related well-being. *Journal of Happiness Studies*, Online First. https://doi.org/10.1007/s10902-018-9959-1
+* Nabi, R. L., & Myrick, J. G. (2018). Uplifting fear appeals: Considering the role of hope in fear-based persuasive messages. *Health Communication*, 1-12.
+* Raney, A. A., Janicke, S. H., Oliver, M. B., Dale, K. R., Jones, R. P., & Cox, D. (2018). Profiling the audience for self-transcendent media: A national survey. *Mass Communication and Society*. Article first published online January 10, 2018. http://www.tandfonline.com/doi/full/10.1080/15205436.2017.1413195
+* Oliver, M. B., Ferchaud, A., Yang, C., Huang, Y., & Bailey, E. (2017). Absorption and meaningfulness: Examining the relationship between eudaimonic media use and engagement. In F. Hakemulder & M. Kuijpers (Eds.). *Handbook of narrative absorption*. Amsterdam: John Benjamins Publishing Company.
+* Dale, K. R., Raney, A. A., Janicke, S. H., Sanders, M. S., & Oliver, M. B. (2017). YouTube for good: A content analysis and examination of elicitors of self-transcendent media. *Journal of Communication*, 67(6), 897-919. https://doi.org/ 10.1111/jcom.12333
+* Bartsch, A., & Hartmann, T. (2017). The role of cognitive and affective challenge in entertainment experience. *Communication Research* 44(1), 29-53. https://doi.org/10.1177/0093650214565921
+* Janicke, S.H. Rieger, D., Reinecke, L., & Connor III, W (2017). Watching online videos at work: The role of positive and meaningful affect for recovery experiences and well-being at the workplace. *Mass Communication Society*. 1-23. https://doi.org/10.1080/15205436.2017.1381264
+* Janicke, S. H., & Ramasubramanian, S. (2017). Spiritual media experiences, trait transcendence and enjoyment of popular films. *Journal of Media and Religion*, 16(2), 51-66. http://dx.doi.org/10.1080/15348423.2017.1311122
+* Janicke, S. H. & Oliver, M. B. (2017). The relationship between elevation, connectedness and compassionate love in meaningful films. *Psychology of Popular Media Culture*, 6(3), 274-289. http://dx.doi.org/10.1037/ppm0000105
+* Roth, F. S., Weinmann, C., Schneider, F. M., Hopp, F. R., Bindl, M. J., & Vorderer, P. (2017). Curving entertainment: The curvilinear relationship between hedonic and eudaimonic experiences while watching a political talk show and its implications for information processing. *Psychology of Popular Media Culture*. Advance online publication . https://doi.org/10.1037/ppm0000147
+* Schneider, F. M., Bartsch, A., & Oliver, M. B. (2017). Factorial validity and measurement invariance of the Appreciation, Fun, and Suspense scales across US-American and German samples. *Journal of Media Psychology*. Advance online publication . https://doi.org/10.1027/1864-1105/a000236
+* Weinmann, C., Roth, F. S., Schneider, F. M., Kramer, T., Hopp, F. R., Bindl, M. J., & Vorderer, P. (2017). I don't care about politics, I just like that guy! Affective disposition and political attributes in information processing of political talk shows. *International Journal of Communication*, 11, 3118-3140. http://ijoc.org/index.php/ijoc/article/view/5800
+* Rieger, D. (2017). Meaning, mortality salience and media use. In L. Reinecke & M. B. Oliver (Eds.), *The Routledge Handbook of Media Use and Well-Being: International Perspectives on Theory and Research on Positive Media Effects* (S. 93-105). New York: Routledge.
+* Rieger, D. & Hofer, M. (2017). How meaningful movies can ease the fear of death: Integrating perspectives of eudaimonic entertainment and terror management. *Mass Communication & Society*, 20(5), 710-733. https://doi.org/ 10.1080/15205436.2017.1300666
+* Nabi, R. L., D. Perez Torres, D., & Prestin, A. (2017). Guilty pleasure no more: The relative importance of media use for coping with stress. *Journal of Media Psychology*.
+* Myrick, J. G. (2017). Public perceptions of celebrity cancer deaths: How identification and emotions shape cancer stigma and behavioral intentions. Health Communication, 32(11), 1385-1395. https://doi.org/10.1080/10410236.2016.1224450
+* Myrick, J. G. (2017). Identification and emotions experienced after a celebrity cancer death shape information sharing and prosocial behavior. *Journal of Health Communication*, 22(6), 515-522.
+* Das, E., Nobbe, T., & Oliver, M.B. (2017). Moved to act: Examining the role of mixed affect and cognitive elaboration in “accidental” narrative persuasion. *International Journal of Communication*, 11, 4907-4923.
+* Myrick, J. G. (2017). Public perceptions of celebrity cancer deaths: How identification and emotions shape cancer stigma and behavioral intentions. *Health Communication*, 32(11), 1385-1395. https://doi.org/10.1080/10410236.2016.1224450
+* Bartsch, A., & Oliver, M. B. (2016). Appreciation of meaningful entertainment experiences and eudaimonic well-being. In. L. Reinecke & M. B. Oliver (Eds.). *Handbook of media use and well-being: International perspectives on theory and research on positive media effects* (pp. 80-92). New York: Routledge.
+* Janicke, S. H., & Raney, A. A. (2016). Media, spirituality, and well-being. In L. Reinecke, & M. B. Oliver (Eds.), *The Routledge Handbook of Media Use and Well-Being* (pp. 355-367). New York: Routledge.
+* Schneider, F. M., Weinmann, C., Roth, F. S., Knop, K., & Vorderer, P. (2016). Learning from entertaining online video clips? Enjoyment and appreciation and their differential relationships with knowledge and behavioral intentions. *Computers in Human Behavior*, 54, 475-482. https://doi.org/10.1016/j.chb.2015.08.028
+* Weinmann, C., Schneider, F. M., Roth, F. S., Bindl, M. J., & Vorderer, P. (2016). Testing measurement invariance of hedonic and eudaimonic entertainment experiences across media formats. *Communication Methods and Measures*, 10, 248-257. https://doi.org/10.1080/19312458.2016.1227773
+* Nabi, R. L., & Prestin, A. (2016). Unrealistic hope vs. unnecessary fear: Exploring how sensationalistic news stories influence health behavioral motivation. *Health Communication*.
+* Nabi, R. L., Prestin, A., & So, J. (2016).  Could watching TV be good for you? Examining how media consumption patterns relate to salivary cortisol. *Health Communication*.
+* Krämer, N. C., Eimler, S. C., Neubaum, G., Winter, S., Rösner, L., & Oliver, M. B. (2016). Broadcasting one world: How watching elevating online videos can trigger a sense of universal orientation and a reduction of social stereotypes. *New Media & Society*. Advance online publication. https://doi.org/10.1177/1461444816639963
+* Kyewski, E., Szczuka, J. M., & Krämer, N. C., (2016). The protagonist, my Facebook friend: How cross-media extensions are changing the concept of parasocial interaction. *Psychology of Popular Media Culture*. Advance online publication. doi.org: 10.1037/ppm0000109
+* Neubaum, G. & Krämer, N. C. (2016). My friends right next to me: A laboratory investigation on predictors and consequences of experiencing social closeness on social networking sites. *Cyberpsychology, Behavior and Social Networking*, 18, 443-449.
+* Mares, M.L., Bartsch, A., Bonus, J. A., (2016). When meaning matters more:  Media preferences across the adult life-span. *Psychology and Aging*, 31, 513-531.
+* Schneider, F. M., Weinmann, C., Roth, F. S., Knop, K., & Vorderer, P. (2016). Learning from entertaining online video clips? Enjoyment and appreciation and their differential relationships with knowledge and behavioral intentions. *Computers in Human Behavior*, 54, 475-482. https://doi.org/10.1016/j.chb.2015.08.028
+* Oliver, M. B., Ash, E., Kim, K., Woolley, J. K., Hoewe, J., Shade, D. D., & Chung, M.-Y. (2015). Media-induced elevation as a means of enhancing feelings of intergroup connectedness. *Journal of Social Issues*, 71, 106-122. https://doi.org/ 10.1111/josi.12099.
+* Oliver, M. B., & Woolley, J. K. (2015). Meaningfulness and entertainment: Fiction and reality in the land of evolving technologies. In H. Wang (Ed.), *Communication and the “good life"*, (pp. 45-60). New York: Peter Lang.
+* Eden, A., Hartmann, T. & Reinecke, L. (2015). Tuning in versus zoning out: The role of ego-depletion in selective exposure to challenging media. In H. Wang (Ed.). *Communication and the "good life"*, (International Communication Association Theme Book Series, Vol. 2), pp. 107-126. New York et al.: Peter Lang.
+* Rieger, D., Frischlich, L., Hagden, F., Schramm, K., Kauf, R., & Tappe, E. (2015). Appreciation in the face of death: Meaningful films buffer against death-related anxiety. *Journal of Communication*, 65(2), 351-372. https://doi.org/10.1111/jcom.12152
+* Nabi, R. L. (2015). Emotional flow in persuasive health messages. *Health Communication*, 30, 114-124.
+* Nabi, R. L., & Green, M. C. (2015). The role of a narrative's emotional flow in promoting persuasive outcomes. *Media Psychology*, 18, 137-162.
+* Myrick, J. G. & Oliver, M. B. (2015). Laughing and crying: Mixed emotions, compassion, and the effectiveness of a YouTube PSA about skin cancer. *Health Communication*, 30(8), 820-829. https://doi.org/10.1080/10410236.2013.845729
+* Tsay-Vogel, M., & Sanders, M. S. (2015). Fandom and its relationship to affective, cognitive, and behavioral audience responses: Examining the connection of fans to the World of Harry Potter. *Psychology of Popular Media Culture* [online first].
+* Bartsch, A., Kalch, A., & Oliver, M. B. (2014). Moved to think. The role of emotional media experi-ences in stimulating reflective thoughts. *Journal of Media Psychology*, 26(3),125-140. https://doi.org/ 10.1027/1864-1105/a000118
+* Bartsch, A., & Mares M.-L. (2014). Making sense of violence. Perceived meaningfulness as a predictor of audience interest in violent media content. *Journal of Communication*, 64(5), 956-976. https://doi.org/ 10.1111/jcom.12112
+* Bartsch, A., & Schneider, F. M. (2014). Entertainment and politics revisited: How non-escapist forms of entertainment can stimulate political interest and information seeking. *Journal of Communication*, 64(3), 369-396. https://doi.org/ 10.1111/jcom.12095
+* Reinecke, L., Hartmann, T., & Eden, A.L. (2014). The guilty couch potato: The role of ego-depletion in reducing recovery through media use. *Journal of Communication*, 64(4), 569-589.
+* Oliver, M.B., Bartsch, A., & Hartmann, T. (2014). Negative emotions and the meaningful sides of media entertainment. In Parrott, W.G. (Ed.). *The Positive Side of Negative Emotions* (pp. 224 - 246). New York: Guilford Press.
+* Slater, M.D., Johnson, B.K., Cohen, J., Comello, M.L.G., & Ewoldsen, D.R. (2014). Temporarily expanding the boundaries of the self: Motivations for entering the story world and implications for narrative effects. *Journal of Communication*, 64, 439-455.
+* Roth, F. S., Weinmann, C., Schneider, F. M., Hopp, F., & Vorderer, P. (2014). Seriously entertained: Antecedents and consequences of hedonic and eudaimonic entertainment experiences with political talk shows on TV. *Mass Communication and Society*, 17, 379-399. https://doi.org/10.1080/15205436.2014.891135
+* Rieger, D., Reinecke, L., Frischlich, L., & Bente, G. (2014). Media entertainment and well-being â€“ Linking hedonic and eudaimonic entertainment experience to media-induced recovery and vitality. *Journal of Communication*, 64(3), 456-478. https://doi.org/10.1111/jcom.12097
+* Nabi, R. L., & Keblusek, L. (2014). Inspired by hope, motivated by envy: Comparing the effects of discrete emotions in the process of social comparison to media figures. *Media Psychology*, 17, 208-234.
+* Das, E., Duiven, R., Arendsen, J.L., & Vermeulen, I.E. (2014). Exploring killer ads: A terror management account of death in advertisements. *Psychology & Marketing*, 31(10), 828-842.
+* Hartmann, T. (2013). Media entertainment as a result of recreation and psychological growth. In E. Scharrer (Eds.), *Media Effects/Media Psychology (Vol.  5). The International Encyclopedia of Media Studies* (pp. 170-188), A. Valdivia (Gen. Ed.). Boston, MA: Wiley-Blackwell.
+* Chung, A.H. & Slater, M.D. (2013). Reducing stigma and out-group distinctions through perspective-taking in narratives. *Journal of Communication*, 63, 894-911.
+* Bartsch, A. (2012). Emotional gratification in entertainment experience. Why viewers of movies and television series find it rewarding to experience emotions. *Media Psychology*, 15(3), 267-302. https://doi.org/ 10.1080/15213269.2012.693811
+* Das, E., Vonkeman, C., & Hartmann, T. (2012). Mood as a resource in dealing with health recommendations: How mood affects information processing and acceptance of quit-smoking messages. *Psychology & Health*, 27(1), 116-127.
+* Oliver, M. B., & Raney, A. A. (2011).  Entertainment as pleasurable and meaningful: Differentiating hedonic and eudaimonic motivations for entertainment consumption. *Journal of Communication*, 61(5), 984-1004.
+* Oliver, M. B., & Bartsch, A. (2010). Appreciation as audience response: Exploring entertainment gratifications beyond hedonism. *Human Communication Research*, 36(1), 53-81. https://doi.org/10.1111/j.1468-2958.2009.01368.x
+* Das, E., Bushman, B. J., Bezemer, M. D., Kerkhof, P., & Vermeulen, I. E. (2009). How terrorism news reports increase prejudice against outgroups: A terror management account. *Journal of Experimental Social Psychology*, 45, 453-459.
+ * Das, E., & Fennis, B. M. (2008). In the mood to face the facts: When a positive mood increases systematic processing of self-threatening messages. *Motivation and Emotion*, 32, 221-230.
+ * Mares, M. L., Oliver, M. B., & Cantor, J. (2008). Age differences in adults’ emotional motivations for exposure to films. *Media Psychology*, 11, 488-511.
+ * Slater, M.D., Rouner, D., & Long, M.A. (2006). Television dramas and support for controversial public policies: Effects and mechanisms. *Journal of Communication*, 56, 235-252.
+ * Slater, M.D. & Rouner, D. (2002). Entertainment-education and elaboration-likelihood: Understanding the processing of narrative persuasion. *Communication Theory*, 12, 173-191.
+ * Slater, M. (1990). Processing social information in messages:  Social group familiarity, fiction/non-fiction labels, and subsequent beliefs. *Communication Research*, 17, 327-343. 
 
 
 <h4>I’d like to become a member</h4>
@@ -390,50 +875,134 @@ bio
 
 <h4>Abstract</h4>
 
+Studies involving quite different research paradigms have demonstrated that literary reading sometimes changes readers’ sense of themselves and their lived world. Interviews inviting extended self-narration provide evidence that extended engagement with literary texts can precipitate intensive self-reflection and changes in worldview (e.g., Tangerås, 2018). Also, experimental studies that systemically vary reading conditions (e.g., text genres) indicate that engagement with literary (vs. non-literary) texts supports changes in self-relevant attitudes and beliefs (e.g., Dijkic et al., 2009). And, studies that assess modes of reading engagement indicate that open reflection within a distinctively “close” mode of reading engagement triggers “moving” shifts in text comprehension and self-understanding (e.g., Kuiken & Douglas, 2018; Menninghaus et al., 2015). Some evidence reported in these studies suggests that such changes occur especially during transitional or critical life events. There is increased clarity about the processes by which literary reading jointly influences readers’ understanding of their own and the world of the text. Contrasting contemporary formulations propose that (1) readers expand their sense of “possible selves” through engagement with fictional characters’ experiences (Brokerhof, et al., 2018); (2) readers are prompted to change by “defamiliarizing” formal and narrative textual features that motivate the articulation of alternative conceptions of self (Koopman & Hakemulder, 2015) ; and (3) readers are transformed through openly receptive engagement with aspects of text that afford improvisational “performance” of the experienced world of the text (Kuiken & Douglas, 2018). Besides comparatively evaluating these models, researchers in this area are prepared to entertain contributions of further interview studies of readers during life transitions, experimental studies of variations in reading contexts, and process-oriented studies of moment by moment reading activities (and their physiological or behavioral concomitants; e.g., Wassiliwizky et al., 2018). 
 
 <h4>Members</h4>
 
 {{< card "images/members/member-1.jpg" >}}
-#### Name
-Dept., University, City, Country.
+#### Olivia Fialho
+Postdoctoral Research Fellow at the Department of Literature, Area Studies and European Languages, University of Oslo, Norway.
 
-bio
+In her Project “Transformative Reading,” Olivia studies the phenomenology, preconditions, and underlying processes through which literary narrative fiction deepens perceptions of self and others. Her research has been implemented in different social contexts, particularly education and business, where she has been offering workshops on transformative reading, empathy and leadership.  
 {{</ card >}}
 
 
 <h4>Publications</h4>
 
-
-
-<h4>Resources</h4>
-
+* Djikic, M., & Oatley, K.  (2017). The Weary Voyager Model of creativity in relation to self.  In M. Karwowski, & J. C. Kaufman (Eds.) *The Creative Self:  Effect of beliefs, self-efficacy, mindset, and identity* (pp. 327-342).  Cambridge, U. S.:  Academic Press.
+* Djikic, M., & Oatley, K. (2014). The art in fiction: From indirect communication to changes of the self. *Psychology of Aesthetics, Creativity, and the Arts*, 8(4), 498-505. http://dx.doi.org/10.1037/a0037999 
+* Djikic, M., Oatley, K., & Moldoveanu, M.C. (2013a). Opening the closed mind: The effect of exposure to literature on the need for closure. *Creativity Research Journal*, 25(2), 149-154. http://dx.doi.org/10.1080/10400419.2013.783735 
+* Djikic, M., Oatley, K., & Moldoveanu, M.C. (2013b). Reading other minds: Effects of literature on empathy. *Scientific Study of Literature*, 3(1), 28-47. https://doi.org/10.1075/ssol.3.1.06dji 
+* Djikic, M., Oatley, K., & Carland, M. (2012). Genre or artistic merit? The effect of literature on personality. *Scientific Study of Literature*, 2(1), 2-36. https://doi.org/10.1075/ssol.2.1.02dji 
+* Djikic, M., Oatley, K., Zoeterman, S., & Peterson, J. B. (2009a). On ‘Being Moved’ by Art: How reading fiction transforms the self. *Creativity Research Journal*, 21(1), 24-29. http://dx.doi.org/10.1080/10400410802633392 
+* Djikic, M., Oatley, K., Zoeterman, S., & Peterson, J. B. (2009b). Defenseless against art: Impact of reading fiction on emotion change in avoidantly attached individuals. *Journal of Research in Personality* 43, 14-17. https://doi.org/10.1016/j.jrp.2008.09.003  
+* Schrijvers, M., Janssen, T., Fialho, O. & Rijlaarsdam, G. (2018). Gaining Insight Into Human Nature: A Review of Literature Classroom Intervention Studies. *Review of Educational Research*, 20(10), 1-43. https://doi.org/10.3102/0034654318812914
+* Schrijvers, M., Janssen, T., Fialho, O. & Rijlaarsdam, G. (2016). The Impact of Literature Education on Students’ Perceptions of Self and Others: Exploring Personal and Social Learning Experiences in Relation to Teacher Approach. *L1 Educational Studies in Language and Literature*, 16, 1-37. special issue on The Role of Writing in Literature Education, edited by Tanja Janssen and Irene Pieper. https://doi.org/10.17239/L1ESLL- 2016.16.04.01
+* Burke, M., Fialho, O., Zyngier, S. (Eds.) (2016). *Scientific Approaches to Literature in Learning Environments*. Amsterdam: John Benjamins.
+* Fialho, O. (2012) *Self-Modifying Experiences in Literary Reading: A Model for Reader Response*. PhD dissertation, University of Alberta
+* Fialho, O., Miall, D.S., & Zyngier, S. (2012). Experiencing or Interpreting Literature: Wording Instructions. In M. Burke, S. Csábi, L. Week, & J. Zerkowitz (Eds.), *Pedagogical Stylistics: Current Trends in Language, Literature and ELT* (pp. 58-74). London: Continuum.
+* Fialho, O., Zyngier, S., & Miall, D. S. (2011). Interpretation and experience: Two pedagogical interventions observed. *English in Education*, 45(3), 236-53
+* Tangerås, T. M. (2019). Intimate Reading. In J. Billington (Ed.), *Reading and Health*, Palgrave.
+* Tangerås, T. M. (2018). *"How Literature Changed My Life": A Hermeneutically Oriented Narrative Inquiry into Transformative Experiences of Reading Imaginative Literature*. PhD Dissertation, OsloMet University.
+* Tangerås, T. M. (2017). «Tor Ulvens dikt i lys av Longinos: En kvalitativ undersøkelse av den sublime leseopplevelsen.» In: *Rhetorica Scandinavica*, 73, 2016, pp 31—51.
+* Davis, P., Magee, F., Koleva, K., Tangerås, T. M., Hill, E., Baker, H. (2016). 'What Literature Can Do’: An investigation into the effectiveness of shared reading as a whole population health intervention.’ Guys and St Thomas Charity. https://www.liverpool.ac.uk/media/livacuk/instituteofpsychology/researchgroups/CRILSWhatLiteratureCanDo.pdf
+* Tangerås, T. M. (2015). Litteraturens terapeutiske potensial. In *Litteratur- og kulturformidling: Nye analyser og perspektiver*. Red: Tonje Vold og Helge Ridderstrøm. Oslo: Pax forlag.
+* Miall, D. S.  (2008). Feeling from the perspective of the empirical study of literature. *Journal of Literary Theory* 1(2): 377-393. https://doi.org/10.1515/JLT.2007.023 
+* Miall, D. S. (2008). 'Too soon transplanted’: Coleridge and the forms of dislocation. In W. van Peer, Ed., *The Quality of Literature: Linguistic Studies in Literary Evaluation* (pp. 95-116). Amsterdam and Philadelphia: John Benjamins.
+* Miall, D. S. (2011) Enacting the other: Towards an aesthetics of feeling in literary reading. In E. Schellekens & P. Goldie (Eds.), *The Aesthetic Mind: Philosophy and Psychology* (pp. 285-298). Oxford: Oxford University Press.
+* Miall, D. S. (2011).  Science in the perspective of literariness. *Scientific Studies of Literature*, 1(1), 7-14. https://doi.org/10.1075/ssol.00007.mia 
+* Miall, D. S. (2012). How does it feel? Attending to the unreliable narrator. *Fictions*, 11(11), 41-57.
+* Miall, D. S. (2017). Annihilation of self’: The cognitive challenge of the sublime. *Cognitive Literary Science: Dialogues between Literature and Cognition* (pp. 55-72). Oxford University Press.
+* Miall, D. S.  (2018). Towards an empirical model of literariness. *Scientific Study of Literature*, 8(1), 21-46. https://doi.org/10.1075/ssol.00007.mia 
+* Kuiken, D., & Douglas, S. (2018). Living metaphor as the site of bidirectional literary engagement. *Scientific Study of Literature*, 8(1), 47–76. https://doi.org/10.1075/ssol.18004.kui
+* Kuiken, D., & Douglas, S. (2017). Forms of absorption that facilitate the aesthetic and explanatory effects of literary reading. In F. Hakemulder, M. Kuijpers, E. Tan, M. Doicaru, K. Balin, (Eds.) *Narrative Absorption* (pp. 217-249). Amsterdam: John Benjamins Publishing.
+* Kuiken, D., & Douglas, S. (2017). Identifying aspects of absorption that facilitate aesthetic response (pp. 217-249). In F. Hakemulder, M. Kuijpers, E. Tan, M. Doicaru, K. Bálint, (Eds.) *Narrative Absorption*. Amsterdam: John Benjamins Publishing.
+* Sikora, S., Kuiken, D., & Miall, D. S. (2011). Expressive reading: A phenomenological study of readers’ experience of Coleridge’s ‘The rime of the ancient mariner.’ *Psychology of Aesthetics, Creativity, and the Arts*, 5(3), 258–268. https://doi.org/10.1037/a0021999
+* Kuiken, D. (2008). A theory of expressive reading. In S. Zyngier, M. Bortolussi, A. Chesnokova, & J. Auracher (Eds.), *Directions in Empirical Literary Studies: Essays in Honor of Willie van Peer* (pp. 49–68). Amsterdam: John Benjamins Publishing Company.
+* Kuiken, D., Miall, D. S., & Sikora, S. (2004). Forms of self-implication in literary reading. *Poetics Today*, 25(2), 171–203. https://doi.org/doi:10.1215/03335372-25-2-171
+* Kuiken, D., Phillips, L., Gregus, M., Miall, D. S., Verbitsky, M., & Tonkonogy, A. (2004). Locating self-modifying feelings within literary reading. D*iscourse Processes*, 38(2), 267–286. https://doi.org/DOI:10.1207/s15326950dp3802_6
 
 
 <h4>I’d like to become a member</h4>
 {{< button "Ask to join" "/contact">}}
 
+
 ### Poetry Writing Research
 
 <h4>Abstract</h4>
 
+Over the last decade, the usage of poetry writing has been integrated within research contexts. Poetry writing has been used as a source of data, as a data collection method and as a way of presenting interview data. The integration of poetry as a research method has happened predominantly with the aim of enhancing social understanding and in relation to the ethnographic investigation of individual personal experience and trauma. The field of the scientific study of literature has over the last 25 years generated data and theories which allow a deeper understanding of the way poetry is written and read. However, to date, there is little direct evidence of the way poetic (auto) ethnographies on the psychological processes and outcomes of writing and reading poetic research writing of this type. The aim of the present coalition is to generate new poetic (auto) ethnographic studies and to explicitly study the ramifications of the reading and writing of this type of research poem. The research team is situated in three different countries (Japan, Taiwan and the US) and includes researchers with experience of the range of forms of poetic (auto) ethnographic research. The research coalition wishes to leverage two different aspects of its constituent members: the access to educational settings and our international presence. As a basic design the coalition will generate ethnographic poetic data within our particular contexts and then explore using established research methodologies cross-cultural understandings of poetically expressed experiences. Outcomes of the coalitions work will contribute to the understanding of ways in which poetry is read, written and interacts with critical social change in different cultural contexts.
 
 <h4>Members</h4>
 
 {{< card "images/members/member-1.jpg" >}}
-#### Name
-Dept., University, City, Country.
+#### David I. Hanauer
+Professor of Applied Linguistics/English, Indiana University of Pennsylvania, USA.
 
-bio
+Dr. Hanauer has taught at Tel-Aviv University, Purdue University, University of California at Berkley and is currently Professor of Applied Linguistics at Indiana University of Pennsylvania and the Lead Educational Researcher and Assessment Coordinator of the SEA-PHAGES Program, a Howard Hughes Medical Institute funded project in the Hatful Laboratory at the University of Pittsburgh. Dr. Hanauer is the editor of the *Scientific Study of Literature* journal and the author of 7 books. He has published in a wide range of science, applied linguistics, literacy and educational journals and is the recipient of grants from the NSF, NIH and US Department of Education. His research addresses the empirical and educational aspects of reading and writing poetry. Hanauer’s poetry research can be divided into three areas; 1) research on the genre-specific aspects of poetry reading; 2) research into how poetry is written in a first and second language; & 3) the development of methodologies for using poetry writing as a research method (poetic autoethnography and poetic ethnography). Using primarily psycholinguistic methodologies Hanauer has explored questions of the distinctiveness of reading and writing poetry, beauty judgements in poetry, voice in poetry, the assessment of poetry reading and writing and the educational outcomes of using poetry in educational settings with varied populations.
 {{</ card >}}
 
+{{< card "images/members/member-1.jpg" >}}
+#### Gloria Park
+Professor of Applied Linguistics/English, Indiana University of Pennsylvania, USA.
+
+Dr. Gloria Park is a graduate of the University of Maryland, College Park’s College of Education, and is currently Professor and Director of Graduate Studies in Composition and Applied linguistics at Indiana University of Pennsylvania. Dr. Park has served as associate editor for *TESOL Journal* for 5 years and has recently edited *TESOL Encyclopedia of English Language Teaching: Teacher Training & Professional Development Volume* (2018). Her editorial experience also included publishing two special issues in *TESOL Journal* and *TESOL Quarterly*, 2014 and 2016, respectively. Her first monograph entitled, *Narratives of East Asian women teachers of English: Where Privilege Meets Marginalization*, was published by Multilingual Matters in 2017 (paperback released in 2018). In addition, Dr. Park’s work has appeared in *TESOL Quarterly, Journal of Language, Identity and Education, TESOL Journal, ELT Journal, Race and Education, System, Teacher Development*, and numerous edited collections. Her research focuses on the lives and experiences of language teachers, whose identities are complicated and contradictory as they move in and out of different linguistic and cultural landscapes. Chronicling the fluid and ever-changing nature of identity narratives is at the core of Dr. Park’s empirical work. Coupled with language teacher identity and teacher education work, Dr. Park focuses on the (auto) ethnographic narratives of gendered lives, especially in the areas of mothering, language teacher identity, and Korean as heritage language learner identity. 
+{{</ card >}}
+
+{{< card "images/members/member-1.jpg" >}}
+#### Justin Nicholes
+Assistant Professor of English, University of Wisconsin-Stout, USA.
+
+Dr. Nicholes is Copy Editor of *Scientific Study of Literature* and, in addition to holding a PhD in Composition and Applied Linguistics from Indiana University of Pennsylvania, holds a Master of Fine Arts in Creative Writing (fiction) from Wichita State University. His teaching and research center on (creative and disciplinary) writing’s role in constructing academic identities, enhancing learning, and supporting college-student persistence. Specifically, his ongoing empirical studies explore the relationship that creative writing has with science majors’ perceptions and ownership of both creative and science writing, as well as the association of academic life story writing and college students’ institutional commitment. 
+{{</ card >}}
+
+{{< card "images/members/member-1.jpg" >}}
+#### Atsushi Iida
+Associate Professor of English, Gunma University, Japan.
+
+Atsushi was awarded his Ph.D. in English (Composition and TESOL) at Indiana University of Pennsylvania. His research interests include second language writing, poetry writing, literature in second language education, and writing for academic publication. He has published his work in various journals including *Assessing Writing, System, Qualitative Inquiry, Scientific Study of Literature, English Teaching Forum*, and *Asian EFL Journal*. As a teacher-researcher of second language (L2) writing, Iida has conducted poetic inquiries from empirical and pedagogical viewpoints. Iida’s research is mainly divided into four areas: features of L2 poetry writing, voice and identity in L2 poetry writing, cross-genre literacy development, and L2 learners’ perceptions and attitudes toward creative writing. He has explored not only the value of poetry writing in educational contexts but also the potential of using poetry produced by L2 writers as qualitative data.  
+{{</ card >}}
+
+{{< card "images/members/member-1.jpg" >}}
+#### Fang-Yu Liao
+Assistant Professor of Foreign Language Center, Feng Chia University, Taiwan.  
+
+Dr. Liao has a Ph.D in Composition and Applied Linguistics from Indiana University of Pennsylvania. In late October 2017, she defended her dissertation, *Translingual Creative Writing Pedagogy: University Teachers’ Transformation on Pedagogical Ideas*, with distinction. Her research centers on teaching poetic autoethnography as translingual pedagogy in first/second/foreign language classrooms. Her poetry writing research addresses three aspects: (1) L1/L2 students’ understanding toward their poetry writing experiences, (2) literacy teachers’ perception toward teaching poetry writing, and (3) the efficacy of teaching poetic autoethnography in educational settings. Her most recent publications explore the use of poetic autoethnography as translingual pedagogy in first-year college composition courses and the ways prospective literacy teachers perceive writing poetry in a second language. Two of her poetry research are under review for publication: (1) a poetic autoethnographic study on the impact of writing poetry in a second language and (2) a curriculum development study on teaching poetry writing in first-year composition courses for translingual orientation. 
+{{</ card >}}
 
 <h4>Publications</h4>
 
-
-
-<h4>Resources</h4>
-
-
+* Hanauer, D. I. (2018). Intermediate states of literariness: Poetic lining, sociological positioning, and the activation of literariness. *Scientific Study of Literature*, 8(1): 114-134. https://doi.org/10.1075/ssol.18001.han
+* Nicholes, J. (2018). Developing STEM interest and genre knowledge through science fiction prototyping. *The STEAM Journal*, 3(2), 1-13. https://doi.org/10.5642/steam.20180302.14
+* Iida, A. (2018). Living in darkness at the time of the Great East Japan Earthquake: A poetic-narrative autoethnography. *Qualitative Inquiry*, 24(4), 270-280. https://doi.org/10.1177/1077800417745917
+* Liao, F. (2018). Translingual pedagogy through poetry writing: A case of college composition courses (Special Issue on Transnationalism). *Journal of Global Literacies, Technologies, and Emerging Pedagogy*, 4(3), 741-765.
+* Liao, F. (2018). Prospective ESL/EFL teachers’ perceptions towards writing poetry in a second language: Difficulty, value, emotion, and attitude. *Eurasian Journal of Applied Linguistics*, 4(1), 1-16. https://doi.org/10.32601/ejal.460583
+* Park, G. (2017). *Narratives of East Asian women teachers of English: Where privilege meets marginalization*. Cambridge, UK: Multilingual Matters, LTD. https://doi.org/10.21832/9781783098736
+* Nicholes, J. (2017a). Exploring imagined disciplinary identity in future-scenario autobiographical L2 writing. *The Journal of Literature in Language Teaching*, 6(2), 5-17. 
+* Nicholes, J. (2017b). Measuring ownership of creative versus academic writing: Implications for interdisciplinary praxis. *Writing in Practice: The Journal of Creative Writing Research*, 3.
+* Iida, A. (2017). Expressing study abroad experiences in second language haiku writing: Theoretical and practical implications for teaching haiku composition in Asian EFL classrooms. In H. J. Widodo, A. S. Wood, & D. Gupta (Eds.), *Asian English language classrooms: Where theory and practice meet* (pp. 180-191). New York: Routledge. https://doi.org/10.4324/9781315755243-12
+* Liao, F. (2017). The relationship between L2 students’ writing experiences and their perceived poetry writing ability. *Studies in Second Language Learning and Teaching*, 7(4), 621-649. https://doi.org/10.14746/ssllt.2017.7.4.4
+* Liao, F., & Roy, S. (2017). EFL students’ perceptions of writing poetry in English: The effect of educational backgrounds and belief towards poetry. *The Journal of Literature in Language Teaching*, 6(1), 55-72.
+* Masbuhin, R., & Liao, F. (2017). English teachers’ desire to teach poetry: The impact of educational backgrounds, belief towards poetry, and level of confidence. *The Journal of Literature in Language Teaching*, 6(1), 21-36.
+* Hanauer, D. I. (2016). Beauty judgements of non-professional poetry: Regression analyses of authorial attribution, emotional response and perceived writing quality. *Scientific Study of Literature*, 5(2): 183-199. https://doi.org/10.1075/ssol.5.2.04han
+* Varghese, M., Motha, S., Park, G., Reeves, J., & Trent, J. (2016). Language teacher identity in (multi)lingual educational contexts. Special Themed Issue for *TESOL Quarterly*. 
+* Park, G., Rinke, C., & Mawhinney, L. (2016). Exploring the interplay of cultural capital, habitus, and field in the life histories of two West African teacher candidates. *Teacher Development: An International Journal of Teachers’ Professional Development*, 20(5). http://dx.doi.org/10.1080/13664530.2016.1202312
+* Nicholes, J. (2016). Measuring writing engagement and emotional tone in L2 creative writing: Implications for interdisciplinarity. *Journal of Creative Writing Studies*, 2(1), 1-21.
+* Iida, A. (2016). Poetic identity in second language writing: Exploring an EFL learner’s study abroad experience. *Eurasian Journal of Applied Linguistics*, 2(1), 1-14. https://doi.org/10.32601/ejal.460985
+* Iida, A. (2016). Exploring earthquake experiences: A study of second language learners’ ability to express and communicate deeply traumatic events in poetic form. *System*, 57, 120-133. http://dx.doi.org/10.1016/j.system.2016.02.004
+* Hanauer, I. D., & Liao, F. (2016). ESL students’ perceptions of creative and academic writing. In M. Burke, O. Fialho, & S. Zyngier (Eds.), *Scientific Approaches to Literature in Learning Environments* (pp. 213-226). John Benjamins. https://doi.org/10.1075/lal.24.11han
+* Liao, F. (2016). Identities in an ESL poetry book: A case study of one Chinese student. *The Journal of Literature in Language Teaching*, 5(1) 45-61. 
+* Hanauer, D. I. (2015). Measuring voice in poetry written by second language learners. *Written Communication*, 32 (1): 66-86. https://doi.org/10.1177/0741088314563023
+* Nicholes, J. (2015). Short story analysis and writing in English Composition in China. *The Journal of Literature in Language Teaching*, 4(1), 8-20.
+* Park, G. (2013a). My autobiographical poetic rendition: An inquiry into humanizing our teacher-scholarship. L2 Journal Special Themed Issue: *L2 Writing and Personal History*, 5(1), 6-18. http://escholarship.org/uc/item/2wx585r5
+* Park, G. (2013). “Writing IS a way of knowing”: Writing and identity. *ELT Journal*, 67(3), 336-345. https://doi.org/10.1093/elt/cct012
+* Park, G.  (2012). “I am never afraid of being recognized as an NNES”: One woman teacher’s journey in claiming and embracing the NNES identity. *TESOL Quarterly*, 46(1), 127-151. https://doi.org/10.1002/tesq.4
+* Iida, A. (2012). The value of poetry writing: Cross-genre literacy development in a second language. *Scientific Study of Literature*, 2, 60-82. http://dx.doi.org/10.1075/ssol.2.1.04iid.
+* Park, G. (2011). Adult English language learners constructing and sharing their stories and experiences: The cultural and linguistic autobiography (CLA) writing project. *TESOL Journal*, 2(2), 156-172.  https://doi.org/10.5054/tj.2011.250378
+* Hanauer, D. (2010). *Poetry as Research: Exploring Second Language Poetry Writing*. Amsterdam: John Benjamins. https://doi.org/10.1075/lal.9
+* Iida, A. (2008). Poetry writing as expressive pedagogy in an EFL context: Identifying possible assessment tools for haiku poetry in EFL freshman college writing. *Assessing Writing* 13, 171-179. http://dx.doi.org/10.1016/j.asw.2008.10.001
+* Hanauer, D. (2001) The task of poetry reading and second language learning. *Applied Linguistics* 22(3), 295-323. https://doi.org/10.1093/applin/22.3.295
+* Hanauer, D.  (1998). The genre-specific hypothesis of reading: Reading poetry and reading encyclopedic items. *Poetics*, 26(2), 63-80. https://doi.org/10.1016/S0304-422X(98)00011-4
 
 <h4>I’d like to become a member</h4>
 {{< button "Ask to join" "/contact">}}
@@ -527,18 +1096,19 @@ Professor Oatley earned his PhD at University College London and held professors
 * Isberner, M.-B., Richter, T., Schreiner, C., EIsenbach, Y., Sommer, C. & Appel, M. (2018). Empowering stories: Transportation into narratives with strong protagonists increases self-related control beliefs. *Discourse Processes*, 56, 575-598. https://doi.org/10.1080/0163853X.2018.1526032
 
 <h4>Resources</h4>
-* Author (Genre) Familiarity Scales
 
-**Author Recognition Test (Genres) (ART–G)** (Mar & Rain, 2015). The ART–G is a measure of print-exposure derived from a measure of lifetime exposure to print that was developed by Stanovich and West (1989). It consists of a list of author names, and respondents are asked to indicate which names they recognize as belonging to authors. Guessing and indiscriminate responding are discouraged by the presence of false names (foils). This instrument is appropriate for measuring the level of exposure to fiction and nonfiction texts, including several sub-genres.
-  * [Author Recognition Test (Genres)](http://www.yorku.ca/mar/ART-G.zip)
+<h6>Author (Genre) Familiarity Scales</h6>
 
-* Theory of Mind (Empathy) Measures 
+* **Author Recognition Test (Genres) (ART–G)** (Mar & Rain, 2015). The ART–G is a measure of print-exposure derived from a measure of lifetime exposure to print that was developed by Stanovich and West (1989). It consists of a list of author names, and respondents are asked to indicate which names they recognize as belonging to authors. Guessing and indiscriminate responding are discouraged by the presence of false names (foils). This instrument is appropriate for measuring the level of exposure to fiction and nonfiction texts, including several sub-genres.
+    * [Author Recognition Test (Genres)](http://www.yorku.ca/mar/ART-G.zip)
 
-**Reading the Mind in the Eyes Test (Revised) (RMET-R)** (Baron-Cohen, Wheelwright, & Hill, 2001). The RMET–R provides a measure of adult mentalizing ability, i.e., the ability to infer what other people are thinking and feeling. Originally developed by Baron-Cohen, Jolliffe, Mortimore, and Robertson (1997), and closely related to studies of theory-of-mind in children, this measure of mentalizing is appropriate for normally-developing adults. Respondents are asked to identify the mental state a person is experiencing based on a photograph of their eye-region alone, choosing from among four possible responses.
-  * [Reading the Mind in the Eyes Test (Revised)](https://www.midss.org/content/reading-mind-eyes-test)
-    * [Instructions](https://docs.autismresearchcentre.com/tests/adult_instructions.pdf)
-    * [Part 1](https://docs.autismresearchcentre.com/tests/adult_part1.pdf)
-    * [Part 2](https://docs.autismresearchcentre.com/tests/adult_part2.pdf)
+<h6>Theory of Mind (Empathy) Measures</h6> 
+
+* **Reading the Mind in the Eyes Test (Revised) (RMET-R)** (Baron-Cohen, Wheelwright, & Hill, 2001). The RMET–R provides a measure of adult mentalizing ability, i.e., the ability to infer what other people are thinking and feeling. Originally developed by Baron-Cohen, Jolliffe, Mortimore, and Robertson (1997), and closely related to studies of theory-of-mind in children, this measure of mentalizing is appropriate for normally-developing adults. Respondents are asked to identify the mental state a person is experiencing based on a photograph of their eye-region alone, choosing from among four possible responses.
+    * [Reading the Mind in the Eyes Test (Revised)](https://www.midss.org/content/reading-mind-eyes-test)
+      * [Instructions](https://docs.autismresearchcentre.com/tests/adult_instructions.pdf)
+      * [Part 1](https://docs.autismresearchcentre.com/tests/adult_part1.pdf)
+      * [Part 2](https://docs.autismresearchcentre.com/tests/adult_part2.pdf)
 
 <h4>I’d like to become a member</h4>
 {{< button "Ask to join" "/contact">}}
@@ -548,24 +1118,50 @@ Professor Oatley earned his PhD at University College London and held professors
 
 <h4>Abstract</h4>
 
+Literature has often been analyzed as an artistic product, but it can also affect how individuals view the real world and themselves. Literature can affect the self, attitudes, beliefs, and behaviors by providing new perspectives and experiences for readers. There are several ways in which this change can occur. For example, literary texts may create empathy for characters that may extend to actual groups or social issues.  They may also evoke vivid mental imagery or facilitate a form of experiential reading that leads to a global shift in moral understanding. The effects may be short-term or relatively enduring. This chapter will consider how and when “literature enters life,” as well as future directions for this area of research.
 
 <h4>Members</h4>
 
 {{< card "images/members/member-1.jpg" >}}
-#### Name
-Dept., University, City, Country.
+#### Melanie C. Green
+Professor, Department of Communication, University at Buffalo, USA.
 
-bio
+Dr. Green's research examines how narratives can change the way individuals think and behave, including the effects of fictional stories on real-world attitudes. Her theory of "transportation into a narrative world" focuses on immersion into a story as a mechanism of narrative influence. She has examined narrative persuasion in a variety of contexts, from health communication to social issues. She has edited two books on these topics (*Narrative Impact* and *Persuasion: Psychological Insights and Perspectives, Second Edition*), and published numerous articles in psychology, communication, and interdisciplinary journals.
+{{</ card >}}
+
+{{< card "images/members/member-1.jpg" >}}
+#### Dan R. Johnson
+Associate Professor of Psychology and Neuroscience, Washington and Lee University, USA.
+
+Dr. Johnson’s research investigates the role of reading narrative fiction in the development of empathy, theory of mind, and attitude change.  Dr. Johnson also investigates how indicators of genre (e.g., science fiction) influence readers’ expectations and the degree to which they engage inferential processes.  In other work, Dr. Johnson studies how computational models of cognition (e.g., latent semantic analysis) can be applied to assess and enhance creativity.
+{{</ card >}}
+
+{{< card "images/members/paul.jpg" >}}
+#### Paul Sopčák
+Academic Integrity Coordinator and Lecturer, English Department, MacEwan University, Canada. 
+
+Dr. Sopčák's interests include early modernist literature, the empirical study of literature, phenomenology, and existential philosophy. He is assistant editor for the journal *Scientific Study of Literature* (SSOL) and Secretary of the International Society for the Empirical Study of Literature (IGEL). His current research looks at the relationship between literary reading, empathy, and prejudice. His research related to attitude change focuses on differentiating shifts in understanding that are facilitated by inference-driven reading from those that are facilitated by an experiential - and distinctively aesthetic - form of reading that involves a self-implicating and enactive type of empathy. It has focused on two general areas: the experience of one's mortality and moral attitude change.
 {{</ card >}}
 
 
 <h4>Publications</h4>
 
-
-
-<h4>Resources</h4>
-
-
+* Gavaler, C., & Johnson, D. R. (2017). The genre effect: A science fiction (vs. realism) manipulation decreases  inference effort, reading comprehension, and perception of literary merit. *Scientific Study of Literature*, 7, 79-108.
+* Appel, M., Gnambs, R., Richter, T., & Green, M.C.  (2015). The Transportation Scale - Short Form (TS-SF). *Media Psychology*, 18(2), 243-266.
+* Johnson, D. R., Huffman, B., & Jasper, D. (2014). Changing race boundary perception by reading narrative fiction. *Basic and Applied Social Psychology*, 36, 83-90. 
+* Green, M.C., & *Clark, J.M.  (2013). Transportation into narrative worlds: Implications for entertainment media influences on tobacco use.  *Addiction*, 108(3), 477-484.
+* Johnson, D. R., Jasper, D. M., Griffin, S., & Huffman, B. (2013). Reading narrative fiction reduces Arab-Muslim prejudice and offers a safe haven from intergroup anxiety. *Social Cognition*, 31, 578-598.
+* Johnson, D. R., Cushman, G., Borden, L., & McCune, M. (2013). Potentiating empathic growth: Generating imagery while reading fiction increases empathy and prosocial behavior. *Psychology of Aesthetics, Creativity, and the Arts*, 7, 306-312.
+* Johnson, D. R. (2013). Transportation into literary fiction reduces prejudice against and increases empathy for Arab-Muslims. *Scientific Study of Literature*, 3, 77-92.
+* Sopcak, P. (2013). “He made her feel the beauty:” Readers’ responses to Maurice Blanchot and Virginia Woolf’s treatments of finitude. *Scientific Study of Literature*, 3(2), 209–239. doi: 10.1075/ssol.3.2.04sop
+* Johnson, D. R. (2012). Transportation into a story increases empathy, prosocial behavior, and perceptual bias toward fearful expressions. *Personality and Individual Differences*, 52, 150-155. 
+* Kuiken, D., Campbell, P., and Sopcak, P. (2012). The Experiencing Questionnaire: Locating exceptional reading moments. *Scientific Study of Literature*, 2(2), 243–272. https://doi.org/10.1075/ssol.2.2.04kui
+* Sopcak, P. & Kuiken, D. (2012). Reader’s engagements with Virginia Woolf’s Mrs. Dalloway: From knowing about death to the experience of finitude. *Mémoires du Livre/Studies in Book Culture*, 3(2). doi: 10.7202/1009348ar.
+* Sopcak, P. (2011). A numerically aided phenomenological study of existential reading. In F. Hakemulder (Ed.), *De Stralende Lezer: Wetenschappelijk Onderzoek Naar De Invloed Van Het Lezen* (pp. 123- 152). Den Haag: Stichting Lezen.
+* Mazzocco, P.M., Green, M.C., Sasota, J.A, & Jones, N.W.  (2010). This story is not for everyone: Transportability and narrative persuasion. *Social Psychology and Personality Science*, 1(4), 361-368.
+* Sestir, M., & Green, M.C.  (2010). You are who you watch: Identification and transportation effects on temporary self-concept. *Social Influence*, 5(4), 272-288.
+* Green, M.C., Strange, J.J., & Brock, T.C. (Eds.) (2002). *Narrative Impact: Social and Cognitive Foundations*.  Mahwah, NJ: Lawrence Erlbaum Associates.
+* Green, M.C., & Brock, T.C. (2000). The role of transportation in the persuasiveness of public narratives. *Journal of Personality and Social Psychology*, 79(5), 701-721.
 
 <h4>I’d like to become a member</h4>
 {{< button "Ask to join" "/contact">}}
@@ -675,14 +1271,13 @@ Helena Bilandzic earned her PhD from the Ludwig-Maximilians-Universität (Munich
 
 <h4>Resources</h4>
 
-* Character Identification Scales
-  * **Cohen Identification Scale (Revised)** (Cohen, 2001). This scale measures audience member identification with a specific media character. It assesses identification with narrative characters (fictional or otherwise), such as figures in films, TV shows, or books. Identification involves sharing the perspective of the character, empathizing with the character's emotions, and sharing the character's motivations or goals. 
-        
-        [Cohen Identification Scale](https://drive.google.com/file/d/1egxEUF9Yt737ApByi1L4sKMSXG9Xb5qB/view)
+<h6>Character Identification Scales</h6>
+* **Cohen Identification Scale (Revised)** (Cohen, 2001). This scale measures audience member identification with a specific media character. It assesses identification with narrative characters (fictional or otherwise), such as figures in films, TV shows, or books. Identification involves sharing the perspective of the character, empathizing with the character's emotions, and sharing the character's motivations or goals. 
+    * [Cohen Identification Scale](https://drive.google.com/file/d/1egxEUF9Yt737ApByi1L4sKMSXG9Xb5qB/view)
   
-  * **Identification with the Character Scale** (Igartua & Barrios (2012). This scale also measures the respondent’s identification with a specific character. The measurement model specifies that identification with characters is a general factor involving three facets: emotional empathy, cognitive empathy, and the sensation of becoming or merging with the character.
+* **Identification with the Character Scale** (Igartua & Barrios (2012). This scale also measures the respondent’s identification with a specific character. The measurement model specifies that identification with characters is a general factor involving three facets: emotional empathy, cognitive empathy, and the sensation of becoming or merging with the character.
         
-        [Identification with the Character Scale](https://drive.google.com/file/d/1nSNBnLyV7ExdR0nf2baPAd3c9v5JJMhJ/view)
+    * [Identification with the Character Scale](https://drive.google.com/file/d/1nSNBnLyV7ExdR0nf2baPAd3c9v5JJMhJ/view)
         
 <h4>I’d like to become a member</h4>
 {{< button "Ask to join" "/contact">}}
@@ -692,23 +1287,16 @@ Helena Bilandzic earned her PhD from the Ludwig-Maximilians-Universität (Munich
 
 <h4>Abstract</h4>
 
+The tools and technologies through which children engage with narratives are increasingly digital, dynamic, and wearable. The changes to communication in the digital age imply changes to children’s everyday literacy practices: today’s children engage with narratives embedded in online games, interactive apps or video stories. Some are commercial and entertainment-oriented and some specifically designed to support the development of children’s reading and writing skills. Many parents and teachers struggle to support children’s learning with digital media and the rapidly expanding landscape of interactive print stories. In comparison with adults or even teenagers, young children’s engagement with digital literary narratives is little examined. This interdisciplinary Research Coalition explores the extent to which young children’s reading for pleasure is being shaped by the narrative content, materiality, personalization, and interactivity of stories. Materiality, personalization, and interactivity have been foregrounded through the digitization of communication but they remain three key enduring issues in children’s reading for pleasure, implicated in a number of reading-related outcomes such as comprehension, school achievement and empathy.
+
+The aim of the Coalition is for all members to jointly develop a strong knowledge base of current research in the area and agenda for future research. Collaborative research will be encouraged through meetings with members representing a range of disciplines, including psychology, neuroscience, education, literary studies, sociology, linguistics, computer science and communication and media studies. In addition to a special issue in *Scientific Study of Literature*, the Coalition aims to advance the field by organizing workshops and online discussions and holding an active dialogue with non-members interested in the Coalition’s mission, such as teachers, publishers and story app developers.
 
 <h4>Members</h4>
 
 {{< card "images/members/member-1.jpg" >}}
-#### Name
-Dept., University, City, Country.
-
-bio
+#### Natalia Kucirkova
+Professor of Reading and Early Childhood Development, University of Stavanger, Norway; Professor of Reading and Children’s Development, The Open University, UK.
 {{</ card >}}
-
-
-<h4>Publications</h4>
-
-
-
-<h4>Resources</h4>
-
 
 
 <h4>I’d like to become a member</h4>
@@ -849,17 +1437,17 @@ neurotypical Adults. *Research in Developmental Disabilities*, 115. https://doi.
 
 <h4>Resources</h4>
 
-* Mood Scales
+<h6>Mood Scales</h6>
 
-**Positive and Negative Affect Schedule (PANAS)** (Watson, Clark, & Tellegen, 1988). The Positive and Negative Affect Schedule (PANAS) is a self-report measure made up of two 10-item mood scales, i.e., two sets of words describing different states and emotions: 10 positive (e.g. interested, excited), 10 negative (e.g. nervous, jittery). Participants indicate next to each word the extent to which they are experiencing each emotion or state on a scale of 1- 5 (1 = not all; 5 = extremely). The scale can be used in pre/post test studies, or for capturing snapshot and real-time data. 
-  * (The original) [**PANAS**](https://www.brandeis.edu/roybal/docs/PANAS-GEN_website_PDF.pdf) (Watson, Clark, & Tellegen, 1988)
-  * (The expanded) [**PANAS-X**](https://www.midss.org/content/panas-x-manual-positive-and-negative-affect-schedule) (Watson & Clark, 1994)
+* **Positive and Negative Affect Schedule (PANAS)** (Watson, Clark, & Tellegen, 1988). The Positive and Negative Affect Schedule (PANAS) is a self-report measure made up of two 10-item mood scales, i.e., two sets of words describing different states and emotions: 10 positive (e.g. interested, excited), 10 negative (e.g. nervous, jittery). Participants indicate next to each word the extent to which they are experiencing each emotion or state on a scale of 1- 5 (1 = not all; 5 = extremely). The scale can be used in pre/post test studies, or for capturing snapshot and real-time data. 
+    * (The original) [**PANAS**](https://www.brandeis.edu/roybal/docs/PANAS-GEN_website_PDF.pdf) (Watson, Clark, & Tellegen, 1988)
+    * (The expanded) [**PANAS-X**](https://www.midss.org/content/panas-x-manual-positive-and-negative-affect-schedule) (Watson & Clark, 1994)
 
-* Qualitative Methods
+<h6>Qualitative Methods</h6>
 
-**Interpretive Phenomenological Analysis** (Smith, Flowers, & Larkin, 2009). Derived from the philosophy of Edmund Husserl, Interpretative Phenomenological Analysis (IPA) is a qualitative empirical approach that explores lived experience ‘from the inside,’ rather than starting from theoretical preconceptions or offering objective accounts of human experience.  IPA seeks to provide detailed examination of individual perceptions and meanings in relation to specific events, objects, or states by attending to and inhabiting another’s perspective or life-world. Since the approach involves a double interpretative endeavor (making sense of how a person makes sense of the world), the researcher is required repeatedly to return to participant testimony and ensure that interpretation is based in the participants’ life-view. IPA is thus intellectually connected to hermeneutics (the theory of interpretation). 
-  * (Overview of) [IPA](https://med-fom-familymed-research.sites.olt.ubc.ca/files/2012/03/IPA_Smith_Osborne21632.pdf) (Smith & Osborne, 2007)
-  * (Critical review of) [IPA](https://healthcare-communications.imedpub.com/a-critical-overview-of-interpretative-phenomenological-analysis-a-contemporary-qualitative-research-approach.pdf) (Tuffour, 2017)
+* **Interpretive Phenomenological Analysis** (Smith, Flowers, & Larkin, 2009). Derived from the philosophy of Edmund Husserl, Interpretative Phenomenological Analysis (IPA) is a qualitative empirical approach that explores lived experience ‘from the inside,’ rather than starting from theoretical preconceptions or offering objective accounts of human experience.  IPA seeks to provide detailed examination of individual perceptions and meanings in relation to specific events, objects, or states by attending to and inhabiting another’s perspective or life-world. Since the approach involves a double interpretative endeavor (making sense of how a person makes sense of the world), the researcher is required repeatedly to return to participant testimony and ensure that interpretation is based in the participants’ life-view. IPA is thus intellectually connected to hermeneutics (the theory of interpretation). 
+    * (Overview of) [IPA](https://med-fom-familymed-research.sites.olt.ubc.ca/files/2012/03/IPA_Smith_Osborne21632.pdf) (Smith & Osborne, 2007)
+    * (Critical review of) [IPA](https://healthcare-communications.imedpub.com/a-critical-overview-of-interpretative-phenomenological-analysis-a-contemporary-qualitative-research-approach.pdf) (Tuffour, 2017)
 
 <h4>I’d like to become a member</h4>
 {{< button "Ask to join" "/contact">}}
@@ -869,24 +1457,70 @@ neurotypical Adults. *Research in Developmental Disabilities*, 115. https://doi.
 
 <h4>Abstract</h4>
 
+Empirical ecocriticism is an emerging subfield of ecocriticism that focuses on the empirically grounded study of environmental narrative – in literature, film, television, etc. – and its influence on various audiences. The main objective of empirical ecocriticism is to put to test empirically claims made within ecocriticism, and the environmental humanities more generally, about the impact of environmental narratives. To this end, it employs empirical methods used in disciplines such as environmental communication, environmental psychology, and the empirical study of literature. These include correlational and experimental studies, qualitative research, and others. As currently defined, empirical ecocriticism is (a) empirically grounded; (b) open to qualitative and exploratory methodologies; (c) focused on the effects of narrative strategies and techniques, with the kind of depth and nuance that cultural critics have brought to their research for decades; and (d) open to critical engagement with competing conceptions of “empirical” data. One the central aims of this interdisciplinary field is to gain a better understanding of the role of environmental narratives in influencing people’s awareness, attitudes, and behavior in a time of rapid social and ecological transformation. Combining approaches from the humanities and the social sciences, empirical ecocriticism explores the ways in which people from various cultural backgrounds engage with environmental narratives and the larger repercussions of such engagement.
 
 <h4>Members</h4>
 
 {{< card "images/members/member-1.jpg" >}}
-#### Name
-Dept., University, City, Country.
+#### Wojciech Małecki
+Assistant Professor of Literary Theory, Institute of Polish Philology, University of Wrocław, Poland.
 
-bio
+ Wojciech is the author of two books, *Embodying Pragmatism* (Lang, 2010) and *Human Minds and Animal Stories* (Routledge,2019), the editor or co-editor of four collections of essays, and he has published numerous book chapters and contributed to journals such as *Teksty Drugie*, *The Oxford Literary Review*, *Foucault Studies*, *Angelaki*, *Journal of Ecocriticism*, *Deutsche Zeitschrift für Philosophie*, *Journal of Comparative Literature and Aesthetics*, *PLOS One*, *Poetics*, and others. Wojciech’s research interests include American pragmatism, the theory of interpretation, the environmental humanities, aesthetics, popular culture, and the empirical study of environmental literature. He is currently co-editing a thematic cluster of articles for the leading ecocritical journal *ISLE: Interdisciplinary Studies in Literature and Environment* with Matthew Schneider-Mayerson and Alexa Weik von Mossner. With Alexa Weik von Mossner, Wojciech Małecki, and Frank Hakemulder, he is co-editing an edited volume on the topic. 
 {{</ card >}}
 
+{{< card "images/members/member-1.jpg" >}}
+#### Matthew Schneider-Mayerson
+Assistant Professor of Social Sciences (Environmental Studies), Yale-NUS College, USA and Singapore.
+
+Matthew's research employs literary criticism, qualitative social science, and cultural history to examine cultural and political responses to contemporary environmental challenges, with a focus on climate change. He has published articles and book chapters on literature, popular culture, environmental futures, and environmental politics, and he is the author of *Peak Oil: Apocalyptic Environmentalism and Libertarian Political Culture* (University of Chicago Press, 2015) and the co-editor of *An Ecotopian Lexicon* (University of Minnesota Press, 2019). Together with Alexa Weik von Mossner, Matthew co-organized an interdisciplinary workshop on Empirical Ecocriticism at the Rachel Carson Center for Environment and Society in Munich and is co-editing a thematic cluster of articles for the leading ecocritical journal *ISLE: Interdisciplinary Studies in Literature and Environment*. With Alexa Weik von Mossner, Wojciech Małecki, and Frank Hakemulder, he is co-editing an edited volume on the topic.  
+{{</ card >}}
+
+{{< card "images/members/member-1.jpg" >}}
+#### Alexa Weik von Mossner
+Associate Professor of American Studies, University of Klagenfurt, Austria.
+
+After working for several years in the German film and television industry, Alexa earned her PhD in Literature at the University of California, San Diego in 2008. Her research explores contemporary environmental culture from a cognitive ecocritical perspective, including empirical studies. Her publications include the monographs *Cosmopolitan Minds* (U of Texas P 2014) and *Affective Ecologies* (Ohio State UP 2017), as well as articles in journals such as *Poetics Today*, *ISLE*, and *Textual Practice*. Currently, Alexa is principal investigator on the research project “Narrative Encounters with Ethnic American Literatures” (2018-2021), which has been funded by the Austrian Science Fund (FWF) and combines cognitive narratological analysis with experimental reception studies. Together with Matthew Schneider-Mayerson, Alexa has co-organized an interdisciplinary workshop on Empirical Ecocriticism at the Rachel Carson Center for Environment and Society in Munich and is co-editing a thematic cluster of articles for the leading ecocritical journal *ISLE*. Together with Matthew Schneider-Mayerson, Wojciech Małecki and Frank Hakemulder, she is co-editing an edited volume on the topic.
+{{</ card >}}
+
+{{< card "images/members/frank.png" >}}
+#### Frank Hakemulder
+Assistant Professor, Institute for Cultural Inquiry, Utrecht University, The Netherlands; Affiliated Full Professor, Reading Centre, Stavanger University, Norway. 
+
+With a background in Literary Studies, Frank specializes in the psychology of reading literature. His research pertains to the effects of reading literary narrative fiction on wellbeing, attitude change, self-concept, and social perception. He has published several books and articles, among them *The Moral Laboratory. Experiments Examining the Effects of Reading Literature on Social Perception and Moral Self-Concept* (Benjamins, 2000), *Scientific Methods for the Humanities* (Benjamins, 2012), and *Narrative Absorption* (Benjamins, 2017). He also conducts studies concerning the reception of film and trains students in the humanities in both qualitative and quantitative research methods. Frank participated in the Empirical Ecocriticism Workshop at the Rachel Carson Center in December 2018 and subsequently joined Matthew Schneider-Mayerson, Wojciech Małecki, and Alexa Weik von Mossner as an editor on the *Empirical Ecocriticism* volume.
+{{</ card >}}
 
 <h4>Publications</h4>
 
-
+* Małecki, Wojciech, Alexa Weik von Mossner and Małgorzata Dobrowolska. 2020. “Stories versus Speciesism: The Case of Alice Walker's ‘Am I Blue?’” *ISLE: Interdisciplinary Studies in Literature and Environment*.
+* Schneider-Mayerson, Matthew. 2020. “Climate Fiction, Empathy, and Environmental Justice: Surveying the Reception of The Water Knife.” *ISLE: Interdisciplinary Studies in Literature and Environment*.
+* Małecki, Wojciech, Bogusław Pawłowski, Piotr Sorokowski, and Anna Oleszkiewicz. 2019. “Feeling for Textual Animals: Narrative Empathy Across Species Lines.” *Poetics*.
+* Małecki, Wojciech, Piotr Sorokowski, Bogusław Pawłowski, Marcin Cieński. 2019. *Human Minds and Animal Stories: How Narratives Make Us Care About Other Species*. New York and London: Routledge.
+* Małecki, Wojciech, Bogusław Pawłowski, Marcin Cieński, and Piotr Sorokowski. 2018. “Can Fiction Make Us Kinder to Other Species? The Impact of Fiction on pro-Animal Attitudes and Behavior.” *Poetics* 66 (February): 54–63.
+* Schneider-Mayerson, Matthew. 2018. “The Influence of Climate Fiction: An Empirical Survey of Readers.” *Environmental Humanities* 10(2).
+* De Mulder, H.N.M., Hakemulder, F., van den Berghe, Rianne, Klaassen, F. & van Berkum, J.J.A. 2017. Effects of exposure to literary narrative fiction - From book smart to street smart? *Scientific Study of Literature*, 7(1): 129-169.
+* Tan, Ed, Doicaru, Miruna, Hakemulder, F., Balint, K.E. & Kuijpers, M.M. 2017. Into film: - Does absorption in a movie’s story world pose a paradox? In Frank Hakemulder, Moniek Kuijpers, Ed S. Tan, Katalin Bálint & Miruna Doicaru (Eds.), *Narrative Absorption*. 97-118. John Benjamins.
+* Hakemulder, F., Kuijpers, M.M., Tan, Ed, Balint, K.E. & Doicaru, Miruna. 2017. *Narrative Absorption*. Amsterdam: John Benjamins.
+* Weik von Mossner, Alexa. 2017. *Affective Ecologies: Empathy, Emotion and Environmental Narrative*. Columbus: Ohio State University Press.
+* Małecki, Wojciech, Bogusław Pawłowski, and Piotr Sorokowski. 2016. “Literary Fiction Influences Attitudes toward Animal Welfare.” *PLoS ONE* 11.1212
+* Koopman, Emy & Hakemulder, Frank. 2015. Effects of Literature on Empathy and Self-Reflection - A Theoretical-Empirical Framework. *Journal of Literary Theory*, 9(1), 79-111
+* Schneider-Mayerson, Matthew. 2013. “Disaster Movies and the ‘Peak Oil’ Movement: Does Popular Culture Encourage Eco-Apocalyptic Beliefs in the U.S.?” *Journal for the Study of Religion, Nature & Culture* 7(3): 289-314.
 
 <h4>Resources</h4>
 
+**Coalition Objectives**
 
+The main objective of empirical ecocriticism is to put to empirical test claims made within ecocriticism, and the environmental humanities more generally, about the impact of environmental narratives. To this end, it employs empirical methods used in disciplines such as environmental communication, environmental psychology, and the empirical study of literature. These include correlational and experimental studies, and others. 
+
+In its current working definition, empirical ecocriticism is
+
+* Empirically grounded
+* Open to qualitative and exploratory methodologies
+* Focused on the effects of narrative strategies and techniques, with the kind of depth and nuance that cultural critics have brought to their research for decades
+* Open to critical engagement with competing definitions of “empirical” data
+
+While empirical ecocriticism focuses on employing established empirical methods, it therefore remains open to different characterizations of empirical data and to the use of humanistic methods as well, including those characteristic of traditional ecocriticism, such as textual and historical analysis.
+
+For more information about this emerging coalition, follow this link: [Empirical Ecocriticism](https://empiricalecocriticism.com/). Recently the Rachel Carson Center for Environment and Society hosted a [workshop on Empirical Ecocriticism](https://www.carsoncenter.uni-muenchen.de/events_conf_seminars/event_history/2018-events-history/conferences2018/empirical-ecocriticism-ws/index.html). A report on that workshop is available [here](https://seeingthewoods.org/2018/12/21/empirical-ecocriticism/).
 
 <h4>I’d like to become a member</h4>
 {{< button "Ask to join" "/contact">}}
@@ -954,7 +1588,7 @@ Don specializes in the study of dreams, aesthetics, and phenomenology. He has pu
 *	Bruhn, M. J. (2018). Intentionality and constraint in conceptual blending. In S. Czábi (Ed.), *Expressive Minds and Artistic Creations: Studies in Cognitive Poetics* (pp. 79-100). New York: Oxford University Press.
 *	Jacobs A. M. (2018) The Gutenberg English Poetry Corpus: Exemplary quantitative narrative analyses. *Front. Digit. Humanit*. 5:5. doi: 10.3389/fdigh.2018.00005
 *	Jacobs, A. M. (2018). (Neuro-)cognitive poetics and computational stylistics. *Scientific Study of Literature* 8(1), 165-208.
-*	Jacobs, A. M., & Kinder, A. (2018). What makes a metaphor literary? Answers from two computational studies, *Metaphor and Symbol*, 33(2), 85-100. DOI: 10.1080/10926488.2018.1434943
+*	Jacobs, A. M., & Kinder, A. (2018). What makes a metaphor literary? Answers from two computational studies, *Metaphor and Symbol*, 33(2), 85-100. https://doi.org/10.1080/10926488.2018.1434943
 *	Willemsen, S., Kraglund, R.A., & Troscianko, E. T. (2018). Interpretation: Its status as object or method of study in cognitive and unnatural narratology. *Poetics Today* 39(3), 597-622.
 *	Troscianko, E. T. (2018). Fiction-reading for good or ill: Eating disorders and the case for creative-bibliotherapy research. *Medical Humanities*, epub ahead of print: http://ifp.nyu.edu/2018/journal-article-abstracts/medhum-2017-011375v1/
 *	Kuiken, D., & Douglas, S. (2018). Living metaphor as the site of bidirectional literary engagement. *Scientific Study of Literature* 8(1), 47-76.
