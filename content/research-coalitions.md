@@ -179,6 +179,7 @@ Stefan holds an M.A. (Magister Artium) in General Linguistics and British Studie
 * Zimmerer, F., Scharinger, M., & Reetz, H. (2014). Phonological and morphological constraints on German /t/-deletions. *Journal of Phonetics*, 45, 64–75. https://doi.org/10.1016/j.wocn.2014.03.006
 * Scharinger, M. (2009). Minimal representations of alternating vowels. *Lingua*, 119(10), 1414-1425. https://doi.org/10.1016/j.lingua.2007.12.009
 
+<h4>Resources</h4>
 
 <h6>Computer Analysis of Metrical Structure</h6>
 
@@ -1272,6 +1273,7 @@ Helena Bilandzic earned her PhD from the Ludwig-Maximilians-Universität (Munich
 <h4>Resources</h4>
 
 <h6>Character Identification Scales</h6>
+
 * **Cohen Identification Scale (Revised)** (Cohen, 2001). This scale measures audience member identification with a specific media character. It assesses identification with narrative characters (fictional or otherwise), such as figures in films, TV shows, or books. Identification involves sharing the perspective of the character, empathizing with the character's emotions, and sharing the character's motivations or goals. 
     * [Cohen Identification Scale](https://drive.google.com/file/d/1egxEUF9Yt737ApByi1L4sKMSXG9Xb5qB/view)
   
