@@ -6,7 +6,7 @@ title: IGEL
 
 {{< news color="#F6FBF8" >}}
 
-### I am a special news
+### News
 
 This is the new IGEL website.
 {{</ news >}}
