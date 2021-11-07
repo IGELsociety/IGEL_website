@@ -20,12 +20,12 @@ The 18th IGEL conference will be held on the University of Central Florida campu
 
 {{< row >}}
 
-{{< speaker img="images/q.jpg" >}}
+{{< speaker img="images/members/member-1.jpg" >}}
 ##### tba
 tba
 {{</ speaker >}}
 
-{{< speaker img="images/q.jpg" >}}
+{{< speaker img="images/members/member-1.jpg" >}}
 ##### tba
 tba
 {{</ speaker >}}
