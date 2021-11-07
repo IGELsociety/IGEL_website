@@ -8,8 +8,8 @@ IGEL sponsors publication of the journal Scientific Study of Literature (SSOL) t
 
 {{< button "Go to SSOL" "https://benjamins.com/catalog/ssol/" >}}
 
-### History
-[to be completed]
+<!---### History
+[to be completed]-->
 
 
 ### Editorial Board

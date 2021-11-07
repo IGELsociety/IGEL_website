@@ -8,7 +8,7 @@ month: "" # 30 April
 duration: "6 Month"
 fee: "Free"
 type: "past-conference" #[upcoming/past]
-readmore: true
+readmore: false
 weight: 11
 ---
 
