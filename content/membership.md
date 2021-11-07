@@ -44,4 +44,4 @@ BIC/SWIFT: TRIONL2U
 
 **Option #2: Credit card**
 
-{{< button "Pay with credit card" "https://igelsocietyregistration.netlify.app/igelwebsite_membership" >}}
+{{< button "Pay with credit card" "https://igelregistration.netlify.app/igelwebsite_membership" >}}
