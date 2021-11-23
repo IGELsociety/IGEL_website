@@ -15,6 +15,7 @@ If you are interested in starting a new research coalition involving a small gro
 
 {{< button "Contact us" "/contact">}}
 
+___
 
 ## Modes of Textual Representation
 
@@ -26,7 +27,6 @@ One of the central goals of the empirical study of literature is to determine th
 For this we need to distinguish four approaches to the ontology of foregrounding: (1) foregrounding seen as textual procedures (also referred to as deviations and parallelism); (2) foregrounding considered as a phenomenon occurring in the perception of readers (i.e., noticing that something is different in comparison to its context); (3) readers’ experience of foregrounding; and (4) the effects of such experiences in the culture at large. These four conceptions are interdependent and interactive, but only to a degree. To start with, readers will only perceive a deviation if the relevant information about context is available to them (e.g., their knowledge of genre conventions). And if perceived, there are still a number of factors that determine whether and how they interpret the intentionality and purpose of the deviation or parallelism and the whether they experience foregrounding in the sense of an aesthetic or distinctly literary response (e.g., readers’ attitude toward literary values). The research in this coalition focuses on the second and third approach. However, in our interdisciplinary group we will also consider the first, for instance in the formulation of hypotheses, and explore implications for the fourth.
 
 Thus, our research coalition represents (and brings together) a wide range of topics, such as, reader variables that predict susceptibility to foregrounding; the way the interplay between deviation and parallelism affects responses; the relationship between backgrounding and foregrounding, the relation between foregrounding and perceived meaningfulness; foregrounding in other media than literary texts (e.g., film and music).
-
 
 
 <h4>Members</h4>
@@ -104,6 +104,7 @@ Frank has a background in literary theory and comparative literature. His resear
 <h4>I’d like to become a member</h4>
 {{< button "Ask to join" "/contact">}}
 
+___
 
 ### Prosodic and Phonological Effects in Literary Texts
 
@@ -199,6 +200,7 @@ Stefan holds an M.A. (Magister Artium) in General Linguistics and British Studie
 <h4>I’d like to become a member</h4>
 {{< button "Ask to join" "/contact">}}
 
+___
 
 ### Contextual Meaning-making in Reading: The Role of Affect
 
@@ -273,6 +275,7 @@ Department of Criminology, Bar-Ilan University, Israel.
 <h4>I’d like to become a member</h4>
 {{< button "Ask to join" "/contact">}}
 
+___
 
 ### Computational Stylistics
 
@@ -406,6 +409,7 @@ Anne's primary research is related to the effects and implications of digitizati
 <h4>I’d like to become a member</h4>
 {{< button "Ask to join" "/contact">}}
 
+___
 
 ### Constructing Inferences (Situation Models)
 
@@ -493,6 +497,7 @@ Joseph Magliano's research focuses on how people understand what they read and w
 <h4>I’d like to become a member</h4>
 {{< button "Ask to join" "/contact">}}
 
+___
 
 ### Absorption (Transportation, Immersion)
 
@@ -610,6 +615,7 @@ member of the scientific advisory board of OPERAS (the Research Infrastructure s
 <h4>I’d like to become a member</h4>
 {{< button "Ask to join" "/contact">}}
 
+___
 
 ### Culture, Cognition, and Literary Comprehension
 
@@ -680,6 +686,7 @@ Atsushi Iida was awarded his Ph.D. in English (Composition and TESOL) at Indiana
 <h4>I’d like to become a member</h4>
 {{< button "Ask to join" "/contact">}}
 
+___
 
 ## Aesthetic and Expressive Effects
 
@@ -872,6 +879,8 @@ Marie-Louise Mares' research focuses on life-span developmental changes in media
 <h4>I’d like to become a member</h4>
 {{< button "Ask to join" "/contact">}}
 
+___
+
 ### Openness, Intensive Reflection, and Self-altering Literary Reading
 
 <h4>Abstract</h4>
@@ -927,6 +936,7 @@ In her Project “Transformative Reading,” Olivia studies the phenomenology, p
 <h4>I’d like to become a member</h4>
 {{< button "Ask to join" "/contact">}}
 
+___
 
 ### Poetry Writing Research
 
@@ -1008,6 +1018,7 @@ Dr. Liao has a Ph.D in Composition and Applied Linguistics from Indiana Universi
 <h4>I’d like to become a member</h4>
 {{< button "Ask to join" "/contact">}}
 
+___
 
 ## Reading Outcomes (Social Cognition)
 
@@ -1116,6 +1127,7 @@ Professor Oatley earned his PhD at University College London and held professors
 <h4>I’d like to become a member</h4>
 {{< button "Ask to join" "/contact">}}
 
+___
 
 ### Absorption (e.g., Transportation) and Attitude Change
 
@@ -1169,6 +1181,7 @@ Dr. Sopčák's interests include early modernist literature, the empirical study
 <h4>I’d like to become a member</h4>
 {{< button "Ask to join" "/contact">}}
 
+___
 
 ### Character Engagement (e.g., Identification) and Social Cognition
 
@@ -1286,6 +1299,7 @@ Helena Bilandzic earned her PhD from the Ludwig-Maximilians-Universität (Munich
 <h4>I’d like to become a member</h4>
 {{< button "Ask to join" "/contact">}}
 
+___
 
 ### Child Development and Reading for Pleasure
 
@@ -1353,6 +1367,7 @@ bio
 <h4>I’d like to become a member</h4>
 {{< button "Ask to join" "/contact">}}
 
+___
 
 ### Literary Reading and Mental Well-Being
 
@@ -1456,6 +1471,7 @@ neurotypical Adults. *Research in Developmental Disabilities*, 115. https://doi.
 <h4>I’d like to become a member</h4>
 {{< button "Ask to join" "/contact">}}
 
+___
 
 ### Empirical Ecocriticism
 
@@ -1529,6 +1545,7 @@ For more information about this emerging coalition, follow this link: [Empirical
 <h4>I’d like to become a member</h4>
 {{< button "Ask to join" "/contact">}}
 
+___
 
 ## History, Theory, and Method
 
@@ -1543,7 +1560,7 @@ This coalition focuses on philosophical, methodological, and theoretical challen
 #### Mark Bruhn
 Professor of English Literature, Regis University, Denver, USA.
 
-With a study of deixis published in 2005, Mark’s research took a turn toward “historical cognitive poetics,” which aims to assess the ways in which historical theories, practices, and interpretations of literature may contribute to present-day cognitive and empirical literary studies. His scholarship focuses on Romantic poetry in general and Wordsworth’s in particular, including a monograph Wordsworth Before Coleridge (Routledge, 2018) and contributions to Cognition, Literature, and History (Routledge, 2014), The Oxford Handbook of William Wordsworth (2015), The Palgrave Handbook of Affect Studies and Textual Criticism (2017), the de Gruyter Handbook of British Romanticism (2017), and Romanticism and Consciousness Revisited (2022). His literary-critical essays on English literature from Chaucer to Atwood have appeared in such journals as The Chaucer Review, European Romantic Review, Poetics Today, Studies in Philology, Studies in Romanticism, and The Wallace Stevens Journal.
+With a study of deixis published in 2005, Mark’s research took a turn toward “historical cognitive poetics,” which aims to assess the ways in which historical theories, practices, and interpretations of literature may contribute to present-day cognitive and empirical literary studies. His scholarship focuses on Romantic poetry in general and Wordsworth’s in particular, including a monograph *Wordsworth Before Coleridge* (Routledge, 2018) and contributions to *Cognition, Literature, and History* (Routledge, 2014), *The Oxford Handbook of William Wordsworth* (2015), *The Palgrave Handbook of Affect Studies and Textual Criticism* (2017), the de Gruyter *Handbook of British Romanticism* (2017), and *Romanticism and Consciousness Revisited* (2022). His literary-critical essays on English literature from Chaucer to Atwood have appeared in such journals as *The Chaucer Review*, *European Romantic Review*, *Poetics Today*, *Studies in Philology*, *Studies in Romanticism*, and *The Wallace Stevens Journal*.
 [Website](https://markbruhn.weebly.com/)
 {{</ card >}}
 
@@ -1565,7 +1582,7 @@ As part of the interdisciplinary “Languages of Emotion” project at FUB, Arth
 #### Emily T. Troscianko
 Research Associate, The Oxford Research Centre in the Humanities (TORCH), Oxford University, Oxford, UK.
 
-Emily's research hovers between cognitive literary studies and the health humanities. She has published a monograph on the psychological effects of reading Kafka (Kafka's Cognitive Realism, 2014) and is co-author of the third edition of a textbook on consciousness (Consciousness: An Introduction, 2018). Her work in empirical literary studies began with an investigation of how scientific and philosophical perspectives on mental imagery and emotional responses help us understand the "Kafkaesque" power of Kafka's prose style. More recently (and especially relevant to this coalition), her publications have included a coauthored paper for Poetics Today (2018) entitled "Interpretation: Its status as object or method of study in cognitive and unnatural narratology".  Emily conducts empirical studies on readers' responses to textual features using forced-choice, survey, and verbal/pictorial free-response procedures, as well as computational linguistics and eye-tracking methods. Her current work focuses mostly on whether readers' interactions with texts are therapeutically relevant (in positive or negative ways), taking eating disorders as a case study. 
+Emily's research hovers between cognitive literary studies and the health humanities. She has published a monograph on the psychological effects of reading Kafka (*Kafka's Cognitive Realism*, 2014) and is co-author of the third edition of a textbook on consciousness (Consciousness: An Introduction, 2018). Her work in empirical literary studies began with an investigation of how scientific and philosophical perspectives on mental imagery and emotional responses help us understand the "Kafkaesque" power of Kafka's prose style. More recently (and especially relevant to this coalition), her publications have included a coauthored paper for *Poetics Today* (2018) entitled "Interpretation: Its status as object or method of study in cognitive and unnatural narratology". Emily conducts empirical studies on readers' responses to textual features using forced-choice, survey, and verbal/pictorial free-response procedures, as well as computational linguistics and eye-tracking methods. Her current work focuses mostly on whether readers' interactions with texts are therapeutically relevant (in positive or negative ways), taking eating disorders as a case study. 
 [Website](https://troscianko.com)
 (Photo by Sybilla Pereira)
 {{</ card >}}
@@ -1629,6 +1646,7 @@ Don specializes in the study of dreams, aesthetics, and phenomenology. He has pu
 <h4>I’d like to become a member</h4>
 {{< button "Ask to join" "/contact">}}
 
+___
 
 ### History of Empirical Studies of Literature
 
