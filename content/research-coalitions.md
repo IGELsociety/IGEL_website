@@ -1111,7 +1111,7 @@ Professor Oatley earned his PhD at University College London and held professors
       * [Part 1](https://docs.autismresearchcentre.com/tests/adult_part1.pdf)
       * [Part 2](https://docs.autismresearchcentre.com/tests/adult_part2.pdf)
 
-{{< video library="1" src="Mar.mp4" controls="yes" >}}
+{{< video src="Mar.mp4" >}}
 
 <h4>I’d like to become a member</h4>
 {{< button "Ask to join" "/contact">}}

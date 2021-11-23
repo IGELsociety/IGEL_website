@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "http://demo.themefisher.com/"
 title = "IGEL"
-theme = "godocs"
+theme = ["hugo-video", "godocs"]
 # google analytics
 googleAnalytics = "" # example : UA-123-45
 # disable language
@@ -84,7 +84,7 @@ logo = "images/logo.png"
 favicon = "images/favicon.png"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "IGEL society"
 # contact form action
 contact_form_action = "https://formspree.io/f/xgerbwby" # contact form works with https://formspree.io
 
