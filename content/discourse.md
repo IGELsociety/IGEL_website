@@ -26,12 +26,13 @@ Under the heading of “Empirical Approaches to Literature and Reading” we cou
 **Links to sister organizations**
 * [Poetics and Linguistics Association (PALA)](http://www.pala.ac.uk/)
 * [International Training Network for the Empirical Study of Literature (ELIT)](https://www.elitnetwork.eu/)
-* [International Association for Literary Semantics (IALS)](https://ials.ac.uk/)
+* [International Association of Literary Semantics (IALS)](https://ials.ac.uk/)
 * [Society for Text and Discourse (ST&D)](http://www.societyfortextanddiscourse.org/)
 * [Aachen Center for Cognitive and Empirical Literary Studies (ACCELS)](https://www.accels.rwth-aachen.de/go/id/cidrb/?lidx=1)
 * [Literature, Cognition and Emotions (LCE)](https://www.hf.uio.no/english/research/strategic-research-areas/lce/)
-* [International Association for Empirical Aesthetics (IAEA)](http://www.science-of-aesthetics.org/)
-* [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/en.html)
+* [International Association of Empirical Aesthetics (IAEA)](http://www.science-of-aesthetics.org/)
+
+<!--- [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/en.html) -->
 
 
 {{< button "Go to Discourse" "https://discourse.igelsociety.org/" >}}

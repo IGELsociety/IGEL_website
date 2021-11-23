@@ -8,10 +8,10 @@ title: IGEL
 
 ### News
 
-This is the new IGEL website.
+Welcome! This is the new IGEL website.
 {{</ news >}}
 
-IGEL supports efforts to apply, or facilitate the application of, scientific methods to study the structure and functions of literature as well as the reception of literature. Amongst the functions of literature that researchers in our community investigate, are healing, social cohesion, education, entertainment, meaning making and its aesthetic function. Literature is broadly defined as all cultural artefacts that embody literary devices, such as narrative genre, stylistic variations, and figurative language. The domain includes novels, short stories, and poetry, but also theatre, film, television, and digital media.
+The International Society for the Empirical Study of Literature ([IGEL](about-us/#what-is-igel)) supports efforts to apply, or facilitate the application of, scientific methods to study the structure and functions of literature as well as the reception of literature. Amongst the functions of literature that researchers in our community investigate, are healing, social cohesion, education, entertainment, meaning making and its aesthetic function. Literature is broadly defined as all cultural artefacts that embody literary devices, such as narrative genre, stylistic variations, and figurative language. The domain includes novels, short stories, and poetry, but also theatre, film, television, and digital media.
 
 # How to navigate this website
 

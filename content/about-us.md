@@ -86,7 +86,7 @@ We do not tolerate rude, dismissive or in any way inappropriate behavior at any 
 
 At IGEL we strive to be inclusive towards anyone with an interest in empirical literary studies in the broadest sense. This includes a broad definition of the term *literature* to include other narrative media, such as film, theatre or video games. We also have a rather broad understanding of what falls under the heading of *empirical methods*: we are open towards naturalistic and qualitative work, experimental and quantitative work, as well as computational work. 
 
-As part of our inclusiveness and diversity policies, we have made registration free for undergraduate students and early career researchers from economically disadvantaged countries. PhD students as well as researchers from all levels coming from economically disadvantaged countries can apply for a bursary to get (part of) their travel and accommodation expenses covered, as well as their registration costs. Our training schools will be held online, so more people can join in. We will also do our best to record as much of our in-person or hybrid events, so people who are unable to travel will still be able to catch up on presentations. 
+As part of our inclusiveness and diversity policies, we have made registration to our conferences and training schools reduced/free for undergraduate students and early career researchers from economically disadvantaged countries. PhD students as well as researchers from all levels coming from economically disadvantaged countries can apply for a bursary to get (part of) their travel and accommodation expenses covered, as well as their registration costs. Our training schools will be held online, so more people can join in. We will also do our best to record as much of our in-person or hybrid events, so people who are unable to travel will still be able to catch up on presentations. 
 
 IGEL and it’s local conference organizers will actively approach undergraduate students as well as early career researchers, as well as researchers from economically disadvantaged countries, advertising these policies that may allow these people to attend an IGEL conference.
 
@@ -107,7 +107,7 @@ Although empirical studies of literature have a longer history, the Society was 
 - 2004: Edmonton, Canada
 - 2006: München, Germany
 - 2008: Memphis, United States
-- [2010: Utrecht, Netherlands]()
+- 2010: Utrecht, Netherlands
 - [2012: Montreal, Canada](https://drive.google.com/file/d/193Ux0wS_kptVlemvjUIMFMy3O6ZbkCq0/view?usp=sharing)
 - [2014: Torino, Italy](https://drive.google.com/file/d/1azkvIoUVhs0x8UMnPNZlcVV5Ny5wEbtg/view?usp=sharing)
 - [2016: Chicago, United States](https://drive.google.com/file/d/1PWDviGYmiW-lIouD7svMepOwwGbNP1JP/view?usp=sharing)

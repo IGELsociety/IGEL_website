@@ -13,6 +13,9 @@ If you would like to join a research coalition, please contact the specific rese
 ### Submitting a Coalition Proposal
 If you are interested in starting a new research coalition involving a small group of investigators with records of accomplishment in a specific research area, please send an email to Moniek Kuijpers (IGEL President) who, in turn, will present your proposal to the Board for consideration.
 
+{{< button "Contact us" "/contact">}}
+
+
 ## Modes of Textual Representation
 
 ### Effects of Foregrounding
@@ -277,7 +280,7 @@ Department of Criminology, Bar-Ilan University, Israel.
 
 The written substrate of literary works is clearly the basis of all things literary. However, in the empirical study of literature, the textual base has long been secondary to the study of readerly and social-economic dimensions. What is more, following the formalist and structuralist traditions, empirical textual studies have as a rule focused on features of “deviance”, or foregrounding. To recalibrate this situation, the computational stylistics coalition will concentrate on the textual substrate of literary discourse – in formal detail, as well as in quantitative breadth. 
 
- Following ideas by Genette (1993) as well as Hamburger (1993), we will textually examine the dimension of style inasmuch as that of fictional world making. Our aim is to give a new text-based account of what makes literary texts literary: at the levels of (a) *intra-literary discourse*, in comparison with non-literary works, and (b) *inter-literary/non-literary discourse*, in diachronic and synchronous comparison with other (types of) literary texts. We ask whether literature, seen generally, is really typically marked by features that “stick out”, or whether it may be other, more backgrounded features that are indicative. As this research requires large and varied sets of data, as well as reliable and automatized means of textual analyses, we will tap into the computational assets available within the paradigm of “Digital Humanities” and Digital Stylistics”, using big samples of digitized versions of literary texts and text-mining techniques for their analysis.[^1] 
+ Following ideas by Gérald Genette (*Fiction and Diction*) as well as Käte Hamburger (*The Logic of Literature*), we will textually examine the dimension of style inasmuch as that of fictional world making. Our aim is to give a new text-based account of what makes literary texts literary: at the levels of (a) *intra-literary discourse*, in comparison with non-literary works, and (b) *inter-literary/non-literary discourse*, in diachronic and synchronous comparison with other (types of) literary texts. We ask whether literature, seen generally, is really typically marked by features that “stick out”, or whether it may be other, more backgrounded features that are indicative. As this research requires large and varied sets of data, as well as reliable and automatized means of textual analyses, we will tap into the computational assets available within the paradigm of “Digital Humanities” and Digital Stylistics”, using big samples of digitized versions of literary texts and text-mining techniques for their analysis (e.g. frequency analyses of features and collocations, keyness, quantitative content analysis, stylometry, topic modeling, sentiment analysis, semantic word embedding).  
 
 *Inductive Stock Taking*
 At the highest level, our computational stylistic research wishes to contribute to a descriptive account of the full variety of genres and text types – throughout literary history up to the current date, including canonical as well as popular literary production. It pursues the following open questions about textual indicators of fictionality/literariness:
@@ -291,8 +294,6 @@ Given the long and relevant tradition of analyzing rhetorical features of style 
 * *Analysis*: How are these features distributed across genres, epochs, cultures, and so on?
 
 Naturally, the latter type of computational analysis may grow out of reader response studies, guide stimuli construction, and generally feed back into reader response studies.
-
-[^1]: Including but not limited to: frequency analyses of features and collocations, keyness, quantitative content analysis, stylometry, topic modeling, sentiment analysis, semantic word embedding.  The methodology combines manual annotation, automatic detection, machine learning with (descriptive, multi-variate, inferential) statistics.
 
 <h4>Members</h4>
 
@@ -1563,7 +1564,7 @@ As part of the interdisciplinary “Languages of Emotion” project at FUB, Arth
 #### Emily T. Troscianko
 Research Associate, The Oxford Research Centre in the Humanities (TORCH), Oxford University, Oxford, UK.
 
-WEmily's research hovers between cognitive literary studies and the health humanities. She has published a monograph on the psychological effects of reading Kafka (Kafka's Cognitive Realism, 2014) and is co-author of the third edition of a textbook on consciousness (Consciousness: An Introduction, 2018). Her work in empirical literary studies began with an investigation of how scientific and philosophical perspectives on mental imagery and emotional responses help us understand the "Kafkaesque" power of Kafka's prose style. More recently (and especially relevant to this coalition), her publications have included a coauthored paper for Poetics Today (2018) entitled "Interpretation: Its status as object or method of study in cognitive and unnatural narratology".  Emily conducts empirical studies on readers' responses to textual features using forced-choice, survey, and verbal/pictorial free-response procedures, as well as computational linguistics and eye-tracking methods. Her current work focuses mostly on whether readers' interactions with texts are therapeutically relevant (in positive or negative ways), taking eating disorders as a case study. 
+Emily's research hovers between cognitive literary studies and the health humanities. She has published a monograph on the psychological effects of reading Kafka (Kafka's Cognitive Realism, 2014) and is co-author of the third edition of a textbook on consciousness (Consciousness: An Introduction, 2018). Her work in empirical literary studies began with an investigation of how scientific and philosophical perspectives on mental imagery and emotional responses help us understand the "Kafkaesque" power of Kafka's prose style. More recently (and especially relevant to this coalition), her publications have included a coauthored paper for Poetics Today (2018) entitled "Interpretation: Its status as object or method of study in cognitive and unnatural narratology".  Emily conducts empirical studies on readers' responses to textual features using forced-choice, survey, and verbal/pictorial free-response procedures, as well as computational linguistics and eye-tracking methods. Her current work focuses mostly on whether readers' interactions with texts are therapeutically relevant (in positive or negative ways), taking eating disorders as a case study. 
 [Website](https://troscianko.com)
 (Photo by Sybilla Pereira)
 {{</ card >}}

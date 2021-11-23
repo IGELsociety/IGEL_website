@@ -102,7 +102,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [[params.nav_button]]
 style = "solid" # available style: solid, outline
 label = "Membership"
-link = "membership/"
+link = "member/"
 
   
 ############################# social site ########################
