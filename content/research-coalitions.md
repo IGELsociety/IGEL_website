@@ -100,6 +100,7 @@ Frank has a background in literary theory and comparative literature. His resear
 * van Peer, W. (1990). The measurement of metre: Its cognitive and affective functions. *Poetics* 19, 259-275. 10.1016/0304-422X(90)90023-X
 * van Peer, W. (1986). *Stylistics and Psychology. Investigations of Foregrounding*. London: Croom Helm.
 
+{{< video src="Hakemulder.mp4" height="auto" width="1080" controls=true autoplay=false loop=false muted=false >}}
 
 <h4>I’d like to become a member</h4>
 {{< button "Ask to join" "/contact">}}
@@ -612,6 +613,8 @@ member of the scientific advisory board of OPERAS (the Research Infrastructure s
     * [Article](https://open-research-europe.ec.europa.eu/articles/1-11) describing the review process
     * [Repository](https://doi.org/10.17605/OSF.IO/RBZ8G) with with annotated items and summary model
 
+{{< video src="Kuijpers.mp4" height="auto" width="1080" controls=true autoplay=false loop=false muted=false >}}
+
 <h4>I’d like to become a member</h4>
 {{< button "Ask to join" "/contact">}}
 
@@ -875,6 +878,7 @@ Marie-Louise Mares' research focuses on life-span developmental changes in media
  * Slater, M.D. & Rouner, D. (2002). Entertainment-education and elaboration-likelihood: Understanding the processing of narrative persuasion. *Communication Theory*, 12, 173-191.
  * Slater, M. (1990). Processing social information in messages:  Social group familiarity, fiction/non-fiction labels, and subsequent beliefs. *Communication Research*, 17, 327-343. 
 
+{{< video src="Raney.mp4" height="auto" width="1080" controls=true autoplay=false loop=false muted=false >}}
 
 <h4>I’d like to become a member</h4>
 {{< button "Ask to join" "/contact">}}
@@ -1122,6 +1126,7 @@ Professor Oatley earned his PhD at University College London and held professors
       * [Part 1](https://docs.autismresearchcentre.com/tests/adult_part1.pdf)
       * [Part 2](https://docs.autismresearchcentre.com/tests/adult_part2.pdf)
 
+{{< video src="Mar.mp4" height="auto" width="1080" controls=true autoplay=false loop=false muted=false >}}
 
 <h4>I’d like to become a member</h4>
 {{< button "Ask to join" "/contact">}}
@@ -1466,6 +1471,8 @@ neurotypical Adults. *Research in Developmental Disabilities*, 115. https://doi.
 * **Interpretive Phenomenological Analysis** (Smith, Flowers, & Larkin, 2009). Derived from the philosophy of Edmund Husserl, Interpretative Phenomenological Analysis (IPA) is a qualitative empirical approach that explores lived experience ‘from the inside,’ rather than starting from theoretical preconceptions or offering objective accounts of human experience.  IPA seeks to provide detailed examination of individual perceptions and meanings in relation to specific events, objects, or states by attending to and inhabiting another’s perspective or life-world. Since the approach involves a double interpretative endeavor (making sense of how a person makes sense of the world), the researcher is required repeatedly to return to participant testimony and ensure that interpretation is based in the participants’ life-view. IPA is thus intellectually connected to hermeneutics (the theory of interpretation). 
     * (Overview of) [IPA](https://med-fom-familymed-research.sites.olt.ubc.ca/files/2012/03/IPA_Smith_Osborne21632.pdf) (Smith & Osborne, 2007)
     * (Critical review of) [IPA](https://healthcare-communications.imedpub.com/a-critical-overview-of-interpretative-phenomenological-analysis-a-contemporary-qualitative-research-approach.pdf) (Tuffour, 2017)
+
+{{< video src="Billington.mp4" height="auto" width="1080" controls=true autoplay=false loop=false muted=false >}}
 
 <h4>I’d like to become a member</h4>
 {{< button "Ask to join" "/contact">}}
