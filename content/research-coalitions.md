@@ -100,6 +100,8 @@ Frank has a background in literary theory and comparative literature. His resear
 * van Peer, W. (1990). The measurement of metre: Its cognitive and affective functions. *Poetics* 19, 259-275. 10.1016/0304-422X(90)90023-X
 * van Peer, W. (1986). *Stylistics and Psychology. Investigations of Foregrounding*. London: Croom Helm.
 
+<h4>Resources</h4>
+
 {{< video src="Hakemulder.mp4" height="auto" width="1080" controls=true autoplay=false loop=false muted=false >}}
 
 <h4>I’d like to become a member</h4>
@@ -877,6 +879,8 @@ Marie-Louise Mares' research focuses on life-span developmental changes in media
  * Slater, M.D., Rouner, D., & Long, M.A. (2006). Television dramas and support for controversial public policies: Effects and mechanisms. *Journal of Communication*, 56, 235-252.
  * Slater, M.D. & Rouner, D. (2002). Entertainment-education and elaboration-likelihood: Understanding the processing of narrative persuasion. *Communication Theory*, 12, 173-191.
  * Slater, M. (1990). Processing social information in messages:  Social group familiarity, fiction/non-fiction labels, and subsequent beliefs. *Communication Research*, 17, 327-343. 
+
+<h4>Resources</h4>
 
 {{< video src="Raney.mp4" height="auto" width="1080" controls=true autoplay=false loop=false muted=false >}}
 
