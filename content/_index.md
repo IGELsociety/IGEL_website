@@ -4,6 +4,9 @@ title: IGEL
 ---
 # International Society for the Empirical Study of Literature
 
+
+{{< video src="Mar.mp4" height="auto" width="1080" controls=true autoplay=false loop=false muted=false >}}
+
 {{< news color="#F6FBF8" >}}
 
 ### News
