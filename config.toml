@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "http://demo.themefisher.com/"
 title = "IGEL"
-theme = ["hugo-video", "godocs"]
+theme = "godocs"
 # google analytics
 googleAnalytics = "" # example : UA-123-45
 # disable language

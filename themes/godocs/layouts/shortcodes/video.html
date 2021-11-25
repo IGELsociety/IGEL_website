@@ -1,0 +1,16 @@
+{{ $src:= .Get `src` }}
+{{ $width:= .Get `width` }}
+{{ $height:= .Get `height` }}
+{{ $autoplay:= .Get `autoplay` | default false }}
+{{ $loop:= .Get `loop` | default false }}
+{{ $muted:= .Get `muted` | default false }}
+{{ $controls:= .Get `controls` | default true }}
+{{ $class:= .Get `class` }}
+
+
+{{ if $src }}
+<video {{with $width}}width="{{.}}"{{end}} {{with $height}}height="{{.}}"{{end}} {{if $autoplay}}autoplay{{end}} {{if $loop}}loop{{end}} {{if $muted}}muted{{end}} {{if $controls}}controls{{end}} class="embed-responsive {{$class}}" >
+  <source src="{{ $src | relURL }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+{{ end }}
