@@ -9,4 +9,8 @@ builds
 package-lock.json
 public
 resources
+<<<<<<< HEAD
 .Rproj.user
+=======
+.hugo_build.lock
+>>>>>>> 1f38e07793a5c550dac2cac2735f987824f401a3
