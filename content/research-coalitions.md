@@ -1037,7 +1037,7 @@ Fiction—in print, film, and even video games—exposes its consumers not only 
 
 <h4>Members</h4>
 
-{{< card "images/members/member-1.jpg" >}}
+{{< card "images/members/Raymond.png" >}}
 #### Raymond A. Mar
 Dept. of Psychology, York University, Toronto, Canada.
 
@@ -1045,7 +1045,7 @@ Professor Mar earned his PhD at the University of Toronto before being hired at 
 [Website](https://yorku.ca/mar/)
 {{</ card >}}
 
-{{< card "images/members/member-1.jpg" >}}
+{{< card "images/members/Lenhart.jpg" >}}
 #### Jan Lenhart
 Department of Psychology, Universität Bamberg, Bamberg, Germany.
 
@@ -1060,7 +1060,7 @@ Professor Tamir completed her undergraduate degree in cognitive neuroscience at 
 [Wwebsite](http://psnlab.princeton.edu)
 {{</ card >}}
 
-{{< card "images/members/member-1.jpg" >}}
+{{< card "images/members/Kevane.jpg" >}}
 #### Michael Kevane
 Leavey School of Business, Santa Clara University, Santa Clara, USA.
 
@@ -1075,7 +1075,7 @@ Dr. Richter’s background in psychology and philosophy culminated in a PhD on t
 [Website](https://go.uniwue.de/richter)
 {{</ card >}}
 
-{{< card "images/members/member-1.jpg" >}}
+{{< card "images/members/Burgett.jpg" >}}
 #### Jennifer Burgett (nee Barnes)
 Dept. of Psychology, University of Oklahoma, Norman, USA.
 
@@ -1083,13 +1083,13 @@ Professor Barnes completed her degree in cognitive science (Yale University in 2
 [Website](https://www.ou.edu/gaylord/people/faculty/jennifer-barnes)
 {{</ card >}}
 
-{{< card "images/members/member-1.jpg" >}}
+{{< card "images/members/Mumper.jpg" >}}
 #### Micah Mumper
 
 Mr. Mumper earned his BA in psychology at Macalester College and his Master’s degree in cognitive psychology at Stony Brook University. His research interests include experiences of written and spoken language, and discourse processing. Mr. Mumper has also authored papers on the experience of narrative as mediated by reader memory.
 {{</ card >}}
 
-{{< card "images/members/member-1.jpg" >}}
+{{< card "images/members/Oatley.jpg" >}}
 #### Keith Oatley
 Professor Emeritus of cognitive psychology, University of Toronto, Toronto, Canada.
 
