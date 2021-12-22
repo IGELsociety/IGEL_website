@@ -303,6 +303,13 @@ Naturally, the latter type of computational analysis may grow out of reader resp
 
 <h4>Members</h4>
 
+{{< card "images/members/grisot.jpg" >}}
+#### Giulia Grisot
+Postdoctoral Researcher, Faculty of Linguistics and Literary Studies, Bielefeld University, Germany.
+
+Giulia is a researcher interested in the mechanisms by which humans process and understand language and literature, and in the ways linguistic data can be explored computationally. She is currently part of the research project [“High Mountains Low Arousal? Distant Reading Topographies of Sentiment in German Swiss Novels in the early 20th Century”](https://mountain-sentiment.github.io/). In her PhD project she explored language processing of difficulties in literary texts, with a particular focus on Virginia Woolf. It combined stylistics and psycholinguistics methods (in particular eye tracking), to investigate textual complexities from an empirical viewpoint.
+{{</ card >}}
+
 {{< card "images/members/member-1.jpg" >}}
 #### Andrew Piper
 Professor and William Dawson Scholar, Department of Languages, Literatures, and Cultures, McGill University, Montreal, Canada.
@@ -333,6 +340,7 @@ Berenike applies computational and reader-response approaches to the study of li
 
 <h4>Publications</h4>
 
+* Herrmann, J. B., Grisot, G., Gubser, S., & Kreyenbühl, E. (2021). Ein großer Berg Daten? Zur bibliothekswissenschaftlichen Dimension des korpusliteraturwissenschaftlichen Digital Humanities-Projekts „High Mountains – Deutschschweizer Erzählliteratur 1880–1930”. *Zeitschrift Für Bibliothekskultur / Journal for Library Culture*, 8(1). https://doi.org/10.21428/1bfadeb6.6e2feff6
 * Kraicer, E., & Piper, A. (2019). Social characters: The hierarchy of gender in contemporary English-language fiction, *Journal of Cultural Analytics*.
 * Piper, A. (2018). *Enumerations: Data and Literary Study*. Chicago University Press.
 * Jacobs, A. M. (2018a). The Gutenberg English Poetry Corpus: Exemplary quantitative narrative analyses. *Front. Digit. Humanit*. 5:5. https://doi.org/10.3389/fdigh.2018.00005 
