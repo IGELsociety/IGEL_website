@@ -1120,14 +1120,6 @@ Dr. Richter’s background in psychology and philosophy culminated in a PhD on t
 [Website](https://go.uniwue.de/richter)
 {{</ card >}}
 
-{{< card "images/members/Burgett.jpg" >}}
-#### Jennifer Burgett (nee Barnes)
-Dept. of Psychology, University of Oklahoma, Norman, USA.
-
-Professor Barnes completed her degree in cognitive science (Yale University in 2006) and did graduate work at Cambridge and Yale. Once a primate cognition researcher, she is the author of several works of young adult fiction. Currently a professor of professional writing, as well as social and developmental psychology, her research interests center on the psychology of fiction and storytelling. Jennifer is co-author of a paper that defends as valid a failure to replicate a study showing gains in theory-of-mind-related abilities after reading literary fiction.
-[Website](https://www.ou.edu/gaylord/people/faculty/jennifer-barnes)
-{{</ card >}}
-
 {{< card "images/members/Mumper.jpg" >}}
 #### Micah Mumper
 
