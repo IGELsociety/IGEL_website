@@ -1,7 +1,7 @@
 ---
 title: "IGEL conference"
-image: "images/logo.png"
-description: "meta description"
+image: "images/events-img/UCF.jpg"
+description: "IGEL 2022 conference in Orlando"
 location: "Orlando, United States"
 year: "2022"
 month: "14-16 July"
