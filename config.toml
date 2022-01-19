@@ -168,8 +168,8 @@ url = "research-coalitions/"
 weight = 5
 
 [[Languages.en.menu.main]]
-name = "Discourse"
-url = "discourse/"
+name = "Concordance"
+url = "concordance/"
 weight = 6
 
 
