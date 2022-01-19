@@ -37,5 +37,6 @@ With _Concordance_ we can also help you to organize online and hybrid events. We
 <!--- [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/en.html) -->
 
 
-{{< button "Go to _Concordance_" "https://discourse.igelsociety.org/" >}}
+{{< button "Go to Concordance" "https://discourse.igelsociety.org/" >}}
+
 (This is a temporary link, we will soon have a dedicated domain)
