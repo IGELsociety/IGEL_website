@@ -3,7 +3,7 @@ title: "Concordance"
 description: "Platform for community exchange about empirical literary studies"
 ---
 
-## Discourse
+## Concordance
 
 ### Introduction
 Although the corona crisis has been tough on many of us, it has also shown us how important a sense of community is. There is quite a large group of researchers using a variety of empirical approaches to study literature and reading, but these researchers are scattered across several international communities, which are not always in contact with one another. Opportunities for discussing research with like-minded scholars tend to be confined, for many of us, to once a year (or once every two years) events. 
