@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://demo.themefisher.com/"
+baseURL = "https://igelsociety.org/"
 title = "IGEL"
 theme = "godocs"
 # google analytics
@@ -9,7 +9,7 @@ disableLanguages = ["fr"] # desable language from here
 
 # hugo outputs
 [outputs]
-home = [ "HTML", "JSON"]
+home = ["HTML", "JSON"]
 
 # render unsafe html
 [markup.goldmark.renderer]
@@ -73,9 +73,9 @@ light = "#FBFBFB"
 
 # Font Variables
 primary_font = "Montserrat:wght@300;400;500;600;700;800"
-primary_font_type = "sans-serif" # [serif/sans-serif]
+primary_font_type = "sans-serif"                         # [serif/sans-serif]
 secondary_font = ""
-secondary_font_type = "" # [serif/sans-serif]
+secondary_font_type = ""                                 # [serif/sans-serif]
 icon_font = "Font Awesome 5 Free"
 
 #################### default parameters ################################
@@ -100,15 +100,15 @@ preloader = "" # use jpg, png, svg or gif format.
 # link = "changelog"
 
 [[params.nav_button]]
-style = "solid" # available style: solid, outline
+style = "solid"      # available style: solid, outline
 label = "Membership"
 link = "member/"
 
-  
+
 ############################# social site ########################
 [[params.social]]
 title = "twitter"
-icon = "fab fa-twitter" # fontawesome icon : https://fontawesome.com/icons
+icon = "fab fa-twitter"                  # fontawesome icon : https://fontawesome.com/icons
 link = "https://twitter.com/IgelSociety"
 
 
@@ -133,11 +133,11 @@ title = "How to become a member?"
 image = "images/cta-illustration.jpg"
 content = ""
 
-  # call to action button
-  [Languages.en.call_to_action.button]
-  enable = "true"
-  label = "Click here"
-  link = "member/"
+# call to action button
+[Languages.en.call_to_action.button]
+enable = "true"
+label = "Click here"
+link = "member/"
 
 
 ############## English navigation ###############
