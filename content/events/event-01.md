@@ -1,8 +1,8 @@
 ---
 title: "IGEL conference"
 image: "images/events-img/UCF.jpg"
-description: "IGEL 2022 conference in Orlando"
-location: "Orlando, United States"
+description: "IGEL 2022 conference"
+location: "online"
 year: "2022"
 month: "14-16 July"
 duration: ""
@@ -13,7 +13,7 @@ weight: 1
 ---
 
 ## About Event
-The 18th IGEL conference will be held on the University of Central Florida campus in Orlando, Florida from July 14-16, 2022. The call for papers is available on the conference website. Please address any questions to the main organizer, Shannon Whitten: shannon[dot]whitten[at]ucf[dot]edu
+The 18th IGEL conference will be held ~~on the University of Central Florida campus in Orlando, Florida~~ online from July 14-16, 2022. The call for papers is available on the conference website. Please address any questions to the main organizer, Shannon Whitten: shannon[dot]whitten[at]ucf[dot]edu
 
 Conference website: https://sciences.ucf.edu/igel/
 
