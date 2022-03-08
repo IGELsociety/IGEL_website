@@ -6,6 +6,7 @@ description: "meta description"
 ## IGEL statement about war
 
 __8 March 2022__
+
 The last few weeks have taken a dark turn for our friends and colleagues in Ukraine and Russia. With this message IGEL wants to reach out to our members in Ukraine: We want to let you know that we are thinking about you and are standing with you in solidarity during this difficult time. As an international organization, that is proud of its close-knit community of members from all over the world, we also want to offer our membership ways to help our colleagues suffering from the effects of this terrible war.
 
 We are, of course, aware, that there are many others who have suffered or are still suffering from the effects of war and conflict in their home countries, often without the same level of attention from the world. That is why we have searched for ways in which we can help and support refugees around the world, including Ukraine. Please consider donating to local foundations, or consider helping in different ways as suggested by Scholars at Risk (https://www.scholarsatrisk.org/).
