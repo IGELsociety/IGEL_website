@@ -44,9 +44,9 @@ Paul Sopcak, MacEwan University, Canada
 Marloes Mak, Radboud University Nijmegen, The Netherlands
 {{</ speaker >}}
 
-{{< speaker img="images/caroline.jpg" >}}
+{{< speaker img="images/rocio.jpg" >}}
 ##### Training School coordinator
-Caroline Kutsch, RWTH Aachen, Germany
+Rocío Riestra Camacho, UNED National Distance Education University, Spain
 {{</ speaker >}}
 
 {{< speaker img="images/federico.jpg" >}}
