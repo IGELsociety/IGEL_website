@@ -43,6 +43,6 @@ IBAN: NL53 TRIO 0390 9278 05
 BIC/SWIFT: TRIONL2U
 ```
 
-**Option #2: Credit card**
+**Option #2: Credit card and other direct payment methods (Apple Pay, Google Pay,giropay,iDEAL and SEPA debit)**
 
-{{< button "Pay with credit card" "/membership" >}}
+{{< button "Pay now" "/membership" >}}
