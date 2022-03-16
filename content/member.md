@@ -32,7 +32,7 @@ To become a new member or to renew your membership, the following membership fee
   - €120 for regular members (professors, researchers, members of institutions);
   - €80 for discount members (students, retirees, and others without regular income )
 
-You may pay your membership fee either by credit card (via Stripe, on this page) or by arranging for a bank transfer.
+You may pay your membership fee either by credit card and other direct payment methods (via Stripe, on this page) or by arranging for a bank transfer.
 Please choose one of these two forms of payment:
 
 **Option #1: Money transfer to the IGEL bank account:**
@@ -43,6 +43,6 @@ IBAN: NL53 TRIO 0390 9278 05
 BIC/SWIFT: TRIONL2U
 ```
 
-**Option #2: Credit card and other direct payment methods (Apple Pay, Google Pay,giropay,iDEAL and SEPA debit)**
+**Option #2: Credit card and other direct payment methods (Apple Pay, Google Pay, giropay, iDEAL and SEPA debit)**
 
 {{< button "Pay now" "/membership" >}}
