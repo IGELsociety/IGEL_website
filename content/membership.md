@@ -11,24 +11,24 @@ We will notify you every year before renewal, so you can change your payment met
 
 - EUR 60 // **Regular** member (professor, researcher, member of institution)
 
-  {{< button "Checkout" "https://buy.stripe.com/eVadSXduR2PGcUM288" >}}
+  {{< button "Checkout" "https://buy.stripe.com/dR64in8axbmcaME6oA" >}}
 
 ### **One year** IGEL membership
 
 - EUR 70 // **Regular** member (professor, researcher, member of institution)
 
-  {{< button "Checkout" "https://buy.stripe.com/dR602762pbmcf2U7st" >}}
+  {{< button "Checkout" "https://buy.stripe.com/5kA3ejaiFbmcbQI7sH" >}}
 
 - EUR 50 // **Discount** member (student, retiree, and other without regular income)
 
-  {{< button "Checkout" "https://buy.stripe.com/dR616b9eBbmc1c44gi" >}}
+  {{< button "Checkout" "https://buy.stripe.com/cN25mrduRcqg5sk7sG" >}}
 
 ### **Two years** IGEL membership
 
 - EUR 120 // Paid **Regular** member (professor, researcher, member of institution)
 
-  {{< button "Checkout" "https://buy.stripe.com/aEU8yD76t2PG2g8aEH" >}}
+  {{< button "Checkout" "https://buy.stripe.com/00g6qv1M9gGwbQI14k" >}}
 
 - EUR 80 // **Discount** member (student, retiree, and other without regular income)
 
-  {{< button "Checkout" "https://buy.stripe.com/3cs4in4Yleyo6wo28c" >}}
+  {{< button "Checkout" "https://buy.stripe.com/fZedSXeyVai808028l" >}}
