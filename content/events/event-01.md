@@ -6,7 +6,7 @@ location: "online"
 year: "2022"
 month: "14-16 July"
 duration: ""
-fee: "tba"
+fee: "20-70 euro"
 type: "upcoming" #[upcoming]
 readmore: true
 weight: 1
