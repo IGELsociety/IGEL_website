@@ -1,6 +1,6 @@
 ---
 title: "Training school: Open Science"
-image: "images/open-science.png"
+image: "images/open_science.png"
 description: "Training school about Open Science for empirical and computational studies of literature and readers"
 location: "online"
 year: "2022"
