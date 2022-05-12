@@ -47,16 +47,16 @@ You can use the above email address if you have any questions about the training
 {{< speaker img="images/Franziska.jpg" >}}
 ##### Franziska Hartung
 Cognitive neuroscientist and experimental psychologist at Newcastle University, UK.
-{{\</ speaker \>}}
+{{</ speaker >}}
 
 {{< speaker img="images/members/Raymond.png" >}}
 ##### Raymond Mar
 Dept. of Psychology, York University, Toronto, Canada.
-{{\</ speaker \>}}
+{{</ speaker >}}
 
 {{< speaker img="images/federico.jpg" >}}
 ##### Federico Pianzola
 Assistant Professor in Computational Humanities, University of Groningen, The Netherlands.
-{{\</ speaker \>}}
+{{</ speaker >}}
 
-{{\</ row \>}}
+{{</ row >}}
