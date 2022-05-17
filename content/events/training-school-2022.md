@@ -34,7 +34,7 @@ Your application should include:
 
 • A brief motivation letter in which you explain why you would like to participate in the training school (200 words max.).
 
-• A brief description of a past project in which you have worked plus a brief description of a research project you would like to develop over the course of the training school (400 words max.)
+• A brief description of a past project in which you have worked (if you don't have previous experience, this is not needed) plus a brief description of a research project you would like to develop over the course of the training school (400 words max.)
 
 Notification of acceptance will be given by June 10th.
 
