@@ -27,7 +27,7 @@ During the training school **attendees will have the chance to apply Open Scienc
 
 #### Application
 
-If you want to participate, please send your application to Rocío Riestra-Camacho at igeltraining \[at\] gmail \[dot\] com **before May 30th**.
+If you want to participate, please send your application to Rocío Riestra-Camacho at igeltraining \[at\] gmail \[dot\] com **before** ~~May 30th~~ **June 10th**.
 Your application should include:
 
 • Your personal information (name, affiliation, research area/interest, and whether you are a PhD student, a Postdoc or other).
@@ -36,7 +36,7 @@ Your application should include:
 
 • A brief description of a past project in which you have worked (if you don't have previous experience, this is not needed) plus a brief description of a research project you would like to develop over the course of the training school (400 words max.)
 
-Notification of acceptance will be given by June 10th.
+Notification of acceptance will be given by June ~~10th~~ 15th.
 
 You can use the above email address if you have any questions about the training school or the application procedure.
 
