@@ -6,7 +6,7 @@ description: "meta description"
 ## About us
 
 ### What is IGEL?
-The International Society for the Empirical Study of Literature and Other Media aims to advance empirical literary research through interdisciplinary and international cooperation. IGEL was **founded in 1987** in Siegen in Germany, which explains our acronym (IGEL, which stands for **Internationales Gesellschaft für Empirische Literaturwissenschaften**) and logo (as 'Igel' means *hedgehog* in German), we became a registered (non-profit) society in the Netherlands in 2010. The Society's history reflects a rich tradition of international and interdisciplinary research and although heavily supported by researchers in North America and Europe, IGEL membership includes researchers from China, Japan, Israel, Brazil, and elsewhere.
+The International Society for the Empirical Study of Literature and Other Media aims to advance empirical literary research through interdisciplinary and international cooperation. IGEL was **founded in 1987** in Siegen in Germany, which explains our acronym (IGEL, which stands for **Internationale Gesellschaft für Empirische Literaturwissenschaften**) and logo (as 'Igel' means *hedgehog* in German), we became a registered (non-profit) society in the Netherlands in 2010. The Society's history reflects a rich tradition of international and interdisciplinary research and although heavily supported by researchers in North America and Europe, IGEL membership includes researchers from China, Japan, Israel, Brazil, and elsewhere.
 
 The principal responsibilities of the Society are to:
 
