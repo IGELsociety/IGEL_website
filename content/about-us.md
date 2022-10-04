@@ -29,14 +29,14 @@ The IGEL society is governed by a board of members from our community.
 Moniek Kuijpers, Johannes Gutenberg University Mainz, Germany
 {{</ speaker >}}
 
-{{< speaker img="images/shannon.jpg" >}}
+{{< speaker img="images/federico.jpg" >}}
 ##### Vice-President
-Shannon Whitten, University of Central Florida, United States
+Federico Pianzola, University of Groningen, Netherlands
 {{</ speaker >}}
 
-{{< speaker img="images/paul.jpg" >}}
+{{< speaker img="images/shannon.jpg" >}}
 ##### Secretary
-Paul Sopcak, MacEwan University, Canada
+Shannon Whitten, University of Central Florida, United States
 {{</ speaker >}}
 
 {{< speaker img="images/marloes.jpg" >}}
@@ -47,11 +47,6 @@ Marloes Mak, Radboud University Nijmegen, The Netherlands
 {{< speaker img="images/rocio.jpg" >}}
 ##### Training School coordinator
 Rocío Riestra Camacho, Alfonso X El Sabio University, Spain
-{{</ speaker >}}
-
-{{< speaker img="images/federico.jpg" >}}
-##### Online presence
-Federico Pianzola, University of Groningen, Netherlands
 {{</ speaker >}}
 
 {{< speaker img="images/jan.jpg" >}}
