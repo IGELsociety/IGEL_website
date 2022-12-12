@@ -7,7 +7,7 @@ year: "2020"
 month: "" # 30 April
 duration: "6 Month"
 fee: "Free"
-type: "past-training" #[upcoming/past]
+type: "past-training" #[upcoming/past-training]
 readmore: false
 weight: 1
 ---

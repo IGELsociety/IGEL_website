@@ -7,7 +7,7 @@ year: "1990"
 month: "" # 30 April
 duration: "6 Month"
 fee: "Free"
-type: "past-conference" #[upcoming/past]
+type: "past-conference" #[upcoming/past-conference]
 readmore: false
 weight: 16
 ---

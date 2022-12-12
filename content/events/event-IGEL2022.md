@@ -7,7 +7,7 @@ year: "2022"
 month: "14-16 July"
 duration: ""
 fee: "20-70 euro"
-type: "upcoming" #[upcoming]
+type: "past-conference" #[upcoming/past-conference]
 readmore: true
 weight: 1
 ---

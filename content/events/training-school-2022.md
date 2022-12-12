@@ -7,9 +7,9 @@ year: "2022"
 month: "12-13 July"
 duration: ""
 fee: "free"
-type: "upcoming" #[upcoming]
+type: "past-training" #[upcoming]
 readmore: true
-weight: 2
+weight: 
 editor_options: 
   markdown: 
     wrap: sentence
