@@ -9,7 +9,7 @@ duration: "6 Month"
 fee: "Free"
 type: "past-conference" #[upcoming/past]
 readmore: false
-weight: 1
+weight: 2
 ---
 
 ## About Event
