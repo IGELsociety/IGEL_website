@@ -10,7 +10,7 @@ The International Society for the Empirical Study of Literature and Other Media 
 
 The principal responsibilities of the Society are to:
 
-- Disseminate information about empirical studies of literature (through its journal and by organising biennial conferences);
+- Disseminate information about empirical studies of literature (through its journal and by organising conferences);
 
 - Facilitate personal contact and collaboration among individuals around the world who are engaged in empirical literary research; and 
 
@@ -26,7 +26,7 @@ The IGEL society is governed by a board of members from our community.
 
 {{< speaker img="images/moniek.jpg" >}}
 ##### President
-Moniek Kuijpers, Johannes Gutenberg University Mainz, Germany
+Moniek Kuijpers, University of Basel, Switzerland
 {{</ speaker >}}
 
 {{< speaker img="images/federico.jpg" >}}
@@ -86,7 +86,7 @@ As part of our inclusiveness and diversity policies, we have made registration t
 IGEL and it’s local conference organizers will actively approach undergraduate students as well as early career researchers, as well as researchers from economically disadvantaged countries, advertising these policies that may allow these people to attend an IGEL conference.
 
 ### The society's history
-Although empirical studies of literature have a longer history, the Society was founded fairly recently (1987). The Society's international and interdisciplinary history is evident in the sites of its previous biennial conferences and the professional affiliations of its past presidents.
+Although empirical studies of literature have a longer history, the Society was founded fairly recently (1987). The Society's international and interdisciplinary history is evident in the sites of its previous conferences and the professional affiliations of its past presidents.
 
 
 #### Previous Conferences
