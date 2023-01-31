@@ -54,6 +54,11 @@ Rocío Riestra Camacho, Alfonso X El Sabio University, Spain
 Jan Auracher, National University of Singapore
 {{</ speaker >}}
 
+{{< speaker img="images/Lynn.jpg" >}}
+##### Online Presence coordinator
+Lynn Eekhof, Radboud University, The Netherlands
+{{</ speaker >}}
+
 {{</ row >}}
 
 
