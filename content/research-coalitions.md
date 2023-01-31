@@ -266,7 +266,7 @@ This chapter has two goals:  to present a concise survey of scholarship on empir
 <h4>Members</h4>
 
 {{< card "images/members/member-1.jpg" >}}
-#### Canita Goodblatt
+#### Chanita Goodblatt
 Laboratory for Cognitive Poetics, Dept. of Foreign Literatures & Linguistics, Ben-Gurion University of the Negev, Israel.
 {{</ card >}}
 
