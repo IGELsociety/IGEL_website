@@ -1,5 +1,5 @@
 ---
-title: "Discourse"
+title: "About us"
 description: "meta description"
 ---
 
