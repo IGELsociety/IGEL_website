@@ -266,7 +266,7 @@ This chapter has two goals:  to present a concise survey of scholarship on empir
 <h4>Members</h4>
 
 {{< card "images/members/member-1.jpg" >}}
-#### Canita Goodblatt
+#### Chanita Goodblatt
 Laboratory for Cognitive Poetics, Dept. of Foreign Literatures & Linguistics, Ben-Gurion University of the Negev, Israel.
 {{</ card >}}
 
@@ -1094,7 +1094,7 @@ Professor Mar earned his PhD at the University of Toronto before being hired at 
 #### Jan Lenhart
 Department of Psychology, Universität Bamberg, Bamberg, Germany.
 
-Dr. Jan Lenhart received his PhD at the University of Würzburg. In 2021, he took up a position as an assistant professor of educational psychology at the University of Bamberg. His research interests include language development, socio-cognitive development, and the effects of narratives on language skills and social cognition. Jan has authored several papers about how stories influence language skills and social cognition in children and adolescents. [Websit](https://www.uni-bamberg.de/paedpsych-jp/team/jun-prof-dr-jan-lenhart/)
+Dr. Jan Lenhart received his PhD at the University of Würzburg. In 2021, he took up a position as an assistant professor of educational psychology at the University of Bamberg. His research interests include language development, socio-cognitive development, and the effects of narratives on language skills and social cognition. Jan has authored several papers about how stories influence language skills and social cognition in children and adolescents. [Website](https://www.uni-bamberg.de/paedpsych-jp/team/jun-prof-dr-jan-lenhart/)
 {{</ card >}}
 
 {{< card "images/members/tamir.jpg" >}}
@@ -1102,7 +1102,7 @@ Dr. Jan Lenhart received his PhD at the University of Würzburg. In 2021, he too
 Princeton Social Neuroscience Lab, Princeton University, Princeton, USA.
 
 Professor Tamir completed her undergraduate degree in cognitive neuroscience at Brown University and went on to pursue psychology at the graduate and postgraduate levels at UC Davis, Harvard University, and Stanford University. Her lab, the Princeton Social Neuroscience Lab, conducts research that encompasses both cognitive neuroscience and social psychology. Her research interests include mentalizing, fiction-reading and theory of mind, self-disclosure, and the psychology of social media. Diana has studied the neural networks that are recruited during the social processing that accompanies the reading of literary fiction.
-[Wwebsite](http://psnlab.princeton.edu)
+[Website](http://psnlab.princeton.edu)
 {{</ card >}}
 
 {{< card "images/members/Kevane.jpg" >}}
@@ -1136,7 +1136,9 @@ Professor Oatley earned his PhD at University College London and held professors
 
 <h4>Publications</h4>
 
-* Rain, M. & Mar. R. A. (in press). Adult attachment and engagement with fictional characters. *Journal of Social and Personal Relationships*.
+* Quinlan, J. A., Padgett, J. K., Khajehnassiri, A., & Mar, R. A. (2022). Does a brief exposure to literary fiction improve social ability? Assessing the evidential value of published studies with a p-curve. *Journal of Experimental Psychology: General*. https://doi.org/10.1037/xge0001302
+* Lenhart, J., & Richter, T. (2022). Does reading a single short story of literary fiction improve social-cognitive skills? Testing the priming hypothesis. *Psychology of Aesthetics, Creativity, and the Arts*. https://doi.org/10.1037/aca0000533
+* Rain, M., & Mar, R. A. (2021). Adult attachment and engagement with fictional characters. *Journal of Social and Personal Relationships*, 38(9), 2792–2813. https://doi.org/10.1177/02654075211018513
 * Mumper, M. L., & Gerrig, R. J. (2021). The Representation of Emotion Inferences. *Discourse Processes*, 1-22.
 * Lenhart, J., Dangel, S. & Richter, T. (2021). The relationship between lifetime book reading and empathy in adolescents: Examining transportability as a moderator. *Psychology of Aesthetics, Creativity, and the Arts*. https://doi.org/10.1037/aca0000341
 * Appel, M., Schreiner, C., Haffmans, M.-B., & Richter, T. (2021). The mediating role of event-congruent emotions in narrative persuasion. *Poetics*. https://doi.org/10.1016/j.poetic.2019.101385

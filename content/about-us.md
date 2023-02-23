@@ -1,5 +1,5 @@
 ---
-title: "Discourse"
+title: "About us"
 description: "meta description"
 ---
 
@@ -52,6 +52,11 @@ Rocío Riestra Camacho, Alfonso X El Sabio University, Spain
 {{< speaker img="images/jan.jpg" >}}
 ##### Member at large
 Jan Auracher, National University of Singapore
+{{</ speaker >}}
+
+{{< speaker img="images/Lynn.jpeg" >}}
+##### Online Presence coordinator
+Lynn Eekhof, Radboud University, The Netherlands
 {{</ speaker >}}
 
 {{</ row >}}
