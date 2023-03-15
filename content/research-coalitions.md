@@ -907,11 +907,9 @@ ___
 
 {{< card "images/members/fialho.jpg" >}}
 #### Olivia Fialho
-Lecturer in Comparative Literature, Department of Languages, Literature and
-Communication, Utrecht University; Researcher in Literary Studies at the Huygens Institute for the History of the Netherlands, Royal Netherlands Academy of Arts and Sciences.
+Assistant Professor in Comparative Literature, Department of Languages, Literature and Communication, Utrecht University; Senior Researcher in Empirical and Computational Literary Studies at the Huygens Institute for the History of the Netherlands, Royal Netherlands Academy of Arts and Sciences (KNAW).
 
-Olivia is a literary scholar specializing in the fields of comparative, empirical,
-cognitive, and digital literary studies. She investigates the phenomenology, preconditions, and underlying processes through which literary narrative fiction deepens perceptions of self and others. She wrote her doctoral dissertation on self-modifying reading (University of Alberta, 2012). In her postdoctoral studies, she developed "Transformative Reading", an empirical and cognitive approach to literary reading, focusing on experiencing literature. It argues that the essence of literature (and the arts) lies in its power to impart knowledge about ourselves and other human beings by allowing us to connect more deeply and conscientiously with our emotions, improving our social functioning. It is an evidence-based program, demonstrably effective in fostering readers’ insights into self and others and eudaimonic reasons for reading. It has been successfully applied in Education (primary and higher secondary levels) and Business. Her research has been awarded prizes and fellowships for ten consecutive years, including a grant by the Netherlands Organization of Scientific Research (NWO). It has been featured in the cultural sections of the *NRK* and *Klassekampen*, and the Humanities webpage of the University of Oslo.  
+Olivia is a literary scholar specializing in the fields of comparative, empirical, cognitive, and digital literary studies. She investigates the phenomenology, preconditions, and underlying processes through which literary narrative fiction deepens and changes perceptions of self and others. She wrote her doctoral dissertation on self-modifying reading (University of Alberta, 2012). In her postdoctoral studies, she developed "Transformative Reading", an empirical and cognitive approach to literary reading, focusing on experiencing literature. It argues that the essence of literature (and the arts) lies in its power to impart knowledge about ourselves and other human beings by allowing us to connect more deeply and conscientiously with our emotions, improving our social functioning. It is an evidence-based program, demonstrably effective in fostering readers' insights into self and others and eudaimonic reasons for reading. *Transformative Reading* innovates as a program of literature teaching in three areas: Education (primary, secondary, higher), Business and, currently, Medical Ethics. Her research has helped acquire prizes, awards, and fellowships, including, most recently, the project "Uses of Narrative Fiction in Social Contexts: Changes in Self and Social Perceptions", funded by NWO (the Dutch Research Council, 2014-2018) and the present ERC Advanced Grant "MORE: Moral residue –  epistemological ramifications, ethical implications, and didactic opportunities" (2022-2027). It has been featured in the cultural sections of the *NRK* and *Klassekampen*, and the Humanities webpage of the University of Oslo.
 {{</ card >}}
 
 {{< card "images/members/Maja.jpg" >}}
@@ -945,7 +943,7 @@ David has long been interested in the literariness of literary texts, what appea
 
 <h4>Publications</h4>
 
-* Fialho, O. (2022 forthcoming). *Transformative Reading*. Amsterdam: John Benjamins.
+* Fialho, O. (2023 forthcoming). *Transformative Reading*. Amsterdam: John Benjamins.
 * Fialho, O. (2019) What is literature for? The role of transformative reading.
 Contribution to a special issue *The place of the cognitive in literary studies*, edited by Karin Kukkonen, Anežka Kuzmičová, Steen Ledet Christiansen, and Merja Polvinen.In *Cogent Arts & Humanities*, 6(1), https://doi.org/10.1080/23311983.2019.1692532
 * Schrijvers, M., Janssen, T., Fialho, O., De Maeyer, S., & Rijlaarsdam, G. (2019). Transformative dialogic literature teaching fosters adolescents’ insight into human nature. *Learning and Instruction*, 63, 1-15. https://10.0.3.248/j.learninstruc.2019.101216
