@@ -914,7 +914,7 @@ Olivia is a literary scholar specializing in the fields of comparative, empirica
 cognitive, and digital literary studies. She investigates the phenomenology, preconditions, and underlying processes through which literary narrative fiction deepens perceptions of self and others. She wrote her doctoral dissertation on self-modifying reading (University of Alberta, 2012). In her postdoctoral studies, she developed "Transformative Reading", an empirical and cognitive approach to literary reading, focusing on experiencing literature. It argues that the essence of literature (and the arts) lies in its power to impart knowledge about ourselves and other human beings by allowing us to connect more deeply and conscientiously with our emotions, improving our social functioning. It is an evidence-based program, demonstrably effective in fostering readers’ insights into self and others and eudaimonic reasons for reading. It has been successfully applied in Education (primary and higher secondary levels) and Business. Her research has been awarded prizes and fellowships for ten consecutive years, including a grant by the Netherlands Organization of Scientific Research (NWO). It has been featured in the cultural sections of the *NRK* and *Klassekampen*, and the Humanities webpage of the University of Oslo.  
 {{</ card >}}
 
-{{< card "images/members/member-1.jpg" >}}
+{{< card "images/members/Maja.jpg" >}}
 ##### Maja Djikic
 Associate Professor and Director of Self-Development Laboratory at the Rotman School of Management, University of Toronto, Canada.
 
