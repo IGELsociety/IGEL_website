@@ -141,7 +141,7 @@ The main aims of the professional development committee are to come up with ways
 For more information on the two initiatives that are already running successfully, and are always in development, see the training schools program and the research coalitions initiative.
 
 #### Professional Development Committee
-- Caroline Kutsch - Training school coordinator
+- Rocío Riestra - Training school coordinator
 - David Hanauer - Coordinator Undergraduate research exchange program
 - Amir Harash  - Coordinator Undergraduate research exchange program
 - Frank Hakemulder - Coordinator International Minor DEAP
