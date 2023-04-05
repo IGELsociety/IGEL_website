@@ -35,7 +35,7 @@ Thus, our research coalition represents (and brings together) a wide range of to
 #### Paul Sopčák
 Lecturer in the English Department and Academic Integrity Coordinator, MacEwan University, Edmonton, Canada.
 
-Paul's interests include early modernist literature, the empirical study of literature, phenomenology, and existential philosophy. He is assistant editor for the journal Scientific Study of Literature (SSOL) and Secretary of the International Society for the Empirical Study of Literature (IGEL). His current research looks at the relationship between literary reading, empathy, and prejudice.
+Paul's interests include early modernist literature, the empirical study of literature, phenomenology, and existential philosophy. He is assistant editor for the journal Scientific Study of Literature (SSOL). His current research looks at the relationship between literary reading, empathy, and prejudice.
 {{</ card >}}
 
 
@@ -520,7 +520,7 @@ Narrative absorption is a focused form of reading, which leaves the reader unawa
 
 {{< card "images/moniek.jpg" >}}
 #### Moniek M. Kuijpers
-Postdoctoral research fellow, Gutenberg Institute for Book Science, Johannes Gutenberg University Mainz, Germany. 
+Assistant Professor, Digital Humanities Lab, University of Basel, Switzerland. 
 
 Moniek received her PhD in empirical studies of literature from the University of Utrecht, The Netherlands, in 2014. She continued her work on absorption at the Max Planck Institute for Empirical Aesthetics focusing on personality traits and reading habits of absorbed readers and the problem of how to measure absorption online using eye tracking methodology. Her current research is focused on the mention of absorption in online reader reviews and the relationship between absorbed narrative reading and psychological well-being. Moniek developed a self-report measuring instrument, the Story World Absorption Scale, to capture absorption. She has conducted and published several studies on the effects of various textual devices (i.e., suspense and curiosity structures, foregrounding) on absorption, but also on the individual differences (e.g., personality traits, reading habits) among readers who tend to get absorbed.  
 {{</ card >}}
