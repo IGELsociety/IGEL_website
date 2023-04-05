@@ -1392,6 +1392,8 @@ bio
 
 <h4>Publications</h4>
 
+* Das, E., Kalch, A., van Krieken, K., & Khoo, G. S. (2023). Existential narratives: Increasing
+psychological wellbeing through story [Special issue]. *Frontiers in Communication*, 7. https://doi.org/10.3389/fcomm.2022.1113441
 * Khoo, G. S. (2021). Audience reception of tragic entertainment and the value of cathartic reflection. In D. Kuiken & A. M.  Jacobs (Eds.), *Handbook of empirical literary studies* (pp. 365-392). Berlin, Germany: De Gruyter. https://doi.org/10.1515/9783110645958-015
 * Khoo, G. S., Oh, J., & Nah, S. (2021). Staying-at-home with tragedy: Self-expansion through narratives promotes positive coping with identity threat. *Human Communication Research*. 47(3), 309–334. https://doi.org/10.1093/hcr/hqab005
 * Khoo, G. S. & Ash, E. (2021). Moved to justice: The effects of socially conscious films on social justice concerns. *Mass Communication and Society*. 24(1), 106-129, https://doi.org/10.1080/15205436.2020.1779306
