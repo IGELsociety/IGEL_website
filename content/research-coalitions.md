@@ -76,12 +76,12 @@ Frank has a background in literary theory and comparative literature. His resear
 * Hideyuki, H. & Menninghaus, W. (2018). The eye tracks the aesthetic appeal of sentences. *Journal of Vision*, 18(3), 19. https://doi.org/10.1167/18.3.19
 * Castiglione, D. (2018), *Difficulty in Poetry: a Stylistic and Processing Model*. Palgrave Macmillan, London.
 * Castiglione, D. (2017). Difficult poetry processing: Reading times and the narrativity hypothesis. *Language and Literature*, 26(2), 99-121. https://doi.org/0963947017704726
-* Wassiliwizky, E., Koelsch, S., Wagner, V., Jacobsen, T., & Menninghaus, W. (2017). The emotional power of poetry: Neural circuitry, psychophysiology and compositional principles. *Social Cognitive and Affective Neuroscience*, 12(8), 1229-1240. doi:10.1093/scan/nsx069
+* Wassiliwizky, E., Koelsch, S., Wagner, V., Jacobsen, T., & Menninghaus, W. (2017). The emotional power of poetry: Neural circuitry, psychophysiology and compositional principles. *Social Cognitive and Affective Neuroscience*, 12(8), 1229-1240. https://doi.org/10.1093/scan/nsx069
 * Menninghaus, W., Wagner, V., Wassiliwizky, E., Jacobsen, T., & Knoop, C.A. (2017). The emotional and aesthetic powers of parallelistic diction. *Poetics*,  63, 47-59. https://doi.org/10.1016/j.poetic.2016.12.00
 * Obermeier, C., Kotz, S. A., Jessen, S., Raettig, T., Koppenfels, M. von, & Menninghaus, W. (2016). Aesthetic appreciation of poetry correlates with ease of processing in event-related potentials. *Cognitive, Affective, & Behavioral Neuroscience*, 16(2), 362–373. http://doi.org/10.3758/s13415-015-0396-x
 * Balint, K., Hakemulder, F., Kuijpers, M. Tan, E., & Doicaru,M. (2016). Reconceptualizing foregrounding: Identifying response strategies to deviation in absorbing narratives. *Scientific Study of Literature*, 6(2), 176-207. https://doi.org/10.1177/0963947007075985
-* Menninghaus W., Bohrn I., Knoop C., Kotz S., Schlotz W., Jacobs A. (2015). Rhetorical features facilitate prosodic processing while handicapping ease of semantic comprehension. *Cognition*, 143, 48-60. doi.org/10.1016/j.cognition.2015.05.026.
-* Menninghaus, W., Bohrn, I. C., Altmann, U., Lubrich, O., & Jacobs, A. M. (2014). Sounds funny? Humor effects of phonological and prosodic figures of speech. *Psychology of Aesthetics, Creativity, and the Arts*, 8(1), 71–76. doi:10.1037/a0035309.
+* Menninghaus W., Bohrn I., Knoop C., Kotz S., Schlotz W., Jacobs A. (2015). Rhetorical features facilitate prosodic processing while handicapping ease of semantic comprehension. *Cognition*, 143, 48-60. https://doi.org/10.1016/j.cognition.2015.05.026.
+* Menninghaus, W., Bohrn, I. C., Altmann, U., Lubrich, O., & Jacobs, A. M. (2014). Sounds funny? Humor effects of phonological and prosodic figures of speech. *Psychology of Aesthetics, Creativity, and the Arts*, 8(1), 71–76. https://doi.org/10.1037/a0035309.
 * Castiglione, D. (2013a). The channel of (mis)communication: Semantic and pragmatic deviances in two poems by Geoffrey Hill and Susan Howe. *PALA conference proceedings*.
 * Castiglione, D. (2013b). The semantics of difficult poems: Deriving a checklist of linguistic phenomena. *Journal of Literary Semantics*, 42(1), 115-140.  https://doi.org/10.1515/jls-2013-0003
 * Hakemulder, F. (2008). The more you see, the more you get: How spectators use their limited capacity for attention in responses to formal aspects of film (pp. 332-352). In J. Auracher & W. van Peer (Eds.), *New Beginnings in Literary Studies*. Newcastle: Cambridge Scholars Publishing.
@@ -473,7 +473,7 @@ Joseph Magliano's research focuses on how people understand what they read and w
 * Levine, S., Bernstein, M. (2016). Opening George Hillocks’ territory of literature. *English Education*, 48, (2), 127-147 (invited).
 * Yukhymenko-Lescroart, M., Briner, S. W., Lawless, K., Levine, S., Magliano, J. P., Burkett, C., McCarthy, K. S., Lee, C. D., & Goldman, S. R. (2016). Development and initial validation of the Literature Epistemic Cognition Scale (LECS). *Learning and Individual Differences*, 51, 242-248. https://doi.org/10.1016/j.lindif.2016.09.014
 * Goldman, S. R., McCarthy, K. S., & Burkett, C. (2015). Interpretive inferences in literature. In E. O’Brien, A. Cook, & R. Lorch (Eds.), *Inferences during reading* (pp. 386-415). New York, NY: Cambridge University Press.
-* Levine, S., Horton, W. (2015). Helping high school students read like experts: Affective evaluation, salience, and literary interpretation. *Cognition and Instruction*, 33(2), 125-153. Doi: https://doi.org/10.1080/07370008.2015.1029609 
+* Levine, S., Horton, W. (2015). Helping high school students read like experts: Affective evaluation, salience, and literary interpretation. *Cognition and Instruction*, 33(2), 125-153. https://doi.org/10.1080/07370008.2015.1029609 
 * McCarthy, K. S. (2015). Reading beyond the lines: A critical review of cognitive approaches to literary interpretation and comprehension. *Scientific Study of Literature*, 5, 99-128. https://doi.org/10.1075/ssol.5.1.05mcc 
 * McCarthy, K. S. & Goldman, S. R. (2015). Comprehension of short stories: Effects of task instructions on literary interpretation. *Discourse Processes*, 52, 585-608. https://doi.org/10.1080/0163853X.2014.967610 
 * Levine, S., & Horton, W. S. (2015). Helping high school students read like experts: Affective evaluation, salience, and literary interpretation. *Cognition and Instruction*, 33, 125-153. https://doi.org/10.1080/07370008.2015.1029609
@@ -1392,20 +1392,21 @@ bio
 
 <h4>Publications</h4>
 
-* Khoo, G. S., Oh, J., & Nah, S. (2021). Staying-at-home with tragedy: Self-expansion through narratives promotes positive coping with identity threat. *Human Communication Research*. 47(3), 309–334. doi: 10.1093/hcr/hqab005
-* Khoo, G. S. & Ash, E. (2021). Moved to justice: The effects of socially conscious films on social justice concerns. *Mass Communication and Society*. 24(1), 106-129, doi: 10.1080/15205436.2020.1779306 [preprint PDF]
+* Khoo, G. S. (2021). Audience reception of tragic entertainment and the value of cathartic reflection. In D. Kuiken & A. M.  Jacobs (Eds.), *Handbook of empirical literary studies* (pp. 365-392). Berlin, Germany: De Gruyter. https://doi.org/10.1515/9783110645958-015
+* Khoo, G. S., Oh, J., & Nah, S. (2021). Staying-at-home with tragedy: Self-expansion through narratives promotes positive coping with identity threat. *Human Communication Research*. 47(3), 309–334. https://doi.org/10.1093/hcr/hqab005
+* Khoo, G. S. & Ash, E. (2021). Moved to justice: The effects of socially conscious films on social justice concerns. *Mass Communication and Society*. 24(1), 106-129, https://doi.org/10.1080/15205436.2020.1779306
 * Khoo, G. S. & Adkins, B. (2020). Catharsis. In Van den Bulck, J. (Ed.), *International encyclopedia of media effects*. Wiley.
 * Hofer, M. & Rieger, D. (2018). On being happy through entertainment: Hedonic and non-hedonic entertainment experiences. In: J. A. Muñiz Velázquez, & C. Pulido (Eds.), *The Routledge Handbook of Positive Communication*. Routledge.
-* Khoo, G. S. (2017). From terror to transcendence: Death reflection promotes preferences for human drama. *Media Psychology*. Advance online publication. doi: 10.1080/15213269.2017.1338965
+* Khoo, G. S. (2017). From terror to transcendence: Death reflection promotes preferences for human drama. *Media Psychology*. Advance online publication. https://doi.org/10.1080/15213269.2017.1338965
 * Hofer, M. (2017). Responses to sad media/tragedy. In P. Rössler, C. A. Hoffner, & L. van Zoonen (Eds.), *The International Encyclopedia of Media Effects* (pp. 1731–1743). Hoboken, NJ, USA: John Wiley & Sons, Inc.
-* Rieger, D., & Hofer, M. (2017). How movies can ease the fear of death: The survival or death of the protagonists in meaningful movies. *Mass Communication and Society*, 18, 1–24. doi:10.1080/15205436.2017.1300666
-* Khoo, G. S. (2016). Contemplating tragedy raises gratifications and fosters self-acceptance. *Human Communication Research*. 42, 269–291. doi: 10.1111/hcre.12074
-* Khoo, G. S., & Graham-Engeland J. E. (2016). The benefits of contemplating tragic drama on self-regulation and health. *Health Promotion International*. 31, 187-199. doi: 10.1093/heapro/dau056
-* Hofer, M., Allemand, M., & Martin, M. (2014). Age differences in non-hedonic entertainment experiences. *Journal of Communication*, 64, 61–81. doi:10.1111/jcom.12074
-* Khoo, G. S., & Oliver, M. B. (2013). The therapeutic effects of narrative cinema through clarification: Reexamining catharsis. *Scientific Study of Literature*, 3, 266-293. doi: 10.1075/ssol.3.2.06kho
-* Hofer, M. (2013). Appreciation and enjoyment of meaningful entertainment. *Journal of Media Psychology: Theories, Methods, and Applications*, 25, 109–117. doi:10.1027/1864-1105/a000089  
-* Hofer, M., & Wirth, W. (2012). It's right to be sad: The role of meta-appraisals in the sad film paradoxon. A multiple mediator model. *Journal of Media Psychology: Theories, Methods, and Applications*, 24. 43-54. doi: 10.1027/1864-1105/a000061
-* Wirth, W., Hofer, M., & Schramm, H. (2012). Beyond pleasure: Exploring the eudaimonic entertainment experience. *Human Communication Research*, 38, 406–428. doi: 10.1111/j.1468-2958.2012.01434.x
+* Rieger, D., & Hofer, M. (2017). How movies can ease the fear of death: The survival or death of the protagonists in meaningful movies. *Mass Communication and Society*, 18, 1–24. https://doi.org/10.1080/15205436.2017.1300666
+* Khoo, G. S. (2016). Contemplating tragedy raises gratifications and fosters self-acceptance. *Human Communication Research*. 42, 269–291. https://doi.org/10.1111/hcre.12074
+* Khoo, G. S., & Graham-Engeland J. E. (2016). The benefits of contemplating tragic drama on self-regulation and health. *Health Promotion International*. 31, 187-199. https://doi.org/10.1093/heapro/dau056
+* Hofer, M., Allemand, M., & Martin, M. (2014). Age differences in non-hedonic entertainment experiences. *Journal of Communication*, 64, 61–81. https://doi.org/10.1111/jcom.12074
+* Khoo, G. S., & Oliver, M. B. (2013). The therapeutic effects of narrative cinema through clarification: Reexamining catharsis. *Scientific Study of Literature*, 3, 266-293. https://doi.org/10.1075/ssol.3.2.06kho
+* Hofer, M. (2013). Appreciation and enjoyment of meaningful entertainment. *Journal of Media Psychology: Theories, Methods, and Applications*, 25, 109–117. https://doi.org/10.1027/1864-1105/a000089  
+* Hofer, M., & Wirth, W. (2012). It's right to be sad: The role of meta-appraisals in the sad film paradoxon. A multiple mediator model. *Journal of Media Psychology: Theories, Methods, and Applications*, 24. 43-54. https://doi.org/10.1027/1864-1105/a000061
+* Wirth, W., Hofer, M., & Schramm, H. (2012). Beyond pleasure: Exploring the eudaimonic entertainment experience. *Human Communication Research*, 38, 406–428. https://doi.org/10.1111/j.1468-2958.2012.01434.x
 
 <h4>Resources</h4>
 
@@ -1656,7 +1657,7 @@ Don specializes in the study of dreams, aesthetics, and phenomenology. He has pu
 *	Bruhn, M. J. (2018). Citation analysis: An empirical approach to professional literary interpretation, *Scientific Study of Literature* 8(1), 76-112.
 *	Bruhn, M. J. (2018). Target first: On ‘Bidirectionality and Metaphor,’ *Poetics Today*, 39(4), 703-733. 
 *	Bruhn, M. J. (2018). Intentionality and constraint in conceptual blending. In S. Czábi (Ed.), *Expressive Minds and Artistic Creations: Studies in Cognitive Poetics* (pp. 79-100). New York: Oxford University Press.
-*	Jacobs A. M. (2018) The Gutenberg English Poetry Corpus: Exemplary quantitative narrative analyses. *Front. Digit. Humanit*. 5:5. doi: 10.3389/fdigh.2018.00005
+*	Jacobs A. M. (2018) The Gutenberg English Poetry Corpus: Exemplary quantitative narrative analyses. *Front. Digit. Humanit*. 5:5. https://doi.org/10.3389/fdigh.2018.00005
 *	Jacobs, A. M. (2018). (Neuro-)cognitive poetics and computational stylistics. *Scientific Study of Literature* 8(1), 165-208.
 *	Jacobs, A. M., & Kinder, A. (2018). What makes a metaphor literary? Answers from two computational studies, *Metaphor and Symbol*, 33(2), 85-100. https://doi.org/10.1080/10926488.2018.1434943
 *	Willemsen, S., Kraglund, R.A., & Troscianko, E. T. (2018). Interpretation: Its status as object or method of study in cognitive and unnatural narratology. *Poetics Today* 39(3), 597-622.
@@ -1668,10 +1669,10 @@ Don specializes in the study of dreams, aesthetics, and phenomenology. He has pu
 *	Bruhn, M. J. (2017). ‘The history and science of feeling’: Wordsworth’s affective poetics, then and now. In D. R. Wehrs & T. Blake (Eds.), *The Palgrave Handbook of Affect Studies and Textual Criticism* (pp. 671-693). Cham, Switzerland: Springer.
 *	Davis, P., & Billington, J. (2016). The very grief a cure of the disease. *Changing English*, 23(4), 396–408. https://doi.org/10.1080/1358684X.2016.1194188 
 *	Willems, R. & Jacobs, A.M. (2016). Caring about Dostoyevsky: The untapped potential of studying literature. *Trends in Cognitive Sciences*, 20, 243-245.
-*	Jacobs, A. M., Lüdtke, J., Aryani, A., Meyer-Sickendiek, B., & Conrad, M. (2016). Mood-empathic and aesthetic responses in poetry reception: A model-guided, multilevel, multimethod approach. *Scientific Study of Literature*, 6(1), 87–130. doi:10.1075/ssol.6.1.06jac
+*	Jacobs, A. M., Lüdtke, J., Aryani, A., Meyer-Sickendiek, B., & Conrad, M. (2016). Mood-empathic and aesthetic responses in poetry reception: A model-guided, multilevel, multimethod approach. *Scientific Study of Literature*, 6(1), 87–130. https://doi.org/10.1075/ssol.6.1.06jac
 *	Kuiken, D. (2016). The implicit erasure of “literary experience” in empirical studies of literature. *Scientific Study of Literature*, 5(2), 171–177. https://doi.org/10.1075/ssol.5.2.02kui
 *	Kuiken, D., & Douglas, S. (2015). Levels of analysis in neuroscientific studies of emotion: Comment on “The quartet theory of human emotions: an integrative and neurofunctional model” by S. Koelsch et al. *Physics of Life Reviews*, 13, 63–66. https://doi.org/10.1016/j.plrev.2015.04.009
-*	Jacobs A. M. (2015). Neurocognitive poetics: Methods and models for investigating the neuronal and cognitive-affective bases of literature reception. *Front. Hum. Neurosci*. 9:186. doi:10.3389/fnhum.2015.0018
+*	Jacobs A. M. (2015). Neurocognitive poetics: Methods and models for investigating the neuronal and cognitive-affective bases of literature reception. *Front. Hum. Neurosci*. 9:186. https://doi.org/10.3389/fnhum.2015.0018
 *	Jacobs, A. M. (2015). The scientific study of literary experience: Sampling the state of the art. *Scientific Study of Literature*, 5(2), 139-170.
 *	O'Sullivan, N., Davis, P., Billington, J., Gonzalez-Diaz, V., & Corcoran R. (2015). 'Shall I compare thee': The neural basis of literary awareness, and its benefits to cognition, *Cortex*, 73, 144-157.
 *	Bruhn, M. J. (2015). A mirror on the mind: Stevens, chiasmus, and autism spectrum disorder, *The Wallace Stevens Journal* (special issue on Stevens and the Cognitive Turn in Literary Studies), 39(2), 182-206.
