@@ -35,7 +35,7 @@ Thus, our research coalition represents (and brings together) a wide range of to
 #### Paul Sopčák
 Lecturer in the English Department and Academic Integrity Coordinator, MacEwan University, Edmonton, Canada.
 
-Paul's interests include early modernist literature, the empirical study of literature, phenomenology, and existential philosophy. He is assistant editor for the journal Scientific Study of Literature (SSOL) and Secretary of the International Society for the Empirical Study of Literature (IGEL). His current research looks at the relationship between literary reading, empathy, and prejudice.
+Paul's interests include early modernist literature, the empirical study of literature, phenomenology, and existential philosophy. He is assistant editor for the journal Scientific Study of Literature (SSOL). His current research looks at the relationship between literary reading, empathy, and prejudice.
 {{</ card >}}
 
 
@@ -76,12 +76,12 @@ Frank has a background in literary theory and comparative literature. His resear
 * Hideyuki, H. & Menninghaus, W. (2018). The eye tracks the aesthetic appeal of sentences. *Journal of Vision*, 18(3), 19. https://doi.org/10.1167/18.3.19
 * Castiglione, D. (2018), *Difficulty in Poetry: a Stylistic and Processing Model*. Palgrave Macmillan, London.
 * Castiglione, D. (2017). Difficult poetry processing: Reading times and the narrativity hypothesis. *Language and Literature*, 26(2), 99-121. https://doi.org/0963947017704726
-* Wassiliwizky, E., Koelsch, S., Wagner, V., Jacobsen, T., & Menninghaus, W. (2017). The emotional power of poetry: Neural circuitry, psychophysiology and compositional principles. *Social Cognitive and Affective Neuroscience*, 12(8), 1229-1240. doi:10.1093/scan/nsx069
+* Wassiliwizky, E., Koelsch, S., Wagner, V., Jacobsen, T., & Menninghaus, W. (2017). The emotional power of poetry: Neural circuitry, psychophysiology and compositional principles. *Social Cognitive and Affective Neuroscience*, 12(8), 1229-1240. https://doi.org/10.1093/scan/nsx069
 * Menninghaus, W., Wagner, V., Wassiliwizky, E., Jacobsen, T., & Knoop, C.A. (2017). The emotional and aesthetic powers of parallelistic diction. *Poetics*,  63, 47-59. https://doi.org/10.1016/j.poetic.2016.12.00
 * Obermeier, C., Kotz, S. A., Jessen, S., Raettig, T., Koppenfels, M. von, & Menninghaus, W. (2016). Aesthetic appreciation of poetry correlates with ease of processing in event-related potentials. *Cognitive, Affective, & Behavioral Neuroscience*, 16(2), 362–373. http://doi.org/10.3758/s13415-015-0396-x
 * Balint, K., Hakemulder, F., Kuijpers, M. Tan, E., & Doicaru,M. (2016). Reconceptualizing foregrounding: Identifying response strategies to deviation in absorbing narratives. *Scientific Study of Literature*, 6(2), 176-207. https://doi.org/10.1177/0963947007075985
-* Menninghaus W., Bohrn I., Knoop C., Kotz S., Schlotz W., Jacobs A. (2015). Rhetorical features facilitate prosodic processing while handicapping ease of semantic comprehension. *Cognition*, 143, 48-60. doi.org/10.1016/j.cognition.2015.05.026.
-* Menninghaus, W., Bohrn, I. C., Altmann, U., Lubrich, O., & Jacobs, A. M. (2014). Sounds funny? Humor effects of phonological and prosodic figures of speech. *Psychology of Aesthetics, Creativity, and the Arts*, 8(1), 71–76. doi:10.1037/a0035309.
+* Menninghaus W., Bohrn I., Knoop C., Kotz S., Schlotz W., Jacobs A. (2015). Rhetorical features facilitate prosodic processing while handicapping ease of semantic comprehension. *Cognition*, 143, 48-60. https://doi.org/10.1016/j.cognition.2015.05.026.
+* Menninghaus, W., Bohrn, I. C., Altmann, U., Lubrich, O., & Jacobs, A. M. (2014). Sounds funny? Humor effects of phonological and prosodic figures of speech. *Psychology of Aesthetics, Creativity, and the Arts*, 8(1), 71–76. https://doi.org/10.1037/a0035309.
 * Castiglione, D. (2013a). The channel of (mis)communication: Semantic and pragmatic deviances in two poems by Geoffrey Hill and Susan Howe. *PALA conference proceedings*.
 * Castiglione, D. (2013b). The semantics of difficult poems: Deriving a checklist of linguistic phenomena. *Journal of Literary Semantics*, 42(1), 115-140.  https://doi.org/10.1515/jls-2013-0003
 * Hakemulder, F. (2008). The more you see, the more you get: How spectators use their limited capacity for attention in responses to formal aspects of film (pp. 332-352). In J. Auracher & W. van Peer (Eds.), *New Beginnings in Literary Studies*. Newcastle: Cambridge Scholars Publishing.
@@ -168,7 +168,7 @@ Stefan holds an M.A. (Magister Artium) in General Linguistics and British Studie
 * Kraxenberger, M., Menninghaus, W., Roth, A., & Scharinger, M. (2018). Prosody-based sound-emotion associations in poetry. *Frontiers in Psychology*, 9, 1284; https://doi.org/1210.3389/fpsyg.2018.01284. 
 * Menninghaus, W., Wagner, V., Knoop, C. A., & Scharinger, M. (2018). Poetic speech melody: A crucial link between music and language. *PLoS ONE*, 13(11), e0205980. 
 * Kraxenberger, M., & Menninghaus, W. (2018). Mimologische Träumereien? Über ikonische Assoziationen von Klang und Gefühlswahrnehmung in Gedichten. In D. Scherf & A. Bertschi-Kaufmann (Eds.), *Ästhetische Rezeptionsprozesse aus didaktischer Perspektive* (S. 72–88). Weinheim, Basel: Beltz Juventa.
-* Kraxenberger, M. (2018). Gelesen wie gesprochen: Überlegungen zur Gedichtrezeption als prosodisches (Text-)Gerede im Inneren. In D.-C. Assmann & N. Menzel (Eds.), *Textgerede. Interferenzen von Mündlichkeit und Schriftlichkeit in der Gegenwartsliteratur* (S. 147–160). Paderborn: Fink. (should replace the current ‚in press‘ citation)
+* Kraxenberger, M. (2018). Gelesen wie gesprochen: Überlegungen zur Gedichtrezeption als prosodisches (Text-)Gerede im Inneren. In D.-C. Assmann & N. Menzel (Eds.), *Textgerede. Interferenzen von Mündlichkeit und Schriftlichkeit in der Gegenwartsliteratur* (S. 147–160). Paderborn: Fink.
 * Blohm, S., Menninghaus, W., & Schlesewsky, M. (2017). Sentence-level effects of literary genre: Behavioral and electrophysiological evidence. *Frontiers in Psychology*, 8:1887. https://doi.org/10.3389/fpsyg.2017.01887
 * Menninghaus, W., Wagner, V., Wassiliwizky, E., Jacobsen, T., & Knoop, C. A. (2017). The emotional and aesthetic powers of parallelistic diction. *Poetics*, 63, 47-59. https://doi.org/10.1016/j.poetic.2016.12.001
 * Kraxenberger, M., & Menninghaus, W. (2017). Affinity for poetry and aesthetic appreciation of joyful and sad poems. *Frontiers in Psychology*, 7, 2051. https://doi.org/10.3389/fpsyg.2016.02051
@@ -473,7 +473,7 @@ Joseph Magliano's research focuses on how people understand what they read and w
 * Levine, S., Bernstein, M. (2016). Opening George Hillocks’ territory of literature. *English Education*, 48, (2), 127-147 (invited).
 * Yukhymenko-Lescroart, M., Briner, S. W., Lawless, K., Levine, S., Magliano, J. P., Burkett, C., McCarthy, K. S., Lee, C. D., & Goldman, S. R. (2016). Development and initial validation of the Literature Epistemic Cognition Scale (LECS). *Learning and Individual Differences*, 51, 242-248. https://doi.org/10.1016/j.lindif.2016.09.014
 * Goldman, S. R., McCarthy, K. S., & Burkett, C. (2015). Interpretive inferences in literature. In E. O’Brien, A. Cook, & R. Lorch (Eds.), *Inferences during reading* (pp. 386-415). New York, NY: Cambridge University Press.
-* Levine, S., Horton, W. (2015). Helping high school students read like experts: Affective evaluation, salience, and literary interpretation. *Cognition and Instruction*, 33(2), 125-153. Doi: https://doi.org/10.1080/07370008.2015.1029609 
+* Levine, S., Horton, W. (2015). Helping high school students read like experts: Affective evaluation, salience, and literary interpretation. *Cognition and Instruction*, 33(2), 125-153. https://doi.org/10.1080/07370008.2015.1029609 
 * McCarthy, K. S. (2015). Reading beyond the lines: A critical review of cognitive approaches to literary interpretation and comprehension. *Scientific Study of Literature*, 5, 99-128. https://doi.org/10.1075/ssol.5.1.05mcc 
 * McCarthy, K. S. & Goldman, S. R. (2015). Comprehension of short stories: Effects of task instructions on literary interpretation. *Discourse Processes*, 52, 585-608. https://doi.org/10.1080/0163853X.2014.967610 
 * Levine, S., & Horton, W. S. (2015). Helping high school students read like experts: Affective evaluation, salience, and literary interpretation. *Cognition and Instruction*, 33, 125-153. https://doi.org/10.1080/07370008.2015.1029609
@@ -520,7 +520,7 @@ Narrative absorption is a focused form of reading, which leaves the reader unawa
 
 {{< card "images/moniek.jpg" >}}
 #### Moniek M. Kuijpers
-Postdoctoral research fellow, Gutenberg Institute for Book Science, Johannes Gutenberg University Mainz, Germany. 
+Assistant Professor, Digital Humanities Lab, University of Basel, Switzerland. 
 
 Moniek received her PhD in empirical studies of literature from the University of Utrecht, The Netherlands, in 2014. She continued her work on absorption at the Max Planck Institute for Empirical Aesthetics focusing on personality traits and reading habits of absorbed readers and the problem of how to measure absorption online using eye tracking methodology. Her current research is focused on the mention of absorption in online reader reviews and the relationship between absorbed narrative reading and psychological well-being. Moniek developed a self-report measuring instrument, the Story World Absorption Scale, to capture absorption. She has conducted and published several studies on the effects of various textual devices (i.e., suspense and curiosity structures, foregrounding) on absorption, but also on the individual differences (e.g., personality traits, reading habits) among readers who tend to get absorbed.  
 {{</ card >}}
@@ -907,14 +907,12 @@ ___
 
 {{< card "images/members/fialho.jpg" >}}
 #### Olivia Fialho
-Lecturer in Comparative Literature, Department of Languages, Literature and
-Communication, Utrecht University; Researcher in Literary Studies at the Huygens Institute for the History of the Netherlands, Royal Netherlands Academy of Arts and Sciences.
+Assistant Professor in Comparative Literature, Department of Languages, Literature and Communication, Utrecht University; Senior Researcher in Empirical and Computational Literary Studies at the Huygens Institute for the History of the Netherlands, Royal Netherlands Academy of Arts and Sciences (KNAW).
 
-Olivia is a literary scholar specializing in the fields of comparative, empirical,
-cognitive, and digital literary studies. She investigates the phenomenology, preconditions, and underlying processes through which literary narrative fiction deepens perceptions of self and others. She wrote her doctoral dissertation on self-modifying reading (University of Alberta, 2012). In her postdoctoral studies, she developed "Transformative Reading", an empirical and cognitive approach to literary reading, focusing on experiencing literature. It argues that the essence of literature (and the arts) lies in its power to impart knowledge about ourselves and other human beings by allowing us to connect more deeply and conscientiously with our emotions, improving our social functioning. It is an evidence-based program, demonstrably effective in fostering readers’ insights into self and others and eudaimonic reasons for reading. It has been successfully applied in Education (primary and higher secondary levels) and Business. Her research has been awarded prizes and fellowships for ten consecutive years, including a grant by the Netherlands Organization of Scientific Research (NWO). It has been featured in the cultural sections of the *NRK* and *Klassekampen*, and the Humanities webpage of the University of Oslo.  
+Olivia is a literary scholar specializing in the fields of comparative, empirical, cognitive, and digital literary studies. She investigates the phenomenology, preconditions, and underlying processes through which literary narrative fiction deepens and changes perceptions of self and others. She wrote her doctoral dissertation on self-modifying reading (University of Alberta, 2012). In her postdoctoral studies, she developed "Transformative Reading", an empirical and cognitive approach to literary reading, focusing on experiencing literature. It argues that the essence of literature (and the arts) lies in its power to impart knowledge about ourselves and other human beings by allowing us to connect more deeply and conscientiously with our emotions, improving our social functioning. It is an evidence-based program, demonstrably effective in fostering readers' insights into self and others and eudaimonic reasons for reading. *Transformative Reading* innovates as a program of literature teaching in three areas: Education (primary, secondary, higher), Business and, currently, Medical Ethics. Her research has helped acquire prizes, awards, and fellowships, including, most recently, the project "Uses of Narrative Fiction in Social Contexts: Changes in Self and Social Perceptions", funded by NWO (the Dutch Research Council, 2014-2018) and the present ERC Advanced Grant "MORE: Moral residue –  epistemological ramifications, ethical implications, and didactic opportunities" (2022-2027). It has been featured in the cultural sections of the *NRK* and *Klassekampen*, and the Humanities webpage of the University of Oslo.
 {{</ card >}}
 
-{{< card "images/members/member-1.jpg" >}}
+{{< card "images/members/Maja.jpg" >}}
 ##### Maja Djikic
 Associate Professor and Director of Self-Development Laboratory at the Rotman School of Management, University of Toronto, Canada.
 
@@ -945,13 +943,15 @@ David has long been interested in the literariness of literary texts, what appea
 
 <h4>Publications</h4>
 
-* Fialho, O. (2022 forthcoming). *Transformative Reading*. Amsterdam: John Benjamins.
+* Fialho, O. (2023 forthcoming). *Transformative Reading*. Amsterdam: John Benjamins.
+* Aslam, H., Oatley, K., & Djikic, M. (2021). Secular pilgrimage to places associated with writers, musicians, and visual artists. *Journal of Tourism and Cultural Change*. https://doi.org/10.1080/14766825.2021.1987445
 * Fialho, O. (2019) What is literature for? The role of transformative reading.
 Contribution to a special issue *The place of the cognitive in literary studies*, edited by Karin Kukkonen, Anežka Kuzmičová, Steen Ledet Christiansen, and Merja Polvinen.In *Cogent Arts & Humanities*, 6(1), https://doi.org/10.1080/23311983.2019.1692532
 * Schrijvers, M., Janssen, T., Fialho, O., De Maeyer, S., & Rijlaarsdam, G. (2019). Transformative dialogic literature teaching fosters adolescents’ insight into human nature. *Learning and Instruction*, 63, 1-15. https://10.0.3.248/j.learninstruc.2019.101216
 * Schrijvers, M., Janssen, T., Fialho, O., & Rijlaarsdam, G. (2019). Toward the validation of a literature classroom intervention to foster adolescents' insights into human nature: an iterative design process. Contribution to the special issue *Systematically designed literature classroom interventions: Design principles, development and implementation*, edited by Marloes Schrijvers, Karen Murphy, and Gert Rijlaarsdam. In *L1 - educational studies in language and literature*. https://l1.publication-archive.com/publication/1/1592
 * Schrijvers, M., Janssen, T., Fialho, O., &amp; Rijlaarsdam, G. (2019). Gaining insight into human nature: A review of literature classroom intervention studies. *Review of Educational Research*, 89(1), 3–45. https://doi.org/10.3102%2F0034654318812914
 * Djikic, M., & Oatley, K.  (2017). The Weary Voyager Model of creativity in relation to self.  In M. Karwowski, & J. C. Kaufman (Eds.) *The Creative Self:  Effect of beliefs, self-efficacy, mindset, and identity* (pp. 327-342).  Cambridge, U. S.:  Academic Press.
+* Moldoveanu, M. C., & Djikic, M. (2017). Feedback: The broken loop in higher education - and how to fix it. *Harvard Business Review*.
 * Schrijvers, M., Janssen, T., Fialho, O., &amp; Rijlaarsdam, G. (2016). The impact of literature education on students’ perceptions of self and others: Exploring personal and social learning experiences in relation to teacher approach. Contribution to a special issue *The role of writing in literature education*, edited by Tanja Janssen and Irene Pieper. In *L1 - educational studies in language and literature*, 16, 1–37. https://doi.org/10.17239/L1ESLL-2016.16.04.0
 * Djikic, M., & Oatley, K. (2014). The art in fiction: From indirect communication to changes of the self. *Psychology of Aesthetics, Creativity, and the Arts*, 8(4), 498-505. http://dx.doi.org/10.1037/a0037999 
 * Djikic, M., Oatley, K., & Moldoveanu, M.C. (2013a). Opening the closed mind: The effect of exposure to literature on the need for closure. *Creativity Research Journal*, 25(2), 149-154. http://dx.doi.org/10.1080/10400419.2013.783735 
@@ -1392,20 +1392,23 @@ bio
 
 <h4>Publications</h4>
 
-* Khoo, G. S., Oh, J., & Nah, S. (2021). Staying-at-home with tragedy: Self-expansion through narratives promotes positive coping with identity threat. *Human Communication Research*. 47(3), 309–334. doi: 10.1093/hcr/hqab005
-* Khoo, G. S. & Ash, E. (2021). Moved to justice: The effects of socially conscious films on social justice concerns. *Mass Communication and Society*. 24(1), 106-129, doi: 10.1080/15205436.2020.1779306 [preprint PDF]
+* Das, E., Kalch, A., van Krieken, K., & Khoo, G. S. (2023). Existential narratives: Increasing
+psychological wellbeing through story [Special issue]. *Frontiers in Communication*, 7. https://doi.org/10.3389/fcomm.2022.1113441
+* Khoo, G. S. (2021). Audience reception of tragic entertainment and the value of cathartic reflection. In D. Kuiken & A. M.  Jacobs (Eds.), *Handbook of empirical literary studies* (pp. 365-392). Berlin, Germany: De Gruyter. https://doi.org/10.1515/9783110645958-015
+* Khoo, G. S., Oh, J., & Nah, S. (2021). Staying-at-home with tragedy: Self-expansion through narratives promotes positive coping with identity threat. *Human Communication Research*. 47(3), 309–334. https://doi.org/10.1093/hcr/hqab005
+* Khoo, G. S. & Ash, E. (2021). Moved to justice: The effects of socially conscious films on social justice concerns. *Mass Communication and Society*. 24(1), 106-129, https://doi.org/10.1080/15205436.2020.1779306
 * Khoo, G. S. & Adkins, B. (2020). Catharsis. In Van den Bulck, J. (Ed.), *International encyclopedia of media effects*. Wiley.
 * Hofer, M. & Rieger, D. (2018). On being happy through entertainment: Hedonic and non-hedonic entertainment experiences. In: J. A. Muñiz Velázquez, & C. Pulido (Eds.), *The Routledge Handbook of Positive Communication*. Routledge.
-* Khoo, G. S. (2017). From terror to transcendence: Death reflection promotes preferences for human drama. *Media Psychology*. Advance online publication. doi: 10.1080/15213269.2017.1338965
+* Khoo, G. S. (2017). From terror to transcendence: Death reflection promotes preferences for human drama. *Media Psychology*. Advance online publication. https://doi.org/10.1080/15213269.2017.1338965
 * Hofer, M. (2017). Responses to sad media/tragedy. In P. Rössler, C. A. Hoffner, & L. van Zoonen (Eds.), *The International Encyclopedia of Media Effects* (pp. 1731–1743). Hoboken, NJ, USA: John Wiley & Sons, Inc.
-* Rieger, D., & Hofer, M. (2017). How movies can ease the fear of death: The survival or death of the protagonists in meaningful movies. *Mass Communication and Society*, 18, 1–24. doi:10.1080/15205436.2017.1300666
-* Khoo, G. S. (2016). Contemplating tragedy raises gratifications and fosters self-acceptance. *Human Communication Research*. 42, 269–291. doi: 10.1111/hcre.12074
-* Khoo, G. S., & Graham-Engeland J. E. (2016). The benefits of contemplating tragic drama on self-regulation and health. *Health Promotion International*. 31, 187-199. doi: 10.1093/heapro/dau056
-* Hofer, M., Allemand, M., & Martin, M. (2014). Age differences in non-hedonic entertainment experiences. *Journal of Communication*, 64, 61–81. doi:10.1111/jcom.12074
-* Khoo, G. S., & Oliver, M. B. (2013). The therapeutic effects of narrative cinema through clarification: Reexamining catharsis. *Scientific Study of Literature*, 3, 266-293. doi: 10.1075/ssol.3.2.06kho
-* Hofer, M. (2013). Appreciation and enjoyment of meaningful entertainment. *Journal of Media Psychology: Theories, Methods, and Applications*, 25, 109–117. doi:10.1027/1864-1105/a000089  
-* Hofer, M., & Wirth, W. (2012). It's right to be sad: The role of meta-appraisals in the sad film paradoxon. A multiple mediator model. *Journal of Media Psychology: Theories, Methods, and Applications*, 24. 43-54. doi: 10.1027/1864-1105/a000061
-* Wirth, W., Hofer, M., & Schramm, H. (2012). Beyond pleasure: Exploring the eudaimonic entertainment experience. *Human Communication Research*, 38, 406–428. doi: 10.1111/j.1468-2958.2012.01434.x
+* Rieger, D., & Hofer, M. (2017). How movies can ease the fear of death: The survival or death of the protagonists in meaningful movies. *Mass Communication and Society*, 18, 1–24. https://doi.org/10.1080/15205436.2017.1300666
+* Khoo, G. S. (2016). Contemplating tragedy raises gratifications and fosters self-acceptance. *Human Communication Research*. 42, 269–291. https://doi.org/10.1111/hcre.12074
+* Khoo, G. S., & Graham-Engeland J. E. (2016). The benefits of contemplating tragic drama on self-regulation and health. *Health Promotion International*. 31, 187-199. https://doi.org/10.1093/heapro/dau056
+* Hofer, M., Allemand, M., & Martin, M. (2014). Age differences in non-hedonic entertainment experiences. *Journal of Communication*, 64, 61–81. https://doi.org/10.1111/jcom.12074
+* Khoo, G. S., & Oliver, M. B. (2013). The therapeutic effects of narrative cinema through clarification: Reexamining catharsis. *Scientific Study of Literature*, 3, 266-293. https://doi.org/10.1075/ssol.3.2.06kho
+* Hofer, M. (2013). Appreciation and enjoyment of meaningful entertainment. *Journal of Media Psychology: Theories, Methods, and Applications*, 25, 109–117. https://doi.org/10.1027/1864-1105/a000089  
+* Hofer, M., & Wirth, W. (2012). It's right to be sad: The role of meta-appraisals in the sad film paradoxon. A multiple mediator model. *Journal of Media Psychology: Theories, Methods, and Applications*, 24. 43-54. https://doi.org/10.1027/1864-1105/a000061
+* Wirth, W., Hofer, M., & Schramm, H. (2012). Beyond pleasure: Exploring the eudaimonic entertainment experience. *Human Communication Research*, 38, 406–428. https://doi.org/10.1111/j.1468-2958.2012.01434.x
 
 <h4>Resources</h4>
 
@@ -1656,7 +1659,7 @@ Don specializes in the study of dreams, aesthetics, and phenomenology. He has pu
 *	Bruhn, M. J. (2018). Citation analysis: An empirical approach to professional literary interpretation, *Scientific Study of Literature* 8(1), 76-112.
 *	Bruhn, M. J. (2018). Target first: On ‘Bidirectionality and Metaphor,’ *Poetics Today*, 39(4), 703-733. 
 *	Bruhn, M. J. (2018). Intentionality and constraint in conceptual blending. In S. Czábi (Ed.), *Expressive Minds and Artistic Creations: Studies in Cognitive Poetics* (pp. 79-100). New York: Oxford University Press.
-*	Jacobs A. M. (2018) The Gutenberg English Poetry Corpus: Exemplary quantitative narrative analyses. *Front. Digit. Humanit*. 5:5. doi: 10.3389/fdigh.2018.00005
+*	Jacobs A. M. (2018) The Gutenberg English Poetry Corpus: Exemplary quantitative narrative analyses. *Front. Digit. Humanit*. 5:5. https://doi.org/10.3389/fdigh.2018.00005
 *	Jacobs, A. M. (2018). (Neuro-)cognitive poetics and computational stylistics. *Scientific Study of Literature* 8(1), 165-208.
 *	Jacobs, A. M., & Kinder, A. (2018). What makes a metaphor literary? Answers from two computational studies, *Metaphor and Symbol*, 33(2), 85-100. https://doi.org/10.1080/10926488.2018.1434943
 *	Willemsen, S., Kraglund, R.A., & Troscianko, E. T. (2018). Interpretation: Its status as object or method of study in cognitive and unnatural narratology. *Poetics Today* 39(3), 597-622.
@@ -1668,10 +1671,10 @@ Don specializes in the study of dreams, aesthetics, and phenomenology. He has pu
 *	Bruhn, M. J. (2017). ‘The history and science of feeling’: Wordsworth’s affective poetics, then and now. In D. R. Wehrs & T. Blake (Eds.), *The Palgrave Handbook of Affect Studies and Textual Criticism* (pp. 671-693). Cham, Switzerland: Springer.
 *	Davis, P., & Billington, J. (2016). The very grief a cure of the disease. *Changing English*, 23(4), 396–408. https://doi.org/10.1080/1358684X.2016.1194188 
 *	Willems, R. & Jacobs, A.M. (2016). Caring about Dostoyevsky: The untapped potential of studying literature. *Trends in Cognitive Sciences*, 20, 243-245.
-*	Jacobs, A. M., Lüdtke, J., Aryani, A., Meyer-Sickendiek, B., & Conrad, M. (2016). Mood-empathic and aesthetic responses in poetry reception: A model-guided, multilevel, multimethod approach. *Scientific Study of Literature*, 6(1), 87–130. doi:10.1075/ssol.6.1.06jac
+*	Jacobs, A. M., Lüdtke, J., Aryani, A., Meyer-Sickendiek, B., & Conrad, M. (2016). Mood-empathic and aesthetic responses in poetry reception: A model-guided, multilevel, multimethod approach. *Scientific Study of Literature*, 6(1), 87–130. https://doi.org/10.1075/ssol.6.1.06jac
 *	Kuiken, D. (2016). The implicit erasure of “literary experience” in empirical studies of literature. *Scientific Study of Literature*, 5(2), 171–177. https://doi.org/10.1075/ssol.5.2.02kui
 *	Kuiken, D., & Douglas, S. (2015). Levels of analysis in neuroscientific studies of emotion: Comment on “The quartet theory of human emotions: an integrative and neurofunctional model” by S. Koelsch et al. *Physics of Life Reviews*, 13, 63–66. https://doi.org/10.1016/j.plrev.2015.04.009
-*	Jacobs A. M. (2015). Neurocognitive poetics: Methods and models for investigating the neuronal and cognitive-affective bases of literature reception. *Front. Hum. Neurosci*. 9:186. doi:10.3389/fnhum.2015.0018
+*	Jacobs A. M. (2015). Neurocognitive poetics: Methods and models for investigating the neuronal and cognitive-affective bases of literature reception. *Front. Hum. Neurosci*. 9:186. https://doi.org/10.3389/fnhum.2015.0018
 *	Jacobs, A. M. (2015). The scientific study of literary experience: Sampling the state of the art. *Scientific Study of Literature*, 5(2), 139-170.
 *	O'Sullivan, N., Davis, P., Billington, J., Gonzalez-Diaz, V., & Corcoran R. (2015). 'Shall I compare thee': The neural basis of literary awareness, and its benefits to cognition, *Cortex*, 73, 144-157.
 *	Bruhn, M. J. (2015). A mirror on the mind: Stevens, chiasmus, and autism spectrum disorder, *The Wallace Stevens Journal* (special issue on Stevens and the Cognitive Turn in Literary Studies), 39(2), 182-206.
