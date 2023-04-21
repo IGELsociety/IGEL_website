@@ -950,13 +950,13 @@ David has long been interested in the literariness of literary texts, what appea
 
 <h4>Publications</h4>
 
-* Fialho, O. (2023 forthcoming). *Transformative Reading*. Amsterdam: John Benjamins.
+* Fialho, O. (2023, forthcoming). *Transformative Reading*. Amsterdam: John Benjamins.
 * Bal, P.M., Brookes, A., Hack-Polay, D., Kordowicz, M., & Mendy, J. (2022). *The absurd workplace: how absurdity is normalized in contemporary society and workplace.* Palgrave MacMillan. 
 * Brokerhof, I. M., Sucher, S. J., Matthijs Bal, P., Hakemulder, F., Jansen, P. G. W., & Solinger, O. N. (2023). Developing Moral Muscle in a Literature-Based Business Ethics Course. *Academy of Management Learning & Education, 22*(1), 63–87. https://doi.org/10.5465/amle.2020.0072
 * Aslam, H., Oatley, K., & Djikic, M. (2021). Secular pilgrimage to places associated with writers, musicians, and visual artists. *Journal of Tourism and Cultural Change*. https://doi.org/10.1080/14766825.2021.1987445
 * Bal, P.M., Brokerhof, I.M., & Dóci, E. (2021). How does fiction inform working lives? An exploration of the role of empathy. *International Journal of Public Sociology and Sociotherapy, 1*, 1-11.
 * Brokerhof, I. M., Ybema, J. F., & Bal, P. M. (2020). Illness narratives and chronic patients’ sustainable employability: The impact of positive work stories. *PLOS ONE, 15*(2), e0228581. https://doi.org/10.1371/journal.pone.0228581
-* Fialho, O. (2019) What is literature for? The role of transformative reading. Contribution to a special issue *The place of the cognitive in literary studies*, edited by Karin Kukkonen, Anežka Kuzmičová, Steen Ledet Christiansen, and Merja Polvinen.In *Cogent Arts & Humanities*, 6(1), https://doi.org/10.1080/23311983.2019.1692532
+* Fialho, O. (2019). What is literature for? The role of transformative reading. *Cogent Arts & Humanities, 6*(1), 1692532. https://doi.org/10.1080/23311983.2019.1692532
 * Schrijvers, M., Janssen, T., Fialho, O., De Maeyer, S., & Rijlaarsdam, G. (2019). Transformative dialogic literature teaching fosters adolescents’ insight into human nature. *Learning and Instruction*, 63, 1-15. https://10.0.3.248/j.learninstruc.2019.101216
 * Schrijvers, M., Janssen, T., Fialho, O., & Rijlaarsdam, G. (2019). Toward the validation of a literature classroom intervention to foster adolescents' insights into human nature: an iterative design process. Contribution to the special issue *Systematically designed literature classroom interventions: Design principles, development and implementation*, edited by Marloes Schrijvers, Karen Murphy, and Gert Rijlaarsdam. In *L1 - educational studies in language and literature*. https://l1.publication-archive.com/publication/1/1592
 * Schrijvers, M., Janssen, T., Fialho, O., &amp; Rijlaarsdam, G. (2019). Gaining insight into human nature: A review of literature classroom intervention studies. *Review of Educational Research*, 89(1), 3–45. https://doi.org/10.3102%2F0034654318812914
