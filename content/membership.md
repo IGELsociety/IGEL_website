@@ -1,6 +1,6 @@
 ---
 title: "IGEL membership"
-description: "meta description"
+description: "Become a member of IGEL"
 ---
 
 ## IGEL membership with yearly **automatic renewal**
