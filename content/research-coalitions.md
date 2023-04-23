@@ -933,6 +933,13 @@ Professor, Department of Psychology, University of Alberta, Canada.
 Don specializes in the study of dreams, aesthetics, and phenomenology. He has published journal articles and book chapters concerning self-transformation through significant dreams and significant reading experiences. The notion guiding his research is that a metaphoric and expressive mode of engagement (called expressive enactment) is at work during both impactful dreams and significant reading events. Current studies address the cumulative and “creative” metaphoricity through which expressive enactment precipitates transformative aesthetic outcomes (e.g., being moved, sublime feeling).
 {{</ card >}}
 
+{{< card "images/members/MatthijsBal.jpg >}}
+##### Matthijs Bal
+Professor, Lincoln International Business School, United Kingdom.
+
+Matthijs Bal is a professor of Responsible Management at the Lincoln International Business School, United Kingdom. Prior to joining Lincoln, he has been affiliated to the Universities of Bath, VU Amsterdam, and Erasmus Rotterdam, the Netherlands. His research interests concern absurdity, fictional narratives at work, ideology, individualization, dignity at work, and imagination. 
+{{</ card >}}
+
 {{< card "images/members/miall.jpg" >}}
 ##### David S. Miall
 Professor, Department of English and Film Studies, University of Alberta, Canada (*in
@@ -943,20 +950,26 @@ David has long been interested in the literariness of literary texts, what appea
 
 <h4>Publications</h4>
 
-* Fialho, O. (2023 forthcoming). *Transformative Reading*. Amsterdam: John Benjamins.
+* Fialho, O. (2023, forthcoming). *Transformative Reading*. Amsterdam: John Benjamins.
+* Bal, P.M., Brookes, A., Hack-Polay, D., Kordowicz, M., & Mendy, J. (2022). *The absurd workplace: how absurdity is normalized in contemporary society and workplace.* Palgrave MacMillan. 
+* Brokerhof, I. M., Sucher, S. J., Matthijs Bal, P., Hakemulder, F., Jansen, P. G. W., & Solinger, O. N. (2023). Developing Moral Muscle in a Literature-Based Business Ethics Course. *Academy of Management Learning & Education, 22*(1), 63–87. https://doi.org/10.5465/amle.2020.0072
 * Aslam, H., Oatley, K., & Djikic, M. (2021). Secular pilgrimage to places associated with writers, musicians, and visual artists. *Journal of Tourism and Cultural Change*. https://doi.org/10.1080/14766825.2021.1987445
-* Fialho, O. (2019) What is literature for? The role of transformative reading.
-Contribution to a special issue *The place of the cognitive in literary studies*, edited by Karin Kukkonen, Anežka Kuzmičová, Steen Ledet Christiansen, and Merja Polvinen.In *Cogent Arts & Humanities*, 6(1), https://doi.org/10.1080/23311983.2019.1692532
+* Bal, P.M., Brokerhof, I.M., & Dóci, E. (2021). How does fiction inform working lives? An exploration of the role of empathy. *International Journal of Public Sociology and Sociotherapy, 1*, 1-11.
+* Brokerhof, I. M., Ybema, J. F., & Bal, P. M. (2020). Illness narratives and chronic patients’ sustainable employability: The impact of positive work stories. *PLOS ONE, 15*(2), e0228581. https://doi.org/10.1371/journal.pone.0228581
+* Fialho, O. (2019). What is literature for? The role of transformative reading. *Cogent Arts & Humanities, 6*(1), 1692532. https://doi.org/10.1080/23311983.2019.1692532
 * Schrijvers, M., Janssen, T., Fialho, O., De Maeyer, S., & Rijlaarsdam, G. (2019). Transformative dialogic literature teaching fosters adolescents’ insight into human nature. *Learning and Instruction*, 63, 1-15. https://10.0.3.248/j.learninstruc.2019.101216
 * Schrijvers, M., Janssen, T., Fialho, O., & Rijlaarsdam, G. (2019). Toward the validation of a literature classroom intervention to foster adolescents' insights into human nature: an iterative design process. Contribution to the special issue *Systematically designed literature classroom interventions: Design principles, development and implementation*, edited by Marloes Schrijvers, Karen Murphy, and Gert Rijlaarsdam. In *L1 - educational studies in language and literature*. https://l1.publication-archive.com/publication/1/1592
 * Schrijvers, M., Janssen, T., Fialho, O., &amp; Rijlaarsdam, G. (2019). Gaining insight into human nature: A review of literature classroom intervention studies. *Review of Educational Research*, 89(1), 3–45. https://doi.org/10.3102%2F0034654318812914
+* Bal, P.M. (2017). *Dignity in the Workplace: New Theoretical Perspectives.* Basingstoke, UK: Palgrave MacMillan.
 * Djikic, M., & Oatley, K.  (2017). The Weary Voyager Model of creativity in relation to self.  In M. Karwowski, & J. C. Kaufman (Eds.) *The Creative Self:  Effect of beliefs, self-efficacy, mindset, and identity* (pp. 327-342).  Cambridge, U. S.:  Academic Press.
 * Moldoveanu, M. C., & Djikic, M. (2017). Feedback: The broken loop in higher education - and how to fix it. *Harvard Business Review*.
 * Schrijvers, M., Janssen, T., Fialho, O., &amp; Rijlaarsdam, G. (2016). The impact of literature education on students’ perceptions of self and others: Exploring personal and social learning experiences in relation to teacher approach. Contribution to a special issue *The role of writing in literature education*, edited by Tanja Janssen and Irene Pieper. In *L1 - educational studies in language and literature*, 16, 1–37. https://doi.org/10.17239/L1ESLL-2016.16.04.0
 * Djikic, M., & Oatley, K. (2014). The art in fiction: From indirect communication to changes of the self. *Psychology of Aesthetics, Creativity, and the Arts*, 8(4), 498-505. http://dx.doi.org/10.1037/a0037999 
+* Bal, P. M., & Veltkamp, M. (2013). How Does Fiction Reading Influence Empathy? An Experimental Investigation on the Role of Emotional Transportation. *PLoS ONE, 8*(1), e55341. https://doi.org/10.1371/journal.pone.0055341
 * Djikic, M., Oatley, K., & Moldoveanu, M.C. (2013a). Opening the closed mind: The effect of exposure to literature on the need for closure. *Creativity Research Journal*, 25(2), 149-154. http://dx.doi.org/10.1080/10400419.2013.783735 
 * Djikic, M., Oatley, K., & Moldoveanu, M.C. (2013b). Reading other minds: Effects of literature on empathy. *Scientific Study of Literature*, 3(1), 28-47. https://doi.org/10.1075/ssol.3.1.06dji 
-* Djikic, M., Oatley, K., & Carland, M. (2012). Genre or artistic merit? The effect of literature on personality. *Scientific Study of Literature*, 2(1), 2-36. https://doi.org/10.1075/ssol.2.1.02dji 
+* Djikic, M., Oatley, K., & Carland, M. (2012). Genre or artistic merit? The effect of literature on personality. *Scientific Study of Literature*, 2(1), 2-36. https://doi.org/10.1075/ssol.2.1.02dji
+* Bal, P. M., Butterman, O. S., & Bakker, A. B. (2011). The Influence of Fictional Narrative Experience on Work Outcomes: A Conceptual Analysis and Research Model. *Review of General Psychology, 15*(4), 361–370. https://doi.org/10.1037/a0025416 
 * Djikic, M., Oatley, K., Zoeterman, S., & Peterson, J. B. (2009a). On ‘Being Moved’ by Art: How reading fiction transforms the self. *Creativity Research Journal*, 21(1), 24-29. http://dx.doi.org/10.1080/10400410802633392 
 * Djikic, M., Oatley, K., Zoeterman, S., & Peterson, J. B. (2009b). Defenseless against art: Impact of reading fiction on emotion change in avoidantly attached individuals. *Journal of Research in Personality* 43, 14-17. https://doi.org/10.1016/j.jrp.2008.09.003  
 * Schrijvers, M., Janssen, T., Fialho, O. & Rijlaarsdam, G. (2018). Gaining Insight Into Human Nature: A Review of Literature Classroom Intervention Studies. *Review of Educational Research*, 20(10), 1-43. https://doi.org/10.3102/0034654318812914
