@@ -4,10 +4,13 @@ description: "Register and pay the fee for the IGEL 2023 conference"
 ---
 # IGEL 2023 Registration fee **for new/renewing members**
 
+By clicking on the "Pay now" button and completing the payment you are automatically registered for the conference.
+
 ## **Early-bird** fees 
 Valid until 15th June 2023
 
-### Regular member (professor, researcher, member of institution)
+### Regular member
+(professor, researcher, member of institution)
  
 - IGEL conference + 1 year membership // EUR 190
 
@@ -44,7 +47,8 @@ Valid until 15th June 2023
 {{< button "Pay now" "https://buy.stripe.com/28o16b9eB2PGcUMfZu" >}}
 
 
-### Discounted member (student, retiree, and other without regular income)
+### Discounted member
+(student, retiree, and other without regular income)
 
 - IGEL conference + 1 year membership // EUR 120
 

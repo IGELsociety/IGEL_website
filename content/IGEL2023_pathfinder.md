@@ -3,7 +3,12 @@ title: "IGEL 2023: find your registration fee"
 description: "Find the correct fee based on your membership status"
 ---
 
-## First, select below the option that applies to you. Then, we'll redirect you to the correct registration fees
+# Find your registration fee 
+
+**First, select below the option that applies to you. Then, we'll redirect you to the correct registration fees**
+
+If you don't remember the status of your IGEL membership, check your email for a receipt from board@igelsociety.org or email our treasurer marloes[dot]mak[at]ru[dot]nl
+Then choose one of the options below to be guided to the correct registration fee.
 
 - I have an IGEL membership valid for 2023
 

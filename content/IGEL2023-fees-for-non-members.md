@@ -4,6 +4,8 @@ description: "Register and pay the fee for the IGEL 2023 conference"
 ---
 # IGEL 2023 Registration fee **for non-members**
 
+By clicking on the "Pay now" button and completing the payment you are automatically registered for the conference.
+
 ## **Early-bird** fees 
 Valid until 15th June 2023
 
