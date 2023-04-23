@@ -933,7 +933,7 @@ Professor, Department of Psychology, University of Alberta, Canada.
 Don specializes in the study of dreams, aesthetics, and phenomenology. He has published journal articles and book chapters concerning self-transformation through significant dreams and significant reading experiences. The notion guiding his research is that a metaphoric and expressive mode of engagement (called expressive enactment) is at work during both impactful dreams and significant reading events. Current studies address the cumulative and “creative” metaphoricity through which expressive enactment precipitates transformative aesthetic outcomes (e.g., being moved, sublime feeling).
 {{</ card >}}
 
-{{< card "images/members/MatthijsBal.jpg >}}
+{{< card "images/members/MatthijsBal.jpg" >}}
 ##### Matthijs Bal
 Professor, Lincoln International Business School, United Kingdom.
 
