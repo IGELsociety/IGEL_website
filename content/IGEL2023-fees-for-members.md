@@ -23,11 +23,11 @@ Valid until 15th June 2023
 
 - IGEL+ENN conferences // EUR 200
 
-{{< button "Pay now" "https://buy.stripe.com/3cs7uz8axbmc6woeVc" >}}
+{{< button "Pay now" "https://buy.stripe.com/00geX1gH375WaMEdR9" >}}
 
 - IGEL+ENN conferences + dinner // EUR 250
 
-{{< button "Pay now" "https://buy.stripe.com/3cs7uz8axbmc6woeVc" >}}
+{{< button "Pay now" "https://buy.stripe.com/4gw6qvfCZai8dYQaEY" >}}
 
 
 ### Discounted member
