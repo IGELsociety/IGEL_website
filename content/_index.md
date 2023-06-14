@@ -9,7 +9,7 @@ title: IGEL
 
 ### News
 
-The Call for Papers for the IGEL 2023 conference is out! Read it [here](https://igelsociety.org/events/igel2023). 
+Registration for the IGEL 2023 conference is open, with early bird rates available until June 15th! Read it [here](https://igelsociety.org/events/igel2023). 
 {{</ news >}}
 
 The International Society for the Empirical Study of Literature ([IGEL](about-us/#what-is-igel)) supports efforts to apply, or facilitate the application of, scientific methods to study the structure and functions of literature as well as the reception of literature. Amongst the functions of literature that researchers in our community investigate, are healing, social cohesion, education, entertainment, meaning making and its aesthetic function. Literature is broadly defined as all cultural artefacts that embody literary devices, such as narrative genre, stylistic variations, and figurative language. The domain includes novels, short stories, and poetry, but also theatre, film, television, and digital media.
