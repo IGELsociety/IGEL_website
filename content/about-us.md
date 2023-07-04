@@ -46,7 +46,7 @@ Marloes Mak, Radboud University Nijmegen, The Netherlands
 
 {{< speaker img="images/rocio.jpg" >}}
 ##### Training School coordinator
-Rocío Riestra Camacho, Alfonso X El Sabio University, Spain
+Rocío Riestra Camacho, University of Oviedo, Spain
 {{</ speaker >}}
 
 {{< speaker img="images/jan.jpg" >}}
