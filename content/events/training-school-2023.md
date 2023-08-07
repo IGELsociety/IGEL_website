@@ -4,7 +4,7 @@ image: "images/logo.png"
 description: "Training school"
 location: "online"
 year: "2023"
-month: "October"
+month: "3-4 October"
 duration: ""
 fee: "free"
 type: "upcoming" ##[upcoming/past-training]
