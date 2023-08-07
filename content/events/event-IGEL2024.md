@@ -19,7 +19,7 @@ Please address any questions to the main organizer, Paul Sopcak: paul.sopcak[at]
 
 {{< row >}}
 
-{{< speaker img="images/events-img/Berenike-Hermann.jpg" >}}
+{{< speaker img="images/events-img/Berenike-Herrmann.jpg" >}}
 ##### [Berenike Hermann](https://www.uni-bielefeld.de/fakultaeten/linguistik-literaturwissenschaft/personen/berenike-herrmann/) – Bielefeld University
 
 {{</ speaker >}}
