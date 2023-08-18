@@ -12,7 +12,7 @@ readmore: true
 weight: 1
 ---
 
-It is our pleasure to inform you that the (now annual) IGEL 2024 conference will take place at RWTH Aachen University in Germany, from July 18-20, with the training school planned for July 16 and 17. 
+It is our pleasure to inform you that the (now annual) IGEL 2024 conference will take place at RWTH Aachen University in Germany, from July 18-20, with the training school planned for July 24 and 25. 
 Please address any questions to the main organizer, Paul Sopcak: paul.sopcak[at]ifaar.rwth-aachen.de
 
 ## Keynote Speakers
