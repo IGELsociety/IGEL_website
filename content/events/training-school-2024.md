@@ -4,7 +4,7 @@ image: "images/logo.png"
 description: "Training school"
 location: "online"
 year: "2024"
-month: "24-25 July"
+month: "22-23 July"
 duration: ""
 fee: "free"
 type: "upcoming" ##[upcoming/past-training]
@@ -17,4 +17,4 @@ editor_options:
 
 ## About Event
 
-In 2024 the IGEL Training School will take place on July 24 and 25, just after the IGEL conference. More information will follow.
+In 2024 the IGEL Training School will take place on July 22 and 23, just after the IGEL conference. More information will follow.
