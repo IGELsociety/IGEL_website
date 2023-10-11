@@ -4,9 +4,9 @@ description: "meta description"
 ---
 
 ## Scientific Study of Literature (SSOL)
-IGEL sponsors publication of the journal Scientific Study of Literature (SSOL) through John Benjamins Publishing Company. This journal invites manuscripts that apply, or facilitate the application of, scientific methods to study the structure and function of literature, especially its aesthetic function. Literature is broadly defined as all cultural artifacts that embody literary devices, such as narrative genre, stylistic variations, and figurative language. The domain includes novels, short stories, and poetry, but also theater, film, television, and digital media. The journal is peer reviewed and indexed in: CNKI ; Glottolog ; IBR/IBZ ; LLBA; MLA ; and PsycINFO.
+IGEL is the publisher of the Diamond Open Access journal *Scientific Study of Literature* (SSOL), hosted by Ubiquity Press. Until June 2023 the journal was published by John Benjamins Publishing Company. This journal invites manuscripts that apply, or facilitate the application of, scientific methods to study the structure and function of literature, especially its aesthetic function. Literature is broadly defined as all cultural artifacts that embody literary devices, such as narrative genre, stylistic variations, and figurative language. The domain includes novels, short stories, and poetry, but also theater, film, television, and digital media. The journal is peer reviewed and indexed in: CNKI ; Glottolog ; IBR/IBZ ; LLBA; MLA ; and PsycINFO.
 
-{{< button "Go to SSOL" "https://benjamins.com/catalog/ssol/" >}}
+{{< button "Go to SSOL" "https://ssol-journal.com" >}}
 
 <!---### History
 [to be completed]-->
@@ -18,6 +18,7 @@ IGEL sponsors publication of the journal Scientific Study of Literature (SSOL) t
 - Melanie C. Green, University of Buffalo - Associate Editor
 - Gerhard Lauer, Johannes Gutenberg-Universität Mainz - Associate Editor
 - Paul Sopcák, MacEwan University - Assistant Editor
+- Federico Pianzola, University of Groningen - Managing Editor
 - Justin Nicholas, University of Wisconsin - Copy Editor
 
 
