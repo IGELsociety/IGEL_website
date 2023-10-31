@@ -13,7 +13,7 @@ weight: 1
 ---
 
 ## About Event
-The 18th IGEL conference will be held ~~on the University of Central Florida campus in Orlando, Florida~~ online from July 14-16, 2022. The call for papers is available on the conference website. Please address any questions to the main organizer, Shannon Whitten: shannon[dot]whitten[at]ucf[dot]edu
+The 18th IGEL conference took place ~~on the University of Central Florida campus in Orlando, Florida~~ online from July 14-16, 2022. The Outstanding Student Paper Award was presented to Lynn Eekhof (Radboud University). Please address any questions to the main organizer, Shannon Whitten: shannon[dot]whitten[at]ucf[dot]edu
 
 Conference website: https://sciences.ucf.edu/igel/
 
