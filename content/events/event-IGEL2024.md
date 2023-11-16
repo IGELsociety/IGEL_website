@@ -99,4 +99,4 @@ The 2024 IGEL conference is organized by the Aachen Center for Cognitive and Emp
 
 ## Contact 
 
-Inquiries concerning the conference can be sent to Paul Sopcak at igel2024conference[at]proton.me 
+Inquiries concerning the conference can be sent to Paul Sopcak at igel2024conference [at] proton [dot] me 
