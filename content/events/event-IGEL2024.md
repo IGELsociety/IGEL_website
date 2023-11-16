@@ -78,9 +78,13 @@ Besides paper and poster proposals, we are again actively encouraging submission
 
 All symposia presentations follow the same format as other paper presentations (pre-recorded presentations on Concordance with synchronous Q&A sessions during the conference). 
 
+### Submission form
+
+Please send all submissions via [this link](https://forms.gle/eWry8de3i4j2LiFr8).
+
 ### Outstanding Student Paper Award
 
-IGEL will continue its tradition of recognizing outstanding student presentations. In order to be considered for the Outstanding Student Paper Award, the first author must be a graduate student, and the student’s supervisor must send a recommendation to igel2024conference[at]proton.me describing the student’s contribution to the research project. First authors should indicate the eligibility of their submission using the provided checkbox during the submission process. 
+IGEL will continue its tradition of recognizing outstanding student presentations. In order to be considered for the Outstanding Student Paper Award, the first author must be a graduate student, and the student’s supervisor must send a recommendation to igel2024conference [at] proton [dot] me describing the student’s contribution to the research project. First authors should indicate the eligibility of their submission using the provided checkbox during the submission process. 
 
 Acceptance decisions will be communicated to the authors by 30 March 2024.
 
