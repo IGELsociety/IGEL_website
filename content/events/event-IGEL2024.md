@@ -76,7 +76,16 @@ Besides paper and poster proposals, we are again actively encouraging submission
 - A list of speakers (including affiliations)
 - Titles and summaries of each speaker’s contribution (200-300 words, references excluded; anonymized to allow for blind review)
 
-All symposia presentations follow the same format as other paper presentations (pre-recorded presentations on Concordance with synchronous Q&A sessions during the conference). 
+All symposia presentations follow the same format as other paper presentations (pre-recorded presentations on Concordance with synchronous Q&A sessions during the conference).
+
+### Acceptance Policies
+
+- Proposal needs to be relevant to our society’s mandate and members
+- Proposal needs to be of high quality (therefore paper proposals need to be anonymized, so authors cannot be accepted or rejected on name alone)
+- Proposal can be empirical (naturalistic, experimental or computational) or theoretical (but pertaining to the field of empirical literary studies) in nature
+- We will not accept more than one proposal from the same author (the only exception being authors who can clearly show that they are working in two different research areas) → this policy is to prevent senior researchers from dominating the conference
+- We are an inclusive society, which means early career researchers or researchers from economically-disadvantaged countries will not be discriminated against
+- The review process is blind
 
 ### Submission form
 
