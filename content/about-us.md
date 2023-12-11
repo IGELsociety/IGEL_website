@@ -29,9 +29,9 @@ The IGEL society is governed by a board of members from our community.
 Moniek Kuijpers, University of Basel, Switzerland
 {{</ speaker >}}
 
-{{< speaker img="images/federico.jpg" >}}
+{{< speaker img="images/paul.jpg" >}}
 ##### Vice-President
-Federico Pianzola, University of Groningen, Netherlands
+Paul Sopcak, RWTH Aachen University, Germany
 {{</ speaker >}}
 
 {{< speaker img="images/shannon.jpg" >}}
@@ -54,9 +54,9 @@ Rocío Riestra Camacho, University of Oviedo, Spain
 Jan Auracher, National University of Singapore
 {{</ speaker >}}
 
-{{< speaker img="images/Lynn.jpeg" >}}
+{{< speaker img="images/federico.jpg" >}}
 ##### Online Presence coordinator
-Lynn Eekhof, Radboud University, The Netherlands
+Federico Pianzola, University of Groningen, Netherlands
 {{</ speaker >}}
 
 {{</ row >}}
