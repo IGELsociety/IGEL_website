@@ -24,21 +24,21 @@ The deadline for submission is ~~15 January 2024~~ **31 January 2024**.
 
 ##### [Berenike Hermann](https://www.uni-bielefeld.de/fakultaeten/linguistik-literaturwissenschaft/personen/berenike-herrmann/) -- Bielefeld University
 
-{{< speaker >}}
+{{</ speaker >}}
 
 {{< speaker img="images/events-img/James-Carney.jpg" >}}
 
 ##### [James Carney](https://texturejc.github.io/carney_profile/) -- The London Interdisciplinary School
 
-{{< speaker >}}
+{{</ speaker >}}
 
 {{< speaker img="images/events-img/Marco-Giovanelli.jpg" >}}
 
 ##### [Marcello Giovanelli](https://research.aston.ac.uk/en/persons/marcello-giovanelli) -- Aston University, Birmingham
 
-{{< speaker >}}
+{{</ speaker >}}
 
-{{< row >}}
+{{</ row >}}
 
 ## Venue
 
