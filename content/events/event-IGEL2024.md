@@ -106,7 +106,7 @@ IGEL will provide bursaries of maximum 400 euro for early career researchers wit
 
 ## Important Dates
 
--   Symposium proposals and abstracts submission deadline: 15 January 2024
+-   Symposium proposals and abstracts submission deadline: ~~15 January 2024~~ 30 January 2024
 -   Acceptances will be sent out on: 30 March 2024
 -   Early-bird registration deadline: 30 May 2024
 -   Registration deadline: 30 une 2024
