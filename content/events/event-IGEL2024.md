@@ -102,14 +102,14 @@ IGEL will continue its tradition of recognizing outstanding student presentation
 
 ### Bursaries
 
-IGEL will provide bursaries of maximum 400 euro for early career researchers with no travel funds. There is a limited number of bursaries available. If you want to know whether you are eligible, please contact Marloes Mak (email: board [at] igelsociety [dot] org). If you are eligible and would like to request a bursary, please write to Marloes Mak (email:board \[at\] igelsociety \[dot\] org) before 25 April. Decisions about the bursaries will be communicated on 30 April.
+IGEL will provide bursaries of maximum 400 euro for early career researchers with no travel funds. There is a limited number of bursaries available. If you want to know whether you are eligible, please contact Marloes Mak (email: board [at] igelsociety [dot] org). If you are eligible and would like to request a bursary, please write to Marloes Mak (email: board \[at\] igelsociety \[dot\] org) before 25 April. Decisions about the bursaries will be communicated on 30 April.
 
 ## Important Dates
 
 -   Symposium proposals and abstracts submission deadline: 15 January 2024
 -   Acceptances will be sent out on: 30 March 2024
--   Early-bird registration deadline: May 30, 2024
--   Registration deadline: June 30, 2024
+-   Early-bird registration deadline: 30 May 2024
+-   Registration deadline: 30 une 2024
 
 ## Organisation
 
