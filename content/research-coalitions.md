@@ -1574,6 +1574,13 @@ Assistant Professor, Institute for Cultural Inquiry, Utrecht University, The Net
 With a background in Literary Studies, Frank specializes in the psychology of reading literature. His research pertains to the effects of reading literary narrative fiction on wellbeing, attitude change, self-concept, and social perception. He has published several books and articles, among them *The Moral Laboratory. Experiments Examining the Effects of Reading Literature on Social Perception and Moral Self-Concept* (Benjamins, 2000), *Scientific Methods for the Humanities* (Benjamins, 2012), and *Narrative Absorption* (Benjamins, 2017). He also conducts studies concerning the reception of film and trains students in the humanities in both qualitative and quantitative research methods. Frank participated in the Empirical Ecocriticism Workshop at the Rachel Carson Center in December 2018 and subsequently joined Matthew Schneider-Mayerson, Wojciech Małecki, and Alexa Weik von Mossner as an editor on the *Empirical Ecocriticism* volume.
 {{</ card >}}
 
+{{< card "images/members/member-1.jpg" >}}
+#### Cristina Loi
+Postodcotral researcher, University of Basel, Switzerland.
+
+Cristina Loi is a postdoctoral researcher at the University of Basel. She specializes in Empirical Literary Studies, with a focus on investigating how reading impacts the reader’s self-concept. For her current project, she is designing a Shared Reading intervention for young adults in Switzerland to test whether reading climate fiction can have an impact on climate anxiety and pro-environmental behaviors. 
+{{</ card >}}
+
 <h4>Publications</h4>
 
 * Małecki, Wojciech, Alexa Weik von Mossner and Małgorzata Dobrowolska. 2020. “Stories versus Speciesism: The Case of Alice Walker's ‘Am I Blue?’” *ISLE: Interdisciplinary Studies in Literature and Environment*.
