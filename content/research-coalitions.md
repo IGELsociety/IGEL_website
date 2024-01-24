@@ -1574,7 +1574,7 @@ Assistant Professor, Institute for Cultural Inquiry, Utrecht University, The Net
 With a background in Literary Studies, Frank specializes in the psychology of reading literature. His research pertains to the effects of reading literary narrative fiction on wellbeing, attitude change, self-concept, and social perception. He has published several books and articles, among them *The Moral Laboratory. Experiments Examining the Effects of Reading Literature on Social Perception and Moral Self-Concept* (Benjamins, 2000), *Scientific Methods for the Humanities* (Benjamins, 2012), and *Narrative Absorption* (Benjamins, 2017). He also conducts studies concerning the reception of film and trains students in the humanities in both qualitative and quantitative research methods. Frank participated in the Empirical Ecocriticism Workshop at the Rachel Carson Center in December 2018 and subsequently joined Matthew Schneider-Mayerson, Wojciech Małecki, and Alexa Weik von Mossner as an editor on the *Empirical Ecocriticism* volume.
 {{</ card >}}
 
-{{< card "images/members/member-1.jpg" >}}
+{{< card "images/members/CristinaLoi_photo.jpg" >}}
 #### Cristina Loi
 Postodcotral researcher, University of Basel, Switzerland.
 
