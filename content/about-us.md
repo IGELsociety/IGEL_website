@@ -112,7 +112,9 @@ Although empirical studies of literature have a longer history, the Society was 
 - [2014: Torino, Italy](https://drive.google.com/file/d/1azkvIoUVhs0x8UMnPNZlcVV5Ny5wEbtg/view?usp=sharing)
 - [2016: Chicago, United States](https://drive.google.com/file/d/1PWDviGYmiW-lIouD7svMepOwwGbNP1JP/view?usp=sharing)
 - [2018: Stavanger, Norway](https://drive.google.com/open?id=1KacEwKr3KBarw1Ns_gDZao3jZUmZxIZX)
-- [2021: Liverpool, United Kingdom](https://drive.google.com/file/d/1VaQ-dPnm5jYtWRT6Fg3C5QY5aYzCDyqE/view?usp=sharing)
+- [2021: online (Liverpool, United Kingdom)](https://drive.google.com/file/d/1VaQ-dPnm5jYtWRT6Fg3C5QY5aYzCDyqE/view?usp=sharing)
+- [2022: online (Orlando, USA)](https://igelsociety.org/events/event-igel2022/)
+- [2023: Monopoli, Italy](https://igelsociety.org/events/igel2023/)
 
 
 #### Past Presidents
