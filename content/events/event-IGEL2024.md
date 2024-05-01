@@ -16,6 +16,24 @@ From July 18 to 20, 2024, the International Society for the Empirical Study of L
 
 The deadline for submission is ~~15 January 2024~~ **31 January 2024**.
 
+## Registration
+
+Registration will open on the second week of May. 
+
+**Early bird** rates are available until **15th June**.
+
+You can renew your IGEL membership now using the button at the top right of the page. If you prefer to pay membership and conference fee together, we will provide a link for that once registration opens.
+
+| Type of fee                     | Until 15th June    |  After 15th June  | 
+| ------------------------------- | ------------------:| -----------------:| 
+| **Regular IGEL member**         |  € 150             |  € 180            | 
+| **Discounted IGEL member**      |  € 100             |  € 130            | 
+| **Non-member**                  |  € 200             |  € 250            |  
+
+IGEL is an inclusive society, which means that **fees are lowered** for early career researchers and for scholars from economically-disadvantaged countries. If you are eligible and would like to request a lower registration fee, please write to the IGEL treasurer, Marloes Mak: h.m.l.mak[at]tilburguniversity[dot]edu
+
+Donations are welcome from IGEL members who can afford to pay a bit more to support these travel bursaries. If you'd like to donate a sum as part of your registration or membership fee, you can write to the IGEL treasurer and request a receipt.
+
 ## Keynote Speakers
 
 {{< row >}}
@@ -40,11 +58,24 @@ The deadline for submission is ~~15 January 2024~~ **31 January 2024**.
 
 {{</ row >}}
 
+## Program
+
+Details of the full porgram will be ready later.
+
+On July 17, the day before the start of the IGEL 2024 conference in Aachen, the Empirical Study of Literature Training Network’s (ELIT) is holding their closing event, to some or all of which you are cordially invited, free of charge. The closing event involve:
+
+- A mentorship workshop (8:30 – 13:15): Anna Chesnokova (Borys Grinchenko Kyiv Metropolitan University), David Hanauer (Indiana University of Pennsylvania and University of Pittsburgh), Raymond Mar (York University), and Willie van Peer (Ludwig-Maximilians-University), four experienced and admired mentors, put their heads together and reflected on what they wish someone would have told or taught them when they launched into their respective careers. They will each share – and demonstrate – their teaching philosophies and strategies and engage participants in reflecting on theirs.
+- ELIT meeting with the Advisory Board (14:15-15:15): Reports from the work package leaders
+- Roundtable with external stakeholders (15:30-17:00): ELIT PhD students discuss plain the practical/social impact of their research.
+
+The conference dinner will take place in the revolving restaurant [Belvedere](https://belvedereaachen.de/gallery/). The cost is € 35.
+The Belvedere is about a 25-minute uphill walk from the conference venue. Please notify the organizers if you need assistance in the form of a shuttle service (we cannot guarantee this service but will inquire depending on expressions of interest).
+
 ## Venue
 
 Aachen is a fantastic little city of 250,000 inhabitants. Its history dates back 5000 years and involves having been a Roman spa town and later the seat of Charlemagne in the 8th century. The University and conference venue is a five-minute walk from Aachen's historic city centre with its famed cathedral, a UNESCO World Heritage site. (E-)bike trips of 15 minutes will take you into Belgium and the Netherlands, and a 3-hour train ride will get you to Paris. You can find more information [here](https://www.aachen-tourismus.de/en/).
 
-## How to reach Aachen
+### How to reach Aachen
 
 Aachen is easy to reach by train and airplane, with numerous international hub airports 1-3 hours away, such as Frankfurt (1.5 hrs), Düsseldorf (2 hrs), Brussels (2 hrs), Amsterdam & Paris (3 hrs), etc.
 
