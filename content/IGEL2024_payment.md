@@ -9,6 +9,8 @@ description: "Find the correct fee based on your membership status and academic 
 
 You can register for the IGEL 2024 conference using this form: https://forms.gle/QW9mH8aGxCQQv8L19 
 
+After completing the form, you can pay the registration fee following the instructions below.
+
 ## Summary of fees
 
 **The fees are based on your membership status and academic position**
