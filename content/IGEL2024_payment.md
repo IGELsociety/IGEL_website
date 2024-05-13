@@ -7,7 +7,7 @@ description: "Find the correct fee based on your membership status and academic 
 
 ## Conference registration
 
-You can register for the IGEL 2024 conference using this form: 
+You can register for the IGEL 2024 conference using this form: https://forms.gle/QW9mH8aGxCQQv8L19 
 
 ## Summary of fees
 
