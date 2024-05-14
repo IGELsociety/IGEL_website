@@ -18,6 +18,14 @@ After completing the form, you can pay the registration fee following the instru
 If you don't remember the status of your IGEL membership, check your email for a receipt from board[at]igelsociety[dot]org or email our treasurer h.m.l.mak[at]tilburguniversity[dot]edu
 Then choose one of the options below to be guided to the correct registration fee.
 
+| Type of fee                     | Until 15th June    |  After 15th June  | 
+| ------------------------------- | ------------------:| -----------------:| 
+| **Regular IGEL member**         |  € 150             |  € 180            | 
+| **Discounted IGEL member**      |  € 100             |  € 130            | 
+| **Non-member**                  |  € 230             |  € 260            | 
+
+### Early-bird fees
+
 **I am employed full-time + I am an IGEL member (or want to renew my membership)**
 
 - REGULAR: conference only (€ 150)

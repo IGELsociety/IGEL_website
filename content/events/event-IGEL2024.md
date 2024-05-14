@@ -62,7 +62,7 @@ Donations are welcome from IGEL members who can afford to pay a bit more to supp
 
 Details of the full porgram will be ready later.
 
-On July 17, the day before the start of the IGEL 2024 conference in Aachen, the Empirical Study of Literature Training Network’s (ELIT) is holding their closing event, to some or all of which you are cordially invited, free of charge. The closing event involve:
+On July 17, the day before the start of the IGEL 2024 conference in Aachen, the Empirical Study of Literature Training Network (ELIT) is holding their closing event. When registering for the conference, please indicate your interest in participating in this event. Participation is free of charge, but seats are limited and will be assigned in the order in which registrations are received. The closing event involves:
 
 - A mentorship workshop (8:30 – 13:15): Anna Chesnokova (Borys Grinchenko Kyiv Metropolitan University), David Hanauer (Indiana University of Pennsylvania and University of Pittsburgh), Raymond Mar (York University), and Willie van Peer (Ludwig-Maximilians-University), four experienced and admired mentors, put their heads together and reflected on what they wish someone would have told or taught them when they launched into their respective careers. They will each share – and demonstrate – their teaching philosophies and strategies and engage participants in reflecting on theirs.
 - ELIT meeting with the Advisory Board (14:15-15:15): Reports from the work package leaders
@@ -81,7 +81,7 @@ Aachen is easy to reach by train and airplane, with numerous international hub a
 
 ## Call for Papers
 
-All spoken presentations will be **pre-recorded videos** of approximately 20 minutes to be submitted by July 5th, 2024. During the conference sessions, presenters will give a 5-minute summary of their work and 15-20 minutes will be dedicated to Q&A. The *Concordance* platform will be used for hosting the program, videos, abstracts, posters and online discussions and networking. You can read more about it [here](https://igelsociety.org/concordance/).
+All spoken presentations will be **pre-recorded videos** of approximately 20 minutes to be submitted by July 5th, 2024. During the conference sessions, presenters will give a 5-minute summary of their work and 15-20 minutes will be dedicated to Q&A. The *Concordance* platform will be used for hosting the program, videos, abstracts, posters and online discussions and networking. All paper presentation sessions and keynote presentations will be open for online synchronous participation. You can read more about it [here](https://igelsociety.org/concordance/).
 
 Proposals for paper and poster presentations must contain a short introduction, a description of the methods as appropriate, and a brief conclusion.
 
@@ -140,7 +140,7 @@ IGEL will provide bursaries of maximum 400 euro for early career researchers wit
 -   Symposium proposals and abstracts submission deadline: ~~15 January 2024~~ 30 January 2024
 -   Acceptances will be sent out on: 30 March 2024
 -   Early-bird registration deadline: 30 May 2024
--   Registration deadline: 30 une 2024
+-   Registration deadline: 30 June 2024
 
 ## Organisation
 
