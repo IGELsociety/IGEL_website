@@ -18,11 +18,11 @@ The deadline for submission is ~~15 January 2024~~ **31 January 2024**.
 
 ## Registration
 
-Registration will open on the second week of May. 
+Registration is now open: https://igelsociety.org/igel2024_payment/. 
 
 **Early bird** rates are available until **15th June**.
 
-You can renew your IGEL membership now using the button at the top right of the page. If you prefer to pay membership and conference fee together, we will provide a link for that once registration opens.
+You can renew your IGEL membership now using the button at the top right of the page. If you prefer to pay membership and conference fee together, go to the [registration page](https://igelsociety.org/igel2024_payment/).
 
 | Type of fee                     | Until 15th June    |  After 15th June  | 
 | ------------------------------- | ------------------:| -----------------:| 
@@ -139,7 +139,7 @@ IGEL will provide bursaries of maximum 400 euro for early career researchers wit
 
 -   Symposium proposals and abstracts submission deadline: ~~15 January 2024~~ 30 January 2024
 -   Acceptances will be sent out on: 30 March 2024
--   Early-bird registration deadline: 30 May 2024
+-   Early-bird registration deadline: 15 June 2024
 -   Registration deadline: 30 June 2024
 
 ## Organisation

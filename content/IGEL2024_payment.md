@@ -24,7 +24,7 @@ Then choose one of the options below to be guided to the correct registration fe
 | **Discounted IGEL member**      |  € 100             |  € 130            | 
 | **Non-member**                  |  € 230             |  € 260            | 
 
-### Early-bird fees
+### Early-bird fees (valid until 15th June)
 
 **I am employed full-time + I am an IGEL member (or want to renew my membership)**
 
