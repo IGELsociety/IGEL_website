@@ -28,7 +28,9 @@ You can renew your IGEL membership now using the button at the top right of the 
 | ------------------------------- | ------------------:| -----------------:| 
 | **Regular IGEL member**         |  € 150             |  € 180            | 
 | **Discounted IGEL member**      |  € 100             |  € 130            | 
-| **Non-member**                  |  € 230             |  € 260            |  
+| **Non-member**                  |  € 230             |  € 260            |
+| **Online (IGEL member)**        | free               |  free             |  
+| **Online (non-member)**         |   € 30             |  € 50             |
 
 IGEL is an inclusive society, which means that **fees are lowered** for early career researchers and for scholars from economically-disadvantaged countries. If you are eligible and would like to request a lower registration fee, please write to the IGEL treasurer, Marloes Mak: h.m.l.mak[at]tilburguniversity[dot]edu
 
@@ -78,6 +80,10 @@ Aachen is a fantastic little city of 250,000 inhabitants. Its history dates back
 ### How to reach Aachen
 
 Aachen is easy to reach by train and airplane, with numerous international hub airports 1-3 hours away, such as Frankfurt (1.5 hrs), Düsseldorf (2 hrs), Brussels (2 hrs), Amsterdam & Paris (3 hrs), etc.
+
+### Accommodation
+
+Finding accommodation in Aachen in July can be challenging, so we have blocked hotel rooms in four different price categories. Please book early for the greatest range of options:   https://tportal.tomas.travel/aachenkongresse/messe/quicksearch/TUR00020110754996350?lang=en&reset=1
 
 ## Call for Papers
 
