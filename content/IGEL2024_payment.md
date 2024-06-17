@@ -26,31 +26,31 @@ Then choose one of the options below to be guided to the correct registration fe
 | **Online (IGEL member)**        | free               |  free             |  
 | **Online (non-member)**         |   € 30             |  € 50             |
 
-### Early-bird fees (valid until 15th June)
+### Registration fees (after 15th June)
 
 **I am employed full-time + I am an IGEL member (or want to renew my membership)**
 
-- REGULAR: conference only (€ 150)
-- REGULAR: conference + dinner (€ 185)
-- REGULAR: conference + 1 year membership (€ 220)
-- REGULAR: conference + 2 years membership (€ 270)
-- REGULAR: conference + 1 year membership + dinner (€ 255)
-- REGULAR: conference + 2 years membership + dinner (€ 305)
+- REGULAR: conference only (€ 180)
+- REGULAR: conference + dinner (€ 215)
+- REGULAR: conference + 1 year membership (€ 230)
+- REGULAR: conference + 2 years membership (€ 300)
+- REGULAR: conference + 1 year membership + dinner (€ 285)
+- REGULAR: conference + 2 years membership + dinner (€ 335)
 
 **I am a student, Phd, Postdoc, retiree, or I don't have a regular income + I am an IGEL member (or want to renew my membership)**
 
-- DISCOUNT: conference only (€ 100)
-- DISCOUNT: conference + dinner (€ 135)
-- DISCOUNT: conference + 1 year membership (€ 150)
-- DISCOUNT: conference + 2 years membership (€ 180)
-- DISCOUNT: conference + 1 year membership + dinner (€ 185)
-- DISCOUNT: conference + 2 years membership + dinner (€ 215)
+- DISCOUNT: conference only (€ 130)
+- DISCOUNT: conference + dinner (€ 165)
+- DISCOUNT: conference + 1 year membership (€ 180)
+- DISCOUNT: conference + 2 years membership (€ 210)
+- DISCOUNT: conference + 1 year membership + dinner (€ 215)
+- DISCOUNT: conference + 2 years membership + dinner (€ 245)
 
 **I'm not interested in becoming an IGEL member**
 
-- NON-MEMBER: conference only (€ 230)
-- NON-MEMBER: conference + dinner (€ 265)
-- NON-MEMBER: online attendance (€ 30)
+- NON-MEMBER: conference only (€ 260)
+- NON-MEMBER: conference + dinner (€ 295)
+- NON-MEMBER: online attendance (€ 50)
 
 {{< notice "note" >}}
 Donations are welcome from IGEL members who can afford to pay a bit more to support travel bursaries for early career researchers and for scholars from economically-disadvantaged countries. You can add a custom amount to your payment for the conference regsitration.
