@@ -17,7 +17,7 @@ IGEL is the publisher of the Diamond Open Access journal *Scientific Study of Li
 - Arthur Jacobs, Freie Universität Berlin - Associate Editor
 - Melanie C. Green, University of Buffalo - Associate Editor
 - Gerhard Lauer, Johannes Gutenberg-Universität Mainz - Associate Editor
-- Paul Sopcák, MacEwan University - Assistant Editor
+- Paul Sopcák, MacEwan University - Associate Editor
 - Federico Pianzola, University of Groningen - Managing Editor
 - Justin Nicholas, University of Wisconsin - Copy Editor
 

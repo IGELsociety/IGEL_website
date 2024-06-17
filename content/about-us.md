@@ -31,7 +31,7 @@ Moniek Kuijpers, University of Basel, Switzerland
 
 {{< speaker img="images/paul.jpg" >}}
 ##### Vice-President
-Paul Sopcak, RWTH Aachen University, Germany
+Paul Sopcak, MacEwan University, Canada
 {{</ speaker >}}
 
 {{< speaker img="images/shannon.jpg" >}}
