@@ -64,7 +64,7 @@ Donations are welcome from IGEL members who can afford to pay a bit more to supp
 
 Details of the full porgram will be ready later.
 
-On July 17, the day before the start of the IGEL 2024 conference in Aachen, the Empirical Study of Literature Training Network (ELIT) is holding their closing event. When registering for the conference, please indicate your interest in participating in this event. Participation is free of charge, but seats are limited and will be assigned in the order in which registrations are received. The closing event involves:
+On July 17, the day before the start of the IGEL 2024 conference in Aachen, the Empirical Study of Literature Training Network (ELIT) is holding their [closing event](https://www.elitnetwork.eu/2024/06/27/the-elit-final-event-is-finalized/). When registering for the conference, please indicate your interest in participating in this event. Participation is free of charge, but seats are limited and will be assigned in the order in which registrations are received. The closing event involves:
 
 - A mentorship workshop (8:30 – 13:15): Anna Chesnokova (Borys Grinchenko Kyiv Metropolitan University), David Hanauer (Indiana University of Pennsylvania and University of Pittsburgh), Raymond Mar (York University), and Willie van Peer (Ludwig-Maximilians-University), four experienced and admired mentors, put their heads together and reflected on what they wish someone would have told or taught them when they launched into their respective careers. They will each share – and demonstrate – their teaching philosophies and strategies and engage participants in reflecting on theirs.
 - ELIT meeting with the Advisory Board (14:15-15:15): Reports from the work package leaders
