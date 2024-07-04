@@ -33,11 +33,6 @@ The deadline for submission is **15 December 2024**.
 
 {{</ speaker >}}
 
-{{< speaker img="images/events-img/Mina-Tsay-Vogel.png" >}}
-
-##### [Mina Tsay](https://www.linkedin.com/in/minatv/ ) -- Meta, Inc.
-
-{{</ speaker >}}
 
 {{</ row >}}
 
