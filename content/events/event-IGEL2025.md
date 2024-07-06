@@ -1,6 +1,6 @@
 ---
 title: "IGEL conference"
-image: "images/events-img/Austin.png"
+image: "images/events-img/austin.jpg"
 description: "IGEL 2025 conference"
 location: "Austin, USA"
 year: "2025"
@@ -33,6 +33,11 @@ The deadline for submission is **15 December 2024**.
 
 {{</ speaker >}}
 
+{{< speaker img="images/events-img/Mina-Tsay-Vogel.png" >}}
+
+##### [Mina Tsay](https://www.linkedin.com/in/minatv/) -- Meta, Inc.
+
+{{</ speaker >}}
 
 {{</ row >}}
 
@@ -40,7 +45,7 @@ The deadline for submission is **15 December 2024**.
 
 Austin, Texas, is a welcoming and vibrant city, currently the 7th fastest growing metro area in the U.S. Known as the "Live Music Capital of the World," Austin has a rich history that blends Texan traditions with a contemporary, progressive culture. The city is home to the flagship campus of the University of Texas system, with the conference venue just a brief ride to the State Capital grounds and a short walk to an eclectic mix of restaurants, shops, and entertainment. Outdoor enthusiasts will enjoy the nearby Lady Bird Lake and the expansive Zilker Park, including the 3-acre Barton Springs Pool (12,000 square meters), where an underground spring keeps groovy Austinites cool and chill. Austin’s central location also allows for easy day trips to other major Texas cities like San Antonio and Dallas. For more information, please visit this [link](https://www.austintexas.org/) or [Soon’s Austin Checklist](https://docs.google.com/document/d/1uj9ZT9oeOuNUAqD6tAOzYkgkl5aprw2Z33KF0qmron0/edit). 
 
-### How to reach Aachen
+### How to reach Austin
 
 Austin is accessible by air through the **Austin-Bergstrom International Airport**, which is located just southeast of the city center. The airport provides a wide range of domestic and international flights, connecting Austin directly with major cities across the United States and global destinations. For travelers arriving by air, the airport offers numerous services and transportation options, including taxis, rideshares (e.g., Uber and Lyft), and a public transit system to efficiently reach downtown Austin and surrounding areas. By car, the airport is about 30 minutes away from the city center.
 
