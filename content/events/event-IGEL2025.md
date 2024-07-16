@@ -52,7 +52,7 @@ Austin is accessible by air through the **Austin-Bergstrom International Airport
 ## Call for Papers
 
 The call for papers will be available for download in August 2024. 
-All spoken presentations will be **pre-recorded videos** of 15-20 minutes to be submitted two weeks before the conference. During the conference sessions, presenters will give a 5-minute summary of their work and 15-20 minutes will be dedicated to Q&A. The *Concordance* platform will be used for hosting the program, videos, abstracts, posters and online discussions and networking. You can read more about it [here](https://igelsociety.org/concordance/).
+All spoken presentations will be **pre-recorded videos** of 15-20 minutes to be submitted one month before the conference. During the conference sessions, presenters will give a 5-minute summary of their work and 15-20 minutes will be dedicated to Q&A. The *Concordance* platform will be used for hosting the program, videos, abstracts, posters and online discussions and networking. You can read more about it [here](https://igelsociety.org/concordance/).
 Proposals for paper and poster presentations must contain a short introduction, a description of the methods as appropriate, and a brief conclusion.
 
 ### Paper and Poster Submission Requirements
@@ -140,7 +140,7 @@ The 2025 IGEL conference is organized by the following IGEL-associated scholars
 -  Guan Soon Khoo, Ph.D., Associate Professor of Instruction at the University of Texas at Austin, School of Advertising and Public Relations in the Moody College of Communication
 -  Tine Riis Andersen, PhD candidate University of Stavanger, Norway, and Trnava University, Slovakia.
 -  Cristina Loi, Postdoctoral researcher at the University of Basel, Switzerland.
-Giulia Scapin, PhD candidate VU Amsterdam, The Netherlands, and University of Haifa, Israel.
+- Giulia Scapin, PhD candidate VU Amsterdam, The Netherlands, and University of Haifa, Israel.
 
 
 ## Contact
