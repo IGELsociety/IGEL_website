@@ -68,7 +68,7 @@ Austin is accessible by air through the **Austin-Bergstrom International Airport
 
 ## Call for Papers
 
-The call for papers is available under this [link](https://drive.google.com/file/d/1_zRLYPFMpPpqKmIj7-QRA9HviG5uhgy4/view?usp=sharing). 
+The call for papers is available under this [link](https://drive.google.com/file/d/17_hxgi5i1M35Ctp8RZJBcyts7UfG9znU/view?usp=drive_link). 
 All spoken presentations will be **pre-recorded videos** of 15-20 minutes to be submitted one month before the conference. During the conference sessions, presenters will give a 5-minute summary of their work and 15-20 minutes will be dedicated to Q&A. The *Concordance* platform will be used for hosting the program, videos, abstracts, posters and online discussions and networking. You can read more about it [here](https://igelsociety.org/concordance/).
 Proposals for paper and poster presentations must contain a short introduction, a description of the methods as appropriate, and a brief conclusion.
 
