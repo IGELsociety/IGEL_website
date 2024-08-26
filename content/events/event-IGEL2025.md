@@ -5,8 +5,8 @@ description: "IGEL 2025 conference"
 location: "Austin, USA"
 year: "2025"
 month: ""
-duration: "June - first week"
-fee: "TBD"
+duration: "5-7 June 2025"
+fee: "145-300$"
 type: "upcoming" #[upcoming/past]
 readmore: true
 weight: 1
@@ -15,7 +15,11 @@ weight: 1
 
 At the beginning of June 2025, the International Society for the Empirical Study of Literature (IGEL) will hold its 21th international conference in Austin, Texas (USA). The broad theme of the conference will be “Creativity, Story Experience, and Reflection”. Submissions related to this theme will be given priority, but proposals from all areas of the empirical study of literature and media are welcome.
 
-The deadline for submission is **15 December 2024**.
+The deadline for submission is **1 December 2024**.
+
+## Registration 
+Registration fees depend on the number of attendees and this will be announced after the deadline for submissions. The estimate cost ranges from 145 to 300 $. 
+Reduced rates for attendees who participate online will also be announced. 
 
 ## Keynote Speakers
 
@@ -43,7 +47,20 @@ The deadline for submission is **15 December 2024**.
 
 ## Venue
 
-Austin, Texas, is a welcoming and vibrant city, currently the 7th fastest growing metro area in the U.S. Known as the "Live Music Capital of the World," Austin has a rich history that blends Texan traditions with a contemporary, progressive culture. The city is home to the flagship campus of the University of Texas system, with the conference venue just a brief ride to the State Capital grounds and a short walk to an eclectic mix of restaurants, shops, and entertainment. Outdoor enthusiasts will enjoy the nearby Lady Bird Lake and the expansive Zilker Park, including the 3-acre Barton Springs Pool (12,000 square meters), where an underground spring keeps groovy Austinites cool and chill. Austin’s central location also allows for easy day trips to other major Texas cities like San Antonio and Dallas. For more information, please visit this [link](https://www.austintexas.org/) or [Soon’s Austin Checklist](https://docs.google.com/document/d/1uj9ZT9oeOuNUAqD6tAOzYkgkl5aprw2Z33KF0qmron0/edit). 
+Austin, Texas, is a welcoming and vibrant city, currently the 7th fastest growing metro area in the U.S.
+Known as the “Live Music Capital of the World,” Austin has a rich history that blends Texan traditions
+with a contemporary, progressive culture.
+
+The conference will take place at Huston-Tillotson University in Central East Austin, a 15-minute drive
+from the Austin-Bergstrom International airport and a 5-minute drive to downtown Austin,
+depending on traffic.
+Huston-Tillotson University is the first university to be founded in Austin, Texas, and a historically
+Black college (HBCU). It is located within a 5-minute walk of a vibrant part of East Austin with
+restaurants, breweries, food trucks, live music venues, and hotels. You can check out the location
+here. Outdoor enthusiasts will enjoy the nearby Lady Bird Lake and the expansive Zilker Park,
+including the 3-acre Barton Springs Pool (12,000 square meters), where an underground spring keeps
+groovy Austinites cool and chill. Austin’s central location also allows for easy day trips to other major
+Texas cities like San Antonio and Dallas. For more information, please visit this [link](https://www.austintexas.org/) or [Soon’s Austin Checklist](https://docs.google.com/document/d/1uj9ZT9oeOuNUAqD6tAOzYkgkl5aprw2Z33KF0qmron0/edit). 
 
 ### How to reach Austin
 
@@ -51,7 +68,7 @@ Austin is accessible by air through the **Austin-Bergstrom International Airport
 
 ## Call for Papers
 
-The call for papers will be available for download in August 2024. 
+The call for papers is available under this [link](https://drive.google.com/file/d/1_zRLYPFMpPpqKmIj7-QRA9HviG5uhgy4/view?usp=sharing). 
 All spoken presentations will be **pre-recorded videos** of 15-20 minutes to be submitted one month before the conference. During the conference sessions, presenters will give a 5-minute summary of their work and 15-20 minutes will be dedicated to Q&A. The *Concordance* platform will be used for hosting the program, videos, abstracts, posters and online discussions and networking. You can read more about it [here](https://igelsociety.org/concordance/).
 Proposals for paper and poster presentations must contain a short introduction, a description of the methods as appropriate, and a brief conclusion.
 
@@ -124,11 +141,11 @@ IGEL will continue its tradition of recognizing outstanding student presentation
 
 ### Bursaries
 
-IGEL will provide bursaries of maximum 400 euro for early career researchers with no travel funds. There is a limited number of bursaries available. If you want to know whether you are eligible, please contact Marloes Mak (email: board@igelsociety.org). If you are eligible and would like to request a bursary, please write to Marloes Mak (email: board@igelsociety.org) before15 March. Decisions about the bursaries will be communicated on 15 April.
+IGEL will provide bursaries of maximum 400 euro for early career researchers with no travel funds. There is a limited number of bursaries available. If you want to know whether you are eligible, please contact Marloes Mak (email: board@igelsociety.org). If you are eligible and would like to request a bursary, please write to Marloes Mak before 15 March. Decisions about the bursaries will be communicated on 15 April.
 
 ## Important Dates
 
--   Symposium proposals and abstracts submission deadline: 15 December 2024
+-   Symposium proposals and abstracts submission deadline: 1 December 2024
 -   Acceptances will be sent out on: 15 February 2025
 -   Early-bird registration deadline: 15 April 2025
 -   Registration deadline: 15 May 2025
