@@ -124,7 +124,7 @@ Prospective conference attendees are asked to select one or more themes that mat
 
 ### Submission form
 
-Please send all submissions via <a href="https://igelsociety.org/concordance/](https://forms.gle/Y4473YSRSfxQwwkq9" target="_blank">this link</a>. Acceptance decisions will be communicated to the authors by 15 February 2025.
+Please send all submissions via <a href="https://forms.gle/Y4473YSRSfxQwwkq9" target="_blank">this link</a>. Acceptance decisions will be communicated to the authors by 15 February 2025.
 
 ### Acceptance Policies
 
