@@ -60,7 +60,7 @@ restaurants, breweries, food trucks, live music venues, and hotels. You can chec
 here. Outdoor enthusiasts will enjoy the nearby Lady Bird Lake and the expansive Zilker Park,
 including the 3-acre Barton Springs Pool (12,000 square meters), where an underground spring keeps
 groovy Austinites cool and chill. Austin’s central location also allows for easy day trips to other major
-Texas cities like San Antonio and Dallas. For more information, please visit this [link](https://www.austintexas.org/) or [Soon’s Austin Checklist](https://docs.google.com/document/d/1uj9ZT9oeOuNUAqD6tAOzYkgkl5aprw2Z33KF0qmron0/edit). 
+Texas cities like San Antonio and Dallas. For more information, please visit this <a href="https://www.austintexas.org/" target="_blank">link</a> or <a href="https://docs.google.com/document/d/1uj9ZT9oeOuNUAqD6tAOzYkgkl5aprw2Z33KF0qmron0/edit" target="_blank">Soon’s Austin Checklist</a>.
 
 ### How to reach Austin
 
@@ -69,7 +69,7 @@ Austin is accessible by air through the **Austin-Bergstrom International Airport
 ## Call for Papers
 
 The call for papers is available under this <a href="https://drive.google.com/file/d/17_hxgi5i1M35Ctp8RZJBcyts7UfG9znU/view?usp=drive_link" target="_blank">link</a>. 
-All spoken presentations will be **pre-recorded videos** of 15-20 minutes to be submitted one month before the conference. During the conference sessions, presenters will give a 5-minute summary of their work and 15-20 minutes will be dedicated to Q&A. The *Concordance* platform will be used for hosting the program, videos, abstracts, posters and online discussions and networking. You can read more about it [here](https://igelsociety.org/concordance/).
+All spoken presentations will be **pre-recorded videos** of 15-20 minutes to be submitted one month before the conference. During the conference sessions, presenters will give a 5-minute summary of their work and 15-20 minutes will be dedicated to Q&A. The *Concordance* platform will be used for hosting the program, videos, abstracts, posters and online discussions and networking. You can read more about it <a href="https://igelsociety.org/concordance/" target="_blank">here</a>. 
 Proposals for paper and poster presentations must contain a short introduction, a description of the methods as appropriate, and a brief conclusion.
 
 ### Paper and Poster Submission Requirements
@@ -124,7 +124,7 @@ Prospective conference attendees are asked to select one or more themes that mat
 
 ### Submission form
 
-Please send all submissions via [this link](https://forms.gle/Y4473YSRSfxQwwkq9). Acceptance decisions will be communicated to the authors by 15 February 2025.
+Please send all submissions via <a href="https://igelsociety.org/concordance/](https://forms.gle/Y4473YSRSfxQwwkq9" target="_blank">this link</a>. Acceptance decisions will be communicated to the authors by 15 February 2025.
 
 ### Acceptance Policies
 
