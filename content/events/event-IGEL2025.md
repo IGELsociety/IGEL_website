@@ -141,7 +141,20 @@ IGEL will continue its tradition of recognizing outstanding student presentation
 
 ### Bursaries
 
-IGEL will provide bursaries of maximum 400 euro for early career researchers with no travel funds. There is a limited number of bursaries available. If you want to know whether you are eligible, please contact Marloes Mak (email: board@igelsociety.org). If you are eligible and would like to request a bursary, please write to Marloes Mak before 15 March. Decisions about the bursaries will be communicated on 15 April.
+IGEL will provide bursaries for early career researchers with no travel funds. The amounts and requirements are listed below:
+-   Amounts: max €200 for continental applications / €400 for intercontinental applications, plus:
+o	Waived conference fee
+o	Waived conference dinner fee
+o	Waived 1 year IGEL membership fee
+-   Requirements: 
+o	Paper or poster accepted for presentation
+o	CV (including current position and affiliation)
+o	300 words introduction letter, stating your position (MA student, PhD student or post doc), your country of residence, your motivation for visiting the conference in person and whether or not you were able to secure any other financial support.
+
+There are 3 bursaries available for IGEL 2025, 2 for in-person attendance and 1 for online attendance. The bursary for online attendance covers only the registration fee and the 1 year IGEL membership.
+
+If you are eligible and would like to request a bursary, please write to Marloes Mak within this timeframe: 15 February 2024 – 15 March 2024. Decisions about the bursaries will be communicated by 15 April.                                   
+Additionally, if you can’t receive a bursary, it is possible to work at the conference in exchange for waived conference registration fees. Contact us for more information. 
 
 ## Important Dates
 
