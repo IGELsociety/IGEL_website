@@ -143,13 +143,14 @@ IGEL will continue its tradition of recognizing outstanding student presentation
 
 IGEL will provide bursaries for early career researchers with no travel funds. The amounts and requirements are listed below:
 -   Amounts: max €200 for continental applications / €400 for intercontinental applications, plus:
-o	Waived conference fee
-o	Waived conference dinner fee
-o	Waived 1 year IGEL membership fee
+  - Waived conference fee
+  - Waived conference dinner fee
+  - Waived 1 year IGEL membership fee
+    
 -   Requirements: 
-o	Paper or poster accepted for presentation
-o	CV (including current position and affiliation)
-o	300 words introduction letter, stating your position (MA student, PhD student or post doc), your country of residence, your motivation for visiting the conference in person and whether or not you were able to secure any other financial support.
+  -	Paper or poster accepted for presentation
+  -	CV (including current position and affiliation)
+  -	300 words introduction letter, stating your position (MA student, PhD student or post doc), your country of residence, your motivation for visiting the conference in person and whether or not you were able to secure any other financial support.
 
 There are 3 bursaries available for IGEL 2025, 2 for in-person attendance and 1 for online attendance. The bursary for online attendance covers only the registration fee and the 1 year IGEL membership.
 
