@@ -156,7 +156,7 @@ IGEL will provide bursaries for early career researchers with no travel funds. T
 
 There are **3 bursaries** available for IGEL 2025, 2 for in-person attendance and 1 for online attendance. The bursary for online attendance covers only the registration fee and the 1 year IGEL membership.
 
-If you are eligible and would like to request a bursary, please write to Marloes Mak within this timeframe: 15 February 2024 – 15 March 2024. Decisions about the bursaries will be communicated by 15 April.                                   
+If you are eligible and would like to request a bursary, please write to Marloes Mak within this timeframe: 15 February 2025 – 15 March 2025. Decisions about the bursaries will be communicated by 15 April.                                   
 Additionally, if you can’t receive a bursary, it is possible to work at the conference in exchange for waived conference registration fees. Contact us for more information. 
 
 ## Important Dates
