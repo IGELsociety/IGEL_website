@@ -67,6 +67,13 @@ Assistant Professor, Department of Media and Culture Studies, Utrecht University
 Frank has a background in literary theory and comparative literature. His research focuses on the effects of reading literary texts on outgroup attitudes and moral self-concept (e.g., The moral laboratory, 2000). He supervises two national research projects in the Netherlands: one pertaining to the experience of being absorbed in fictional worlds (Narrative Absorption, 2017), and the other on how such experiences affect social perception and self concepts (see www.finditinfiction.org). Currently he is investigating how literary reading gives readers a sense of meaningfulness in studies of text qualities (e.g., foregrounding), how readers are instructed to read, reading medium (screen versus paper), and how these interact to generate deeply absorbed, eudaemonic experiences.
 {{</ card >}}
 
+{{< card "images/members/Carmen.png" >}}
+#### Carmen Bonasera
+Postdoctoral Researcher, University of Turin, Italy
+
+Carmen holds a PhD in Literary theory and Comparative literature (University of Pisa, Italy, 2020). She has published extensively on the theory of the lyric and on the relationship between poetry and life writing in modern female authors. Her current research interests revolve around the psychological and literary dynamics of narrative empathy for unreliable and morally ambivalent characters, focusing especially on the textual features that prompt readerly empathy (e.g., foregrounding, literary atmospheres, and ambience), which she is studying with theoretical, stylistic, and empirical approaches.
+{{</ card >}}
+
 
 <h4>Publications</h4>
 
@@ -74,6 +81,8 @@ Frank has a background in literary theory and comparative literature. His resear
 * Sopčák, P. (2011). A numerically aided phenomenological study of existential reading. In F. Hakemulder (Ed.), *De Stralende Lezer: Wetenschappelijk Onderzoek Naar De Invloed Van Het Lezen* (pp. 123-152). Den Haag: Stichting Lezen.
 * Wallot, S., & Menninghaus, W. (2018). Ambiguity effects of rhyme and meter. *Journal of Experimental Psychology: Learning, Memory, and Cognition*. Advance online publication. http://dx.doi.org/10.1037/xlm0000557
 * Hideyuki, H. & Menninghaus, W. (2018). The eye tracks the aesthetic appeal of sentences. *Journal of Vision*, 18(3), 19. https://doi.org/10.1167/18.3.19
+* Bonasera, C. (2023). Exploring the potential of Sentiment Analysis for the study of negative empathy. Journal of Literary Semantics 52(2): 163-189. https://doi.org/10.1515/jls-2023-2011
+* Bonasera, C. (2022). Estrangement, Performativity, and Empathy in Bo Burnham’s Inside (2021). Between XII(23): 93-116. https://doi.org/10.13125/2039-6597/4982
 * Castiglione, D. (2018), *Difficulty in Poetry: a Stylistic and Processing Model*. Palgrave Macmillan, London.
 * Castiglione, D. (2017). Difficult poetry processing: Reading times and the narrativity hypothesis. *Language and Literature*, 26(2), 99-121. https://doi.org/0963947017704726
 * Wassiliwizky, E., Koelsch, S., Wagner, V., Jacobsen, T., & Menninghaus, W. (2017). The emotional power of poetry: Neural circuitry, psychophysiology and compositional principles. *Social Cognitive and Affective Neuroscience*, 12(8), 1229-1240. https://doi.org/10.1093/scan/nsx069
