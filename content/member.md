@@ -38,8 +38,8 @@ Please choose one of these two forms of payment:
 **Option #1: Money transfer to the IGEL bank account:**
 
 ```
-Account holder: International Society for the Empirical Study of Literature
-IBAN: NL53 TRIO 0390 9278 05
+Account holder: Stichting International Society of the Empirical Study of Literature
+IBAN: NL24 ABNA 0136 1470 97
 BIC/SWIFT: TRIONL2U
 ```
 
