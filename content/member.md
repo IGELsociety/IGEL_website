@@ -40,7 +40,7 @@ Please choose one of these two forms of payment:
 ```
 Account holder: Stichting International Society of the Empirical Study of Literature
 IBAN: NL24 ABNA 0136 1470 97
-BIC/SWIFT: TRIONL2U
+BIC/SWIFT: ABNANL2A
 ```
 
 **Option #2: Credit card and other direct payment methods (Apple Pay, Google Pay, giropay, iDEAL and SEPA debit)**
