@@ -15,7 +15,7 @@ weight: 1
 
 At the beginning of June 2025, the International Society for the Empirical Study of Literature (IGEL) will hold its 21th international conference in Austin, Texas (USA). The broad theme of the conference will be “Creativity, Story Experience, and Reflection”. Submissions related to this theme will be given priority, but proposals from all areas of the empirical study of literature and media are welcome.
 
-The deadline for submission is **1 December 2024**.
+The deadline for submission is ~~1 December 2024~~ **15 December 2024**.
 
 ## Registration 
 Registration fees depend on the number of attendees and this will be announced after the deadline for submissions. The estimate cost ranges from 145 to 300 $. 
@@ -68,7 +68,7 @@ Austin is accessible by air through the **Austin-Bergstrom International Airport
 
 ## Call for Papers
 
-The call for papers is available under this <a href="https://drive.google.com/file/d/17_hxgi5i1M35Ctp8RZJBcyts7UfG9znU/view?usp=drive_link" target="_blank">link</a>. 
+The call for papers is available under this <a href="https://drive.google.com/file/d/1sQAqxjhXpc4clXeAIjsKcM2bOCD7gIfX/view?usp=sharing" target="_blank">link</a>. 
 All spoken presentations will be **pre-recorded videos** of 15-20 minutes to be submitted one month before the conference. During the conference sessions, presenters will give a 5-minute summary of their work and 15-20 minutes will be dedicated to Q&A. The *Concordance* platform will be used for hosting the program, videos, abstracts, posters and online discussions and networking. You can read more about it <a href="https://igelsociety.org/concordance/" target="_blank">here</a>. 
 Proposals for paper and poster presentations must contain a short introduction, a description of the methods as appropriate, and a brief conclusion.
 
@@ -162,7 +162,7 @@ Additionally, if you can’t receive a bursary, it is possible to work at the co
 ## Important Dates
 
 -   Symposium proposals and abstracts submission deadline: 1 December 2024
--   Acceptances will be sent out on: 15 February 2025
+-   Acceptances will be sent out on: 28 February 2025
 -   Early-bird registration deadline: 15 April 2025
 -   Registration deadline: 15 May 2025
 
