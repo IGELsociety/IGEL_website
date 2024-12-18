@@ -15,7 +15,9 @@ weight: 1
 
 At the beginning of June 2025, the International Society for the Empirical Study of Literature (IGEL) will hold its 21th international conference in Austin, Texas (USA). The broad theme of the conference will be “Creativity, Story Experience, and Reflection”. Submissions related to this theme will be given priority, but proposals from all areas of the empirical study of literature and media are welcome.
 
-The deadline for submission is ~~1 December 2024~~ **15 December 2024**.
+The deadline for submission of paper presentations is **15 December 2024** (to enquire about the possibility of late submissions, please contact us at: igelaustin25@gmail.com). 
+
+The deadline for poster presentations is **15 January 2025**. 
 
 ## Registration 
 Registration fees depend on the number of attendees and this will be announced after the deadline for submissions. The estimate cost ranges from 145 to 300 $. 
@@ -161,7 +163,8 @@ Additionally, if you can’t receive a bursary, it is possible to work at the co
 
 ## Important Dates
 
--   Symposium proposals and abstracts submission deadline: ~~1 December 2024~~ 15 December 2024
+-   Symposium proposals and abstracts submission deadline:  15 December 2024
+-   Poster proposals deadline: **15 January 2025**
 -   Acceptances will be sent out on: 28 February 2025
 -   Early-bird registration deadline: 15 April 2025
 -   Registration deadline: 15 May 2025
