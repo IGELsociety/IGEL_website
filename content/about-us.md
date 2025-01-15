@@ -54,7 +54,7 @@ Rocío Riestra Camacho, University of Oviedo, Spain
 Jan Auracher, National University of Singapore
 {{</ speaker >}}
 
-{{< speaker img="images/CristinaLoi.jpg" >}}
+{{< speaker img="images/cristina.jpg" >}}
 ##### Online Presence coordinator
 Cristina Loi, University of Basel, Switzerland
 {{</ speaker >}}
