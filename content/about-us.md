@@ -29,7 +29,7 @@ The IGEL society is governed by a board of members from our community.
 Federico Pianzola, University of Groningen, Netherlands
 {{</ speaker >}}
 
-{{< speaker img="" >}}
+{{< speaker img="images/guansoonkhoo.jpg" >}}
 ##### Vice-President
 Guan Soon Khoo, University of Texas at Austin, USA
 {{</ speaker >}}
@@ -47,11 +47,6 @@ Marloes Mak, Radboud University Nijmegen, The Netherlands
 {{< speaker img="images/rocio.jpg" >}}
 ##### Training School coordinator
 Rocío Riestra Camacho, University of Oviedo, Spain
-{{</ speaker >}}
-
-{{< speaker img="images/jan.jpg" >}}
-##### Member at large
-Jan Auracher, National University of Singapore
 {{</ speaker >}}
 
 {{< speaker img="images/cristina.jpg" >}}
