@@ -24,6 +24,7 @@ Registration fees depend on the number of attendees and this will be announced a
 Reduced rates for attendees who participate online will also be announced. 
 
 ## Keynote Speakers
+The talks by keynote speakers are sponsored by De Gruyter. 
 
 {{< row >}}
 
@@ -39,11 +40,6 @@ Reduced rates for attendees who participate online will also be announced.
 
 {{</ speaker >}}
 
-{{< speaker img="images/events-img/Mina-Tsay-Vogel.png" >}}
-
-##### [Mina Tsay](https://www.linkedin.com/in/minatv/) -- Meta, Inc.
-
-{{</ speaker >}}
 
 {{</ row >}}
 
