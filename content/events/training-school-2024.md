@@ -7,7 +7,7 @@ year: "2024"
 month: "22-23 July"
 duration: ""
 fee: "free"
-type: "upcoming" ##[upcoming/past-training]
+type: "past-conference" ##[upcoming/past-training]
 readmore: true
 weight: 2
 editor_options: 
