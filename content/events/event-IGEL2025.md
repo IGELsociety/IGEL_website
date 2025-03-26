@@ -4,8 +4,8 @@ image: "images/events-img/austin.jpg"
 description: "IGEL 2025 conference"
 location: "Austin, USA"
 year: "2025"
-month: ""
-duration: "5-6 June 2025"
+month: "June"
+duration: "5th-6th"
 fee: "30-340€"
 type: "upcoming" #[upcoming/past]
 readmore: true
