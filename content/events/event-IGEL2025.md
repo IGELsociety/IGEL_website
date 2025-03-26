@@ -13,7 +13,7 @@ weight: 1
 ---
 
 
-At the beginning of June 2025, the International Society for the Empirical Study of Literature (IGEL) will hold its 21th international conference in Austin, Texas (USA). The broad theme of the conference will be “Creativity, Story Experience, and Reflection”. Submissions related to this theme will be given priority, but proposals from all areas of the empirical study of literature and media are welcome.
+At the beginning of June 2025, the International Society for the Empirical Study of Literature (IGEL) will hold its 21st international conference in Austin, Texas (USA). The broad theme of the conference will be “Creativity, Story Experience, and Reflection”. Submissions related to this theme will be given priority, but proposals from all areas of the empirical study of literature and media are welcome.
 
 The deadline for submission of paper presentations is **15 December 2024** (to enquire about the possibility of late submissions, please contact us at: igelaustin25@gmail.com). 
 
@@ -87,7 +87,7 @@ Texas cities like San Antonio and Dallas. For more information, please visit thi
 
 Austin is accessible by air through the **Austin-Bergstrom International Airport**, which is located just southeast of the city center. The airport provides a wide range of domestic and international flights, connecting Austin directly with major cities across the United States and global destinations. For travelers arriving by air, the airport offers numerous services and transportation options, including taxis, rideshares (e.g., Uber and Lyft), and a public transit system to efficiently reach downtown Austin and surrounding areas. By car, the airport is about 30 minutes away from the city center.
 
-### Accomodation
+### Accommodation
 
 Please book your stay in advance, as Austin can get quite busy. 
 The link below presents 3 hotel options that the organizers selected for your convenience. 
