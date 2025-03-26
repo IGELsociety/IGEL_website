@@ -5,8 +5,8 @@ description: "IGEL 2025 conference"
 location: "Austin, USA"
 year: "2025"
 month: ""
-duration: "5-7 June 2025"
-fee: "145-300$"
+duration: "5-6 June 2025"
+fee: "29-340€"
 type: "upcoming" #[upcoming/past]
 readmore: true
 weight: 1
@@ -19,9 +19,25 @@ The deadline for submission of paper presentations is **15 December 2024** (to e
 
 The deadline for poster presentations is **15 January 2025**. 
 
-## Registration 
-Registration fees depend on the number of attendees and this will be announced after the deadline for submissions. The estimate cost ranges from 145 to 300 $. 
-Reduced rates for attendees who participate online will also be announced. 
+## Registration
+
+Registration is now open: https://igelsociety.org/events/igel2025_payment/. 
+
+**Early bird** rates are available until **20th April**.
+
+You can renew your IGEL membership now using the button at the top right of the page. If you prefer to pay membership and conference fee together, go to the [registration page](https://igelsociety.org/events/igel2025_payment/).
+
+| Type of fee                     | Until 20th April   |  After 20th April | 
+| ------------------------------- | ------------------:| -----------------:| 
+| **Regular IGEL member**         |  € 265 ($275)      |  € 312 ($325)     | 
+| **Discounted IGEL member**      |  € 120 ($125)      |  € 168 ($175)     | 
+| **Non-member**                  |  € 340 ($355)      |  € 390 ($405)     |
+| **Online (IGEL member)**        | free               |  free             |  
+| **Online (non-member)**         |  € 29  ($30)       |  € 48  ($50)      |
+
+IGEL is an inclusive society, which means that **fees are lowered** for early career researchers and for scholars from economically-disadvantaged countries. If you are eligible and would like to request a lower registration fee, please write to the IGEL treasurer, Marloes Mak: h.m.l.mak[at]tilburguniversity[dot]edu
+
+Donations are welcome from IGEL members who can afford to pay a bit more to support these travel bursaries. If you'd like to donate a sum as part of your registration or membership fee, you can write to the IGEL treasurer and request a receipt.
 
 ## Keynote Speakers
 The talks by keynote speakers are sponsored by De Gruyter. 
@@ -43,19 +59,26 @@ The talks by keynote speakers are sponsored by De Gruyter.
 
 {{</ row >}}
 
+
+## Program
+
+Details of the full program will be ready later.
+
+The IGEL 2025 conference will take place over 2 full days, on June 5th and June 6th.
+
+- On June 4th, the day before the start of the IGEL 2024 conference in Austin, there will be a welcome session for registration and "meet and great" with the local organizers. 
+- June 5th: parallel sessions from 8.00 am to 5 pm. Conference dinner in the evening.
+- June 6th: parallel sessions and closing remarks from 8.00 am to 5 pm. 
+
 ## Venue
+
+The conference venue will be announced shortly and it is located in the University district. 
 
 Austin, Texas, is a welcoming and vibrant city, currently the 7th fastest growing metro area in the U.S.
 Known as the “Live Music Capital of the World,” Austin has a rich history that blends Texan traditions
 with a contemporary, progressive culture.
 
-The conference will take place at Huston-Tillotson University in Central East Austin, a 15-minute drive
-from the Austin-Bergstrom International airport and a 5-minute drive to downtown Austin,
-depending on traffic.
-Huston-Tillotson University is the first university to be founded in Austin, Texas, and a historically
-Black college (HBCU). It is located within a 5-minute walk of a vibrant part of East Austin with
-restaurants, breweries, food trucks, live music venues, and hotels. You can check out the location
-here. Outdoor enthusiasts will enjoy the nearby Lady Bird Lake and the expansive Zilker Park,
+Outdoor enthusiasts will enjoy the nearby Lady Bird Lake and the expansive Zilker Park,
 including the 3-acre Barton Springs Pool (12,000 square meters), where an underground spring keeps
 groovy Austinites cool and chill. Austin’s central location also allows for easy day trips to other major
 Texas cities like San Antonio and Dallas. For more information, please visit this <a href="https://www.austintexas.org/" target="_blank">link</a> or <a href="https://docs.google.com/document/d/1uj9ZT9oeOuNUAqD6tAOzYkgkl5aprw2Z33KF0qmron0/edit" target="_blank">Soon’s Austin Checklist</a>.
