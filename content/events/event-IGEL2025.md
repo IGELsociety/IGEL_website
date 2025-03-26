@@ -6,7 +6,7 @@ location: "Austin, USA"
 year: "2025"
 month: ""
 duration: "5-6 June 2025"
-fee: "29-340€"
+fee: "30-340€"
 type: "upcoming" #[upcoming/past]
 readmore: true
 weight: 1
