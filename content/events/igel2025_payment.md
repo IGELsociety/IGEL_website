@@ -24,7 +24,7 @@ Then choose one of the options below to be guided to the correct registration fe
 | **Discounted IGEL member**      |  € 120 ($125)      |  € 168 ($175)     | 
 | **Non-member**                  |  € 340 ($355)      |  € 390 ($405)     |
 | **Online (IGEL member)**        | free               |  free             |  
-| **Online (non-member)**         |  € 29  ($30)       |  € 48  ($50)      |
+| **Online (non-member)**         |  € 30              |  € 50             |
 
 ### Registration fees (before 20th April)
 
@@ -50,7 +50,7 @@ Then choose one of the options below to be guided to the correct registration fe
 
 - NON-MEMBER: conference only (€ 340)
 - NON-MEMBER: conference + dinner (€ 400)
-- NON-MEMBER: online attendance (€ 50)
+- NON-MEMBER: online attendance (€ 30)
 
 {{< notice "note" >}}
 Donations are welcome from IGEL members who can afford to pay a bit more to support travel bursaries for early career researchers and for scholars from economically-disadvantaged countries. You can add a custom amount to your payment for the conference regsitration.
