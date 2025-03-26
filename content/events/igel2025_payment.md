@@ -7,7 +7,7 @@ description: "Find the correct fee based on your membership status and academic 
 
 ## Conference registration
 
-You can register for the IGEL 2025 conference using this form: 
+You can register for the IGEL 2025 conference using this form: https://forms.gle/9aydd2xnQug9g2w68  
 
 After completing the form, you can pay the registration fee following the instructions below.
 
@@ -20,36 +20,36 @@ Then choose one of the options below to be guided to the correct registration fe
 
 | Type of fee                     | Until 20th April   |  After 20th April | 
 | ------------------------------- | ------------------:| -----------------:| 
-| **Regular IGEL member**         |  $ 275             |  $ 325            | 
-| **Discounted IGEL member**      |  $ 125             |  $ 175            | 
-| **Non-member**                  |  $ 355             |  $ 405            |
+| **Regular IGEL member**         |  € 265 ($275)      |  € 312 ($325)     | 
+| **Discounted IGEL member**      |  € 120 ($125)      |  € 168 ($175)     | 
+| **Non-member**                  |  € 340 ($355)      |  € 390 ($405)     |
 | **Online (IGEL member)**        | free               |  free             |  
-| **Online (non-member)**         |  $ 30              |  $ 50             |
+| **Online (non-member)**         |  € 29  ($30)       |  € 48  ($50)      |
 
-### Registration fees (after 20th April)
+### Registration fees (before 20th April)
 
 **I am employed full-time + I am an IGEL member (or want to renew my membership)**
 
-- REGULAR: conference only (€ 180)
-- REGULAR: conference + dinner (€ 215)
-- REGULAR: conference + 1 year membership (€ 230)
-- REGULAR: conference + 2 years membership (€ 300)
-- REGULAR: conference + 1 year membership + dinner (€ 285)
-- REGULAR: conference + 2 years membership + dinner (€ 335)
+- REGULAR: conference only (€ 265)
+- REGULAR: conference + dinner (€ 325)
+- REGULAR: conference + 1 year membership (€ 335)
+- REGULAR: conference + 2 years membership (€ 385)
+- REGULAR: conference + 1 year membership + dinner (€ 395)
+- REGULAR: conference + 2 years membership + dinner (€ 445)
 
 **I am a student, Phd, Postdoc, retiree, or I don't have a regular income + I am an IGEL member (or want to renew my membership)**
 
-- DISCOUNT: conference only (€ 130)
-- DISCOUNT: conference + dinner (€ 165)
-- DISCOUNT: conference + 1 year membership (€ 180)
-- DISCOUNT: conference + 2 years membership (€ 210)
-- DISCOUNT: conference + 1 year membership + dinner (€ 215)
-- DISCOUNT: conference + 2 years membership + dinner (€ 245)
+- DISCOUNT: conference only (€ 120)
+- DISCOUNT: conference + dinner (€ 180)
+- DISCOUNT: conference + 1 year membership (€ 170)
+- DISCOUNT: conference + 2 years membership (€ 200)
+- DISCOUNT: conference + 1 year membership + dinner (€ 230)
+- DISCOUNT: conference + 2 years membership + dinner (€ 260)
 
 **I'm not interested in becoming an IGEL member**
 
-- NON-MEMBER: conference only (€ 260)
-- NON-MEMBER: conference + dinner (€ 295)
+- NON-MEMBER: conference only (€ 340)
+- NON-MEMBER: conference + dinner (€ 400)
 - NON-MEMBER: online attendance (€ 50)
 
 {{< notice "note" >}}
@@ -73,15 +73,15 @@ e.g. Federico Pianzola, REGULAR: conference + 1 year membership + dinner
 
 - **I am employed full-time + I am an IGEL member (or want to renew my membership)**
 
-{{< button "Pay REGULAR fee now" "https://buy.stripe.com/eVa4in62pfCs9IA14X" >}}
+{{< button "Pay REGULAR fee now" "https://buy.stripe.com/14k9CH62peyo8Ew8xu" >}}
 
 - **I am a student, Phd, Postdoc, retiree, or I don't have a regular income + I am an IGEL member (or want to renew my membership)**
 
-{{< button "Pay DISCOUNT fee now" "https://buy.stripe.com/4gw8yD62pcqg4og8xq" >}}
+{{< button "Pay DISCOUNT fee now" "https://buy.stripe.com/8wM5mr0I5dukaMEcNJ" >}}
 
 - **I'm not interested in becoming an IGEL member**
 
-{{< button "Pay NON-MEMBER fee now" "https://buy.stripe.com/4gwdSXgH3cqg0808xr" >}}
+{{< button "Pay NON-MEMBER fee now" "https://buy.stripe.com/00gg159eB75WaME150" >}}
 
 
 
