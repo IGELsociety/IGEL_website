@@ -87,6 +87,21 @@ Texas cities like San Antonio and Dallas. For more information, please visit thi
 
 Austin is accessible by air through the **Austin-Bergstrom International Airport**, which is located just southeast of the city center. The airport provides a wide range of domestic and international flights, connecting Austin directly with major cities across the United States and global destinations. For travelers arriving by air, the airport offers numerous services and transportation options, including taxis, rideshares (e.g., Uber and Lyft), and a public transit system to efficiently reach downtown Austin and surrounding areas. By car, the airport is about 30 minutes away from the city center.
 
+### Accomodation
+
+Please book your stay in advance, as Austin can get quite busy. 
+The link below presents 3 hotel options that the organizers selected for your convenience. 
+We suggest to book the Moxy Hotel, as it is located near the conference venue. 
+
+https://www.marriott.com/event-reservations/reservation-link.mi?id=1670600530073&key=CORP&app=resvlink 
+
+The sales manager, Adrian, can be contacted for questions about hotel reservations.
+Adrian Zamora
+Senior Sales Manager - Business Travel
+adrian.zamora@whitelodging.com
+512-710-7159
+
+
 ## Call for Papers
 
 The call for papers is available under this <a href="https://drive.google.com/file/d/1h-Yl8oAYhEyIbAn4B8sTgtowZQ4_scMR/view?usp=sharing" target="_blank">link</a>. 
