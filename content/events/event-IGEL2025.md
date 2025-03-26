@@ -33,7 +33,7 @@ You can renew your IGEL membership now using the button at the top right of the 
 | **Discounted IGEL member**      |  € 120 ($125)      |  € 168 ($175)     | 
 | **Non-member**                  |  € 340 ($355)      |  € 390 ($405)     |
 | **Online (IGEL member)**        | free               |  free             |  
-| **Online (non-member)**         |  € 29  ($30)       |  € 48  ($50)      |
+| **Online (non-member)**         |  € 30              |  € 50             |
 
 IGEL is an inclusive society, which means that **fees are lowered** for early career researchers and for scholars from economically-disadvantaged countries. If you are eligible and would like to request a lower registration fee, please write to the IGEL treasurer, Marloes Mak: h.m.l.mak[at]tilburguniversity[dot]edu
 
