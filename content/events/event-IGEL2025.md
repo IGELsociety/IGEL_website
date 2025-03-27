@@ -201,7 +201,7 @@ Additionally, if you can’t receive a bursary, it is possible to work at the co
 -   Symposium proposals and abstracts submission deadline:  15 December 2024
 -   Poster proposals deadline: **15 January 2025**
 -   Acceptances will be sent out on: 28 February 2025
--   Early-bird registration deadline: 15 April 2025
+-   Early-bird registration deadline: 20 April 2025
 -   Registration deadline: 15 May 2025
 
 ## Organisation
