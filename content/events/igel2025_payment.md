@@ -26,6 +26,8 @@ Then choose one of the options below to be guided to the correct registration fe
 | **Online (IGEL member)**        | free               |  free             |  
 | **Online (non-member)**         |  € 30              |  € 50             |
 
+Late registration closes on May 15th. 
+
 ### Registration fees (before 20th April)
 
 **I am employed full-time + I am an IGEL member (or want to renew my membership)**
