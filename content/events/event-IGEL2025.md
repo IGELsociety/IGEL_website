@@ -24,6 +24,7 @@ The deadline for poster presentations is **15 January 2025**.
 Registration is now open: https://igelsociety.org/events/igel2025_payment/. 
 
 **Early bird** rates are available until **20th April**.
+**Late registration** is open until **15th May**.
 
 You can renew your IGEL membership now using the button at the top right of the page. If you prefer to pay membership and conference fee together, go to the [registration page](https://igelsociety.org/events/igel2025_payment/).
 
@@ -67,7 +68,7 @@ Details of the full program will be ready later.
 The IGEL 2025 conference will take place over 2 full days, on June 5th and June 6th.
 
 - On June 4th, the day before the start of the IGEL 2024 conference in Austin, there will be a welcome session for registration and "meet and great" with the local organizers. 
-- June 5th: parallel sessions from 8.00 am to 5 pm. Conference dinner in the evening.
+- June 5th: parallel sessions from 8.00 am to 5 pm. Conference dinner in the evening: Chapulín Cantina on South Congress in Austin
 - June 6th: parallel sessions and closing remarks from 8.00 am to 5 pm. 
 
 ## Venue
