@@ -26,9 +26,9 @@ The event will feature prominent experts from the field:
 
 - **Rik van Noord** will present a session discussing the potentials and limitations of Large Language Models (LLMs) for research, examining how these technologies can assist or hinder narrative analysis.
   
-– **Melanie Walsh** will introduce the AI for Humanists initiative, highlighting resources available for scholars working at the intersection of artificial intelligence and the Humanities.
+- **Melanie Walsh** will introduce the AI for Humanists initiative, highlighting resources available for scholars working at the intersection of artificial intelligence and the Humanities.
 
-– **Robert Lewis** will bring his expertise in media enjoyment and communication science to discuss how AI intersects with mass media, narrative engagement, or audience interaction, to name a few.
+- **Robert Lewis** will bring his expertise in media enjoyment and communication science to discuss how AI intersects with mass media, narrative engagement, or audience interaction, to name a few.
 
 Participants will engage in both theoretical and applied components of AI in narrative research, learning about the challenges and opportunities presented by these emerging technologies. Students will have the chance to apply some of the knowledge gained through hands-on activities during the sessions.
 Note: More senior researchers who might not be interested in the Training School may feel absolutely free to forward this to their students or anyone else they think might benefit from the event.
