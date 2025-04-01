@@ -7,7 +7,7 @@ year: "2023"
 month: "3-4 October"
 duration: ""
 fee: "free"
-type: "past" ##[upcoming/past-training]
+type: "past-training" ##[upcoming/past-training]
 readmore: true
 weight: 2
 editor_options: 
