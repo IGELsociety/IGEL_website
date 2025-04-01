@@ -24,9 +24,11 @@ The aim of this year’s Training School is to provide MA and PhD students, earl
 
 The event will feature prominent experts from the field:
 
-- Rik van Noord will present a session discussing the potentials and limitations of Large Language Models (LLMs) for research, examining how these technologies can assist or hinder narrative analysis.
-– Melanie Walsh will introduce the AI for Humanists initiative, highlighting resources available for scholars working at the intersection of artificial intelligence and the Humanities.
-– Robert Lewis will bring his expertise in media enjoyment and communication science to discuss how AI intersects with mass media, narrative engagement, or audience interaction, to name a few.
+- **Rik van Noord** will present a session discussing the potentials and limitations of Large Language Models (LLMs) for research, examining how these technologies can assist or hinder narrative analysis.
+  
+– **Melanie Walsh** will introduce the AI for Humanists initiative, highlighting resources available for scholars working at the intersection of artificial intelligence and the Humanities.
+
+– **Robert Lewis** will bring his expertise in media enjoyment and communication science to discuss how AI intersects with mass media, narrative engagement, or audience interaction, to name a few.
 
 Participants will engage in both theoretical and applied components of AI in narrative research, learning about the challenges and opportunities presented by these emerging technologies. Students will have the chance to apply some of the knowledge gained through hands-on activities during the sessions.
 Note: More senior researchers who might not be interested in the Training School may feel absolutely free to forward this to their students or anyone else they think might benefit from the event.
@@ -44,5 +46,28 @@ Notifications of acceptance will be sent out by **May 26th**.
 
 **Note**: More senior researchers who may not be interested in participating are encouraged to forward this information to their students or anyone they believe would benefit from the event.
 If you have any questions about the Training School or the application process, feel free to contact us at the above email address.
+
+
+## Speakers
+
+{{< row >}}
+
+{{< speaker img="" >}}
+##### [Melanie Walsh](https://melaniewalsh.org/) – University of Washington
+
+{{</ speaker >}}
+
+{{< speaker img="" >}}
+##### [Robert Lewis](https://scholar.google.com/citations?user=78BtzUQAAAAJ&hl=en) – University of Texas at Austin
+
+{{</ speaker >}}
+
+{{< speaker img="" >}}
+##### [Rik van Noord](https://www.rikvannoord.nl/) – University of Groningen
+
+{{</ speaker >}}
+
+
+{{</ row >}}
 
 IGEL's Training School Coordinator is Rocío Riestra Camacho (University of Oviedo), who can be reached via rocioriestra23[at]gmail[dot]com
