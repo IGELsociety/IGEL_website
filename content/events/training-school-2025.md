@@ -52,17 +52,17 @@ If you have any questions about the Training School or the application process, 
 
 {{< row >}}
 
-{{< speaker img="" >}}
+{{< speaker img="images/events-img/Melanie.png" >}}
 ##### [Melanie Walsh](https://melaniewalsh.org/) – University of Washington
 
 {{</ speaker >}}
 
-{{< speaker img="" >}}
+{{< speaker img="images/events-img/Rober.jpg" >}}
 ##### [Robert Lewis](https://scholar.google.com/citations?user=78BtzUQAAAAJ&hl=en) – University of Texas at Austin
 
 {{</ speaker >}}
 
-{{< speaker img="" >}}
+{{< speaker img="images/events-img/Rik.jpg" >}}
 ##### [Rik van Noord](https://www.rikvannoord.nl/) – University of Groningen
 
 {{</ speaker >}}
