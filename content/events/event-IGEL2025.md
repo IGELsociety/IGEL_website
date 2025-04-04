@@ -73,7 +73,7 @@ The IGEL 2025 conference will take place over 2 full days, on June 5th and June 
 
 ## Venue
 
-The conference venue will be announced shortly and it is located in the University district. 
+The conference venue will be The Thompson Conference Center (TCC). It is located on the northeast of UT Austin’s main campus in the heart of Austin. The TCC is a short walk to the LBJ Presidential Library and the LLILAS Benson Latin American Studies Library. 
 
 Austin, Texas, is a welcoming and vibrant city, currently the 7th fastest growing metro area in the U.S.
 Known as the “Live Music Capital of the World,” Austin has a rich history that blends Texan traditions
