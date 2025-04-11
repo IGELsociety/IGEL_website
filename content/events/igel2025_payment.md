@@ -63,9 +63,9 @@ Donations are welcome from IGEL members who can afford to pay a bit more to supp
 ### Option #1: bank transfer 
 
 ```
-Account holder: International Society for the Empirical Study of Literature
-IBAN: NL53 TRIO 0390 9278 05
-BIC/SWIFT: TRIONL2U
+Account holder: Stichting International Society of the Empirical Study of Literature
+IBAN: NL24 ABNA 0136 1470 97
+BIC/SWIFT: ABNANL2A
 
 Object: [NAME SURNAME], [FEE DESCRIPTION]
 e.g. Federico Pianzola, REGULAR: conference + 1 year membership + dinner
