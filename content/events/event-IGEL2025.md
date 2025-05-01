@@ -19,6 +19,8 @@ The deadline for submission of paper presentations is **15 December 2024** (to e
 
 The deadline for poster presentations is **15 January 2025**. 
 
+**Note**: UT Moody College students (both undergrad and graduate Communication students) can attend the conference without any cost.
+
 ## Registration
 
 Registration is now open: https://igelsociety.org/events/igel2025_payment/. 
