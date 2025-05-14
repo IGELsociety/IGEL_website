@@ -21,10 +21,6 @@ The deadline for poster presentations is **15 January 2025**.
 
 **Note**: UT Moody College students (both undergrad and graduate Communication students) can attend the conference without any cost.
 
-## Program
-
-The draft of the program is now available under this [link](https://drive.google.com/file/d/1BnO6Evs_cf_vLMoi0U5WaYfiR7ebPG_6/view?usp=sharing). 
-
 ## Registration
 
 Registration is now open: https://igelsociety.org/events/igel2025_payment/. 
@@ -69,7 +65,7 @@ The talks by keynote speakers are sponsored by De Gruyter.
 
 ## Program
 
-Details of the full program will be ready later.
+The draft of the program is now available under this [link](https://drive.google.com/file/d/1BnO6Evs_cf_vLMoi0U5WaYfiR7ebPG_6/view?usp=sharing). 
 
 The IGEL 2025 conference will take place over 2 full days, on June 5th and June 6th.
 
