@@ -65,7 +65,7 @@ The talks by keynote speakers are sponsored by De Gruyter.
 
 ## Program
 
-The draft of the program is now available under this [link](https://drive.google.com/file/d/1BnO6Evs_cf_vLMoi0U5WaYfiR7ebPG_6/view?usp=sharing). 
+The program is now available under this [link](https://drive.google.com/file/d/1gRU9AuKoEkJUeilk04K1FgTy28y9JlQw/view?usp=sharing). 
 
 The IGEL 2025 conference will take place over 2 full days, on June 5th and June 6th.
 
