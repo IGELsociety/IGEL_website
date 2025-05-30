@@ -110,6 +110,7 @@ Although empirical studies of literature have a longer history, the Society was 
 - [2021: online (Liverpool, United Kingdom)](https://drive.google.com/file/d/1VaQ-dPnm5jYtWRT6Fg3C5QY5aYzCDyqE/view?usp=sharing)
 - [2022: online (Orlando, USA)](https://igelsociety.org/events/event-igel2022/)
 - [2023: Monopoli, Italy](https://igelsociety.org/events/igel2023/)
+- [2024: Aachen, Germany](https://igelsociety.org/events/event-igel2024/)
 
 
 #### Past Presidents
@@ -128,6 +129,7 @@ Although empirical studies of literature have a longer history, the Society was 
 - 2008-2012: Marisa Bortolussi, University of Alberta
 - 2012-2016: Frank Hakemulder, Utrecht University
 - 2016-2020: Don Kuiken, University of Alberta
+- 2020-2024: Moniek Kuijpers, University of Basel
 
 ### Professional development
 
