@@ -54,6 +54,11 @@ Rocío Riestra Camacho, University of Oviedo, Spain
 Cristina Loi, University of Basel, Switzerland
 {{</ speaker >}}
 
+{{< speaker img="images/TineRiisAndersen.jpg" >}}
+##### Membership coordinator
+Tine Riis Andersen, University of Stavanger, Norway
+{{</ speaker >}}
+
 {{</ row >}}
 
 
