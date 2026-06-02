@@ -9,7 +9,7 @@ duration: ""
 fee: "free"
 type: "upcoming" ##[upcoming/past-training]
 readmore: true
-weight: 2
+weight: 1
 editor_options: 
   markdown: 
     wrap: sentence
