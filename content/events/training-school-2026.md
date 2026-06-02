@@ -10,9 +10,6 @@ fee: "free"
 type: "upcoming" ##[upcoming/past-training]
 readmore: true
 weight: 1
-editor_options: 
-  markdown: 
-    wrap: sentence
 ---
 
 ## About Event
