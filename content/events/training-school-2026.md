@@ -1,6 +1,5 @@
 ---
 title: "Training school"
-type: "upcoming"
 image: "images/logo.png"
 description: "Training school"
 location: "online"
@@ -8,9 +7,15 @@ year: "2026"
 month: "1-2 July"
 duration: ""
 fee: "free"
+type: "past-training" ##[upcoming/past-training]
 readmore: true
-weight: 1
+weight: 2
+editor_options: 
+  markdown: 
+    wrap: sentence
 ---
+
+
 ## About Event
 
 This year’s IGEL Training School will take place on Wednesday 1st and Thursday 2nd July 2026. The Training School will focus on **“Early Career Researchers in Empirical Literary Studies”**, highlighting the work, experiences, and research trajectories of young scholars in the field.
