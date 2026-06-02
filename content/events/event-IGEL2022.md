@@ -9,7 +9,7 @@ duration: ""
 fee: "20-70 euro"
 type: "past-conference" #[upcoming/past-conference]
 readmore: true
-weight: 4
+weight: 1
 ---
 
 ## About Event
