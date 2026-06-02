@@ -7,7 +7,7 @@ year: "2025"
 month: "10-11 June"
 duration: ""
 fee: "free"
-type: "upcoming" ##[upcoming/past-training]
+type: "past-training" ##[upcoming/past-training]
 readmore: true
 weight: 2
 editor_options: 
