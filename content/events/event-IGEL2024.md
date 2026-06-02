@@ -4,7 +4,7 @@ image: "images/events-img/Aachen.jpg"
 description: "IGEL 2024 conference"
 location: "Aachen, Germany"
 year: "2024"
-month: "18-20 July"
+month: ""
 duration: ""
 fee: "€ 30-210"
 type: "past-conference" #[upcoming/past]
