@@ -37,7 +37,7 @@ Participants will have the opportunity to engage with current research in empiri
 
 ## Application
 
-To apply for this event, please send your application to Rocío Riestra-Camacho, Training School Coordinator, at igeltraining[at]gmail[dot]com before **June 30th 2026**. 
+To apply for this event, please send your application to Rocío Riestra-Camacho, Training School Coordinator, at igeltraining@gmail.com before **June 30th 2026**. 
 
 Your application should include:
 
@@ -50,4 +50,4 @@ Notifications of acceptance will be sent out by **May 26th**.
 If you have any questions about the Training School or the application process, feel free to contact us at the above email address.
 
 
-IGEL's Training School Coordinator is Rocío Riestra Camacho (University of Oviedo), who can be reached via rocioriestra23[at]gmail[dot]com
+IGEL's Training School Coordinator is Rocío Riestra Camacho (University of Oviedo), who can be reached via rocioriestra23@gmail.com
