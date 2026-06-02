@@ -42,6 +42,7 @@ Account holder: Stichting International Society of the Empirical Study of Litera
 IBAN: NL24 ABNA 0136 1470 97
 BIC/SWIFT: ABNANL2A
 ```
+**Note**: If you choose to pay by bank transfer, please send an email to our membership coordinator (tine.r.andersen@uis.no) to ensure timely processing of your membership. 
 
 **Option #2: Credit card and other direct payment methods (Apple Pay, Google Pay, giropay, iDEAL and SEPA debit)**
 
