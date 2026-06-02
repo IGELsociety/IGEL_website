@@ -4,7 +4,7 @@ image: "images/events-img/UCF.jpg"
 description: "IGEL 2022 conference"
 location: "online"
 year: "2022"
-month: "14-16 July"
+month: ""
 duration: ""
 fee: "20-70 euro"
 type: "past-conference" #[upcoming/past-conference]
