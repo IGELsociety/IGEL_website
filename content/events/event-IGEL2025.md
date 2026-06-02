@@ -13,7 +13,7 @@ weight: 1
 ---
 
 
-At the beginning of June 2026, the International Society for the Empirical Study of Literature (IGEL) will hold its 21st international conference in Austin, Texas (USA). The broad theme of the conference will be “Creativity, Story Experience, and Reflection”. Submissions related to this theme will be given priority, but proposals from all areas of the empirical study of literature and media are welcome.
+At the beginning of June 2025, the International Society for the Empirical Study of Literature (IGEL) will hold its 21st international conference in Austin, Texas (USA). The broad theme of the conference will be “Creativity, Story Experience, and Reflection”. Submissions related to this theme will be given priority, but proposals from all areas of the empirical study of literature and media are welcome.
 
 The deadline for submission of paper presentations is **15 December 2024** (to enquire about the possibility of late submissions, please contact us at: igelaustin25@gmail.com). 
 
