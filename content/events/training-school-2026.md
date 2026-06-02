@@ -7,7 +7,7 @@ year: "2026"
 month: "1-2 July"
 duration: ""
 fee: "free"
-type: "upcoming" ##[upcoming/past-training]
+type: "upcoming-conference" ##[upcoming/past-training]
 readmore: true
 weight: 1
 ---
