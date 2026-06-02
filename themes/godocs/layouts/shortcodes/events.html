@@ -1,4 +1,4 @@
-{{ range (where site.RegularPages "Type" (.Get 0)) }}
+{{ range sort (where site.RegularPages "Type" (.Get 0)) ".Params.year" "desc" }}
 <div class="event-card card mb-4">
   <div class="event-card-date"><span class="h2 d-block">{{.Params.year}}</span> {{.Params.month}}</div>
   <div class="card-body">
