@@ -7,7 +7,7 @@ year: "2025"
 month: "June"
 duration: "5th-6th"
 fee: "30-340€"
-type: "past" #[upcoming/past]
+type: "past-conference" #[upcoming/past]
 readmore: true
 weight: 1
 ---
