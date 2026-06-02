@@ -9,7 +9,7 @@ duration: ""
 fee: "€ 30-210"
 type: "past-conference" #[upcoming/past]
 readmore: true
-weight: 2
+weight: 1
 ---
 
 From July 18 to 20, 2024, the International Society for the Empirical Study of Literature (IGEL) will hold its 20th international conference in Aachen, Germany, 170 km away from Siegen, where the society's inaugural conference took place in 1987. The broad theme of the conference will be "perspectivity." Submissions related to this theme will be given priority, but proposals from all areas of the empirical study of literature and media are welcome.
