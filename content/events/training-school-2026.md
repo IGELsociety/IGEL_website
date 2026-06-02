@@ -50,6 +50,4 @@ Notifications of acceptance will be sent out by **May 26th**.
 If you have any questions about the Training School or the application process, feel free to contact us at the above email address.
 
 
-{{</ row >}}
-
 IGEL's Training School Coordinator is Rocío Riestra Camacho (University of Oviedo), who can be reached via rocioriestra23[at]gmail[dot]com
