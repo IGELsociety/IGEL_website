@@ -29,9 +29,9 @@ The IGEL society is governed by a board of members from our community.
 Federico Pianzola, University of Groningen, Netherlands
 {{</ speaker >}}
 
-{{< speaker img="images/guansoonkhoo.jpg" >}}
+{{< speaker img="images/moniek.jpg" >}}
 ##### Vice-President
-Guan Soon Khoo, University of Texas at Austin, USA
+Moniek Kuijpers, University of Basel, Switzerland
 {{</ speaker >}}
 
 {{< speaker img="images/shannon.jpg" >}}
