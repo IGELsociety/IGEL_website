@@ -29,6 +29,8 @@ Professor in Publishing and Communications and Deputy Dean Academic of the Facul
 
 {{</ speaker >}}
 
+{{< row >}}
+
 {{< speaker img="images/events-img/sarah McGeown.png" >}}
 
 ##### [Sarah McGeown](https://edwebprofiles.ed.ac.uk/profile/sarah-mcgeown) -- University of Edinburgh
@@ -37,6 +39,8 @@ Professor of Literacy (Psychology & Education) at the University of Edinburgh. S
 
 {{</ speaker >}}
 
+{{< row >}}
+
 {{< speaker img="images/events-img/LovroSko.png" >}}
 
 ##### [Lovro Škopljanac](https://pokus.ffzg.unizg.hr/en/?page_id=707) -- University of Zagreb
@@ -44,6 +48,8 @@ Professor of Literacy (Psychology & Education) at the University of Edinburgh. S
 is Associate Professor at the Department of Comparative Literature at the Faculty of Humanities and Social Sciences at the University of Zagreb. He is the PI on the research project Remembering Literature in Everyday Life that focuses on the memory of literature in the everyday life of non-professional readers.
 
 {{</ speaker >}}
+
+{{< row >}}
 
 {{< speaker img="images/events-img/IngeVanDeVen.png" >}}
 
@@ -113,11 +119,11 @@ Switzerland is known as an expensive country and we understand that this may mak
 
 You can renew your IGEL membership now using the button at the top right of the page. If you prefer to pay membership and conference fee together, go to the [registration page](https://igelsociety.org/events/igel2025_payment/).
 
-| Type of fee                     | Until 20th April   |  After 20th April | 
+| Type of fee                     | Before May 1st     |  After May 1st    | 
 | ------------------------------- | ------------------:| -----------------:| 
-| **Regular IGEL member**         |  € 265 ($275)      |  € 312 ($325)     | 
-| **Discounted IGEL member**      |  € 120 ($125)      |  € 168 ($175)     | 
-| **Non-member**                  |  € 340 ($355)      |  € 390 ($405)     |
+| **Regular IGEL member**         |  € 245 (225 CHF)   |  € 275 (255 CHF)  | 
+| **Discounted IGEL member**      |  € 135 (125 CHF)   |  € 165 (155 CHF)  | 
+| **Non-member**                  |  € 335 (310 CHF)   |  € 370 (340 CHF)  |
 | **Online (IGEL member)**        | free               |  free             |  
 | **Online (non-member)**         |  € 30              |  € 50             |
 
