@@ -101,7 +101,7 @@ The submission portal will open on September 7th 2026.
 IGEL will continue its tradition of recognizing outstanding student presentations. In order to be considered for the Outstanding Student Paper Award, the first author must be a graduate student, and the student's supervisor must send a recommendation to igelaustin25@gmail.com describing the student's contribution to the research project. First authors should indicate the eligibility of their submission using the provided checkbox during the submission process.
 
 
-### Accommodation
+## Accommodation
 
 Switzerland is known as an expensive country and we understand that this may make some people hesitant to submit a proposal. However, Basel is located almost on top of the border with France and Germany, meaning that you could travel to and find accommodation in places just across the border and take a tram or bus into the city center for the conference. As conference organizers we will be sure to provide affordable options for accommodation in Basel, as well as just across the border. In addition, we will compile a list of affordable dinner options and other cost-cutting tips in our city that will be published here soon. 
 
