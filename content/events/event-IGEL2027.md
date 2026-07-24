@@ -68,7 +68,7 @@ Associate Professor of Culture Studies at Tilburg University’s School of Human
 
 ## Call for Papers
 
-The full call for papers is available under this <a href="https://drive.google.com/file/d/1h-Yl8oAYhEyIbAn4B8sTgtowZQ4_scMR/view?usp=sharing" target="_blank">link</a>. 
+The full call for papers is available under this <a href="https://docs.google.com/document/d/1ppPgBm7XluauKtpNKVFgn_Lvpam1KLWlCCAphy1pLe0/edit?usp=sharing" target="_blank">link</a>. 
 
 The broad overarching theme of the conference will be “Shifting Attention”. This theme can be, purposefully, understood in different ways. First, it can be understood as shifts in attention during reading, inviting proposals about topics that have a longstanding history within the IGEL community, such as narrative absorption, foregrounding or narrative persuasion. Second, and perhaps more importantly, it can be understood as shifts in what we as researchers pay attention to within our research. With this we hope to invite proposals that critically address the key pillars of our community’s focus: Literature and Science. What do we mean with “literary reading”, what falls under the concept of “literature”? Which approaches do we use to capture effects of reading? In all of this, we hope to see shifts towards reader-centered research, the use of qualitative and ethnographic methods, and broadening, more inclusive conceptualizations of literature and literary reading.
 
@@ -149,7 +149,7 @@ Donations are welcome from IGEL members who can afford to pay a bit more to supp
 
 ## Organisation
 
-The 2027 IGEL conference is organized by the following IGEL-associated scholars
+The 2027 IGEL conference is organized by:
 
 -  Moniek Kuijpers, Ph.D., Assistant Professor at the University of Basel's Digital Humanities Lab.
 -  Antonia Vogler, PhD candidate at the University of Basel's Digital Humanities Lab.
