@@ -98,7 +98,7 @@ The submission portal will open on September 7th 2026.
 
 ### Outstanding Student Paper Award
 
-IGEL will continue its tradition of recognizing outstanding student presentations. In order to be considered for the Outstanding Student Paper Award, the first author must be a graduate student, and the student's supervisor must send a recommendation to igelaustin25@gmail.com describing the student's contribution to the research project. First authors should indicate the eligibility of their submission using the provided checkbox during the submission process.
+IGEL will continue its tradition of recognizing outstanding student presentations. In order to be considered for the Outstanding Student Paper Award, the first author must be a graduate student, and the student's supervisor must send a recommendation to igel2027conference@gmail.com describing the student's contribution to the research project. First authors should indicate the eligibility of their submission using the provided checkbox during the submission process.
 
 
 ## Accommodation
