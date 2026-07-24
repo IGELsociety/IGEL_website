@@ -4,7 +4,7 @@ image: "images/events-img/basel.jpg"
 description: "IGEL 2027 conference"
 location: "Basel, Switzerland"
 year: "2027"
-month: ""
+month: "June 23-26"
 duration: ""
 fee: "30-370€"
 type: "upcoming-conference" #[upcoming/past]
