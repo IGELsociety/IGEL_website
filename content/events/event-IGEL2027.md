@@ -20,7 +20,6 @@ The broad overarching theme of the conference will be “Shifting Attention”. 
 ## Keynote Speakers
 
 {{< row >}}
-
 {{< speaker img="images/events-img/bethdriscoll.png" >}}
 
 ##### [Beth Driscoll](https://findanexpert.unimelb.edu.au/profile/158568-beth-driscoll) -- University of Melbourne
@@ -28,9 +27,9 @@ The broad overarching theme of the conference will be “Shifting Attention”. 
 Professor in Publishing and Communications and Deputy Dean Academic of the Faculty of Arts at the University of Melbourne. She investigates reading cultures and emotion, publishing communities and systems of taste, and arts-inspired methods for researching book cultures.
 
 {{</ speaker >}}
+{{</ row >}}
 
 {{< row >}}
-
 {{< speaker img="images/events-img/sarah McGeown.png" >}}
 
 ##### [Sarah McGeown](https://edwebprofiles.ed.ac.uk/profile/sarah-mcgeown) -- University of Edinburgh
@@ -38,9 +37,9 @@ Professor in Publishing and Communications and Deputy Dean Academic of the Facul
 Professor of Literacy (Psychology & Education) at the University of Edinburgh. She is Co-Director of the Literacy Lab, an interdisciplinary research hub focused on supporting reading motivation and engagement, and enriching lives through positive literacy experiences and outcomes.
 
 {{</ speaker >}}
+{{</ row >}}
 
 {{< row >}}
-
 {{< speaker img="images/events-img/LovroSko.png" >}}
 
 ##### [Lovro Škopljanac](https://pokus.ffzg.unizg.hr/en/?page_id=707) -- University of Zagreb
@@ -48,21 +47,17 @@ Professor of Literacy (Psychology & Education) at the University of Edinburgh. S
 is Associate Professor at the Department of Comparative Literature at the Faculty of Humanities and Social Sciences at the University of Zagreb. He is the PI on the research project Remembering Literature in Everyday Life that focuses on the memory of literature in the everyday life of non-professional readers.
 
 {{</ speaker >}}
+{{</ row >}}
 
 {{< row >}}
-
 {{< speaker img="images/events-img/IngeVanDeVen.png" >}}
 
 ##### [Inge van de Ven](https://www.ingevandeven.com/) -- Tilburg University
 
-Associate Professor of Culture Studies at Tilburg University’s School of Humanities & Digital Sciences. Together with Anna-Lena Eick and Astrid Ensslin, she also co-chairs the Postdigital Narratives Network. Her research focuses on various types of reading in the post-digital age.
+Associate Professor of Culture Studies at Tilburg University's School of Humanities & Digital Sciences. Together with Anna-Lena Eick and Astrid Ensslin, she also co-chairs the Postdigital Narratives Network. Her research focuses on various types of reading in the post-digital age.
 
 {{</ speaker >}}
-
-
 {{</ row >}}
-
-
 ## Important Dates
 
 - Opening of submission portal: September 7th 2026
