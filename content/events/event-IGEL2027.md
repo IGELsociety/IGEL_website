@@ -7,14 +7,14 @@ year: "2027"
 month: "June 23-26"
 duration: ""
 fee: "30-370€"
-type: "upcoming-conference" #[upcoming/past]
+type: "upcoming" #[upcoming/past]
 readmore: true
 weight: 1
 ---
 
 
 From June 23rd until June 26th 2027, the International Society for the Empirical Study of Literature (IGEL) will hold its 22nd international conference in Basel, Switzerland. 
-The conference will be co-organized with the end-of-project conference for the [SHARD project (Shared Reading in the Age of Digitalization)](https://shard-project.com/en/). 
+The conference will be co-organized with the <a href="https://shard-project.com/en/shard-/-igel-conference/" target="_blank">end-of-project conference</a> for the <a href="https://shard-project.com/en/" target="_blank">SHARD project (Shared Reading in the Age of Digitalization)</a>. 
 The broad overarching theme of the conference will be “Shifting Attention”. The deadline for submissions of panel/paper/poster presentations is **December 18th 2026**.
 
 ## Keynote Speakers
@@ -65,7 +65,7 @@ Associate Professor of Culture Studies at Tilburg University's School of Humanit
 
 ## Call for Papers
 
-The full call for papers is available under this <a href="https://docs.google.com/document/d/1ppPgBm7XluauKtpNKVFgn_Lvpam1KLWlCCAphy1pLe0/edit?usp=sharing" target="_blank">link</a>. 
+The full call for papers is available under this <a href="https://drive.google.com/file/d/1cRkF_XEyI4CswP_yN-jtsHFvF0ED_tWy/view?usp=sharing" target="_blank">link</a>. 
 
 The broad overarching theme of the conference will be “Shifting Attention”. This theme can be, purposefully, understood in different ways. First, it can be understood as shifts in attention during reading, inviting proposals about topics that have a longstanding history within the IGEL community, such as narrative absorption, foregrounding or narrative persuasion. Second, and perhaps more importantly, it can be understood as shifts in what we as researchers pay attention to within our research. With this we hope to invite proposals that critically address the key pillars of our community’s focus: Literature and Science. What do we mean with “literary reading”, what falls under the concept of “literature”? Which approaches do we use to capture effects of reading? In all of this, we hope to see shifts towards reader-centered research, the use of qualitative and ethnographic methods, and broadening, more inclusive conceptualizations of literature and literary reading.
 
@@ -103,7 +103,8 @@ IGEL will continue its tradition of recognizing outstanding student presentation
 
 ## Accommodation
 
-Switzerland is known as an expensive country and we understand that this may make some people hesitant to submit a proposal. However, Basel is located almost on top of the border with France and Germany, meaning that you could travel to and find accommodation in places just across the border and take a tram or bus into the city center for the conference. As conference organizers we will be sure to provide affordable options for accommodation in Basel, as well as just across the border. In addition, we will compile a list of affordable dinner options and other cost-cutting tips in our city that will be published here soon. 
+Switzerland is known as an expensive country and we understand that this may make some people hesitant to submit a proposal. However, Basel is located almost on top of the border with France and Germany, meaning that you could travel to and find accommodation in places just across the border and take a tram or bus into the city center for the conference. As conference organizers we will be sure to provide affordable options for accommodation in Basel, as well as just across the border. This information will be available in September 2026, once the submission portal opens. 
+In addition, we will compile a list of affordable dinner options and other cost-cutting tips in our city that will be published here soon. 
 
 
 ## Registration fees
@@ -128,7 +129,7 @@ Donations are welcome from IGEL members who can afford to pay a bit more to supp
 IGEL will provide bursaries of maximum 400 CHF for early career researchers with no travel funds. 
 
 **Amounts:**
-  - max €200 for continental applications / €400 for intercontinental applications, plus:
+  - max 200 CHF for continental applications / 400 CHF for intercontinental applications, plus:
   - Waived conference fee
   - Waived conference dinner fee
   - Waived 1 year IGEL membership fee
