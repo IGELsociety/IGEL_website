@@ -9,7 +9,7 @@ IGEL is the publisher of the Diamond Open Access journal *Scientific Study of Li
 {{< button "Go to SSOL" "https://ssol-journal.com" >}}
 
 ### New:  SSOL archive available for IGEL members
-After months of work, the full archive of Scientific Study of Literature is now available to all IGEL members. It contains articles published between 2011, the year of the journal foundation, and 2022, the last year the journal was published by John Benjamins. The online collection is visible (and searchable by keywords!) on [Zotero](https://www.zotero.org/groups/6608170/ssol-archive-2011-2022/library). Only IGEL members have access to the PDFs
+After months of work, the full archive of Scientific Study of Literature is now available to all IGEL members. It contains articles published between 2011, the year of the journal foundation, and 2022, the last year the journal was published by John Benjamins. The online collection is visible (and searchable by keywords!) on [Zotero](https://www.zotero.org/groups/6608170/ssol-archive-2011-2022/library). Only IGEL members have access to the PDFs.
 
 <!---### History
 [to be completed]-->
