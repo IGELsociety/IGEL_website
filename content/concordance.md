@@ -15,7 +15,7 @@ Under the heading of “Empirical Approaches to Literature and Reading” we cou
 With _Concordance_ we can also help you to organize online and hybrid events. We are able to offer support for the management of online discussions around papers and talks, with different level of privacy (private/public events), and ensuring long-term archiving and access to such materials and discussions. If you are organizing an event (or thinking about it), you can reach out to us using the contact form on this website or directly email Federico Pianzola.
 
 ### Editorial Board
-* Laura Allen - ST&D
+* Raymond Mar - ST&D
 * Pernille Høegh - LCE (University of Oslo)
 * Akshay Mendhakar - ELIT
 * Louise Nuttal - IALS
