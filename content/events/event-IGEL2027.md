@@ -17,9 +17,11 @@ From June 23rd until June 26th 2027, the International Society for the Empirical
 The conference will be co-organized with the <a href="https://shard-project.com/en/shard-/-igel-conference/" target="_blank">end-of-project conference</a> for the <a href="https://shard-project.com/en/" target="_blank">SHARD project (Shared Reading in the Age of Digitalization)</a>. 
 The broad overarching theme of the conference will be “Shifting Attention”. The deadline for submissions of panel/paper/poster presentations is **December 18th 2026**.
 
-## Keynote Speakers
+## Keynote Speakers 
 
-{{< row >}}
+Keynote abstracts can be found on the <a href="https://shard-project.com/en/shard-/-igel-conference/program/" target="_blank">official conference website</a>. 
+
+{{< row >}} 
 
 {{< speaker img="images/events-img/bethdriscoll.png" col="12" >}}
 
@@ -82,10 +84,23 @@ We welcome and prioritize paper proposals (or panel proposals) that explore all 
 
 Works in progress are also very welcome, but for those, we recommend sending in a poster presentation proposal. 
 
+A paper proposal will be for a paper of 20 minutes with 10 minute discussion, whereas a panel proposal would be for 3 to 4 papers within one session of 1,5 hours. Panels can span multiple sessions, in case larger groups of researchers would like to work together to present research that fits the same theme. 
+The conference will be hybrid, so you can present your work, without being physically present in Basel if for some reason you are unable to travel. All sessions will be accessible remotely and we will ask presenters to record presentations so we can archive them on our members-only platform Concordance, so they can be accessed after the conference.
+
+
 ### Submission requirements
 
-More details about the formal requirements for submission will be communicated in September once the submission portal is opened up. 
-The submission portal will open on September 7th 2026. 
+The <a href="https://shard-project.com/en/submission/" target="_blank">submission portal</a> is currently open.
+The submission form should be filled out by the corresponding author, panels should decide on one person responsible for the submission. 
+
+-   Papers and posters: Abstract of no more than 300 words (excluding title and references)
+-   Panels: Description of the panel (max. 300 words) and abstracts for the individual presentations (3-4 contributions, max. 200 words each)
+-   Other panel format: Short description (max. 200 words) 
+
+Abstracts will be pasted into the submission form and should not contain any information about the author(s). There should be no more than 3-5 references included. Please note that submissions that exceed the word-limit will not be considered. 
+
+If you have any further questions about the submission form or format, please do not hesitate to reach out: igel2027conference@gmail.com
+
 
 ### Acceptance Policies
 
@@ -103,8 +118,7 @@ IGEL will continue its tradition of recognizing outstanding student presentation
 
 ## Accommodation
 
-Switzerland is known as an expensive country and we understand that this may make some people hesitant to submit a proposal. However, Basel is located almost on top of the border with France and Germany, meaning that you could travel to and find accommodation in places just across the border and take a tram or bus into the city center for the conference. As conference organizers we will be sure to provide affordable options for accommodation in Basel, as well as just across the border. This information will be available in September 2026, once the submission portal opens. 
-In addition, we will compile a list of affordable dinner options and other cost-cutting tips in our city that will be published here soon. 
+Switzerland is known as an expensive country and we understand that this may make some people hesitant to submit a proposal. However, Basel is located almost on top of the border with France and Germany, meaning that you could travel to and find accommodation in places just across the border and take a tram or bus into the city center for the conference. As conference organizers we will be sure to provide affordable options for accommodation in Basel, as well as just across the border. We have compiled a list of hotels in Basel, which offer special booking conditions for our conference attendees. You can find it on the <a href="https://shard-project.com/en/shard-/-igel-conference/affordable-accomodation-and-food/" target="_blank">conference website</a> and it will be updated with further options in the following months. 
 
 
 ## Registration fees
@@ -120,26 +134,19 @@ You can renew your IGEL membership now using the button at the top right of the 
 | **Online (non-member)**         |  € 30              |  € 50             |
 
 
-IGEL is an inclusive society, which means that **fees are lowered** for early career researchers and for scholars from economically-disadvantaged countries. If you are eligible and would like to request a lower registration fee, please write to the IGEL treasurer, Marloes Mak: h.m.l.mak@tilburguniversity.edu
+### Cost Reduction & Bursary Fund
 
-Donations are welcome from IGEL members who can afford to pay a bit more to support these travel bursaries. If you'd like to donate a sum as part of your registration or membership fee, you can write to the IGEL treasurer and request a receipt.
+IGEL is an inclusive society, which means there are cost-reductions available for early career researchers and researchers from economically-disadvantaged countries. There is also a limited amount of bursaries available, which include registration costs and a maximum 400 CHF for early career researchers with no travel funds. If you want to request cost reduction please indicate that in the submission form.
 
-### Bursaries
+Bursaries include: 
+-   max 200 CHF for continental applications / 400 CHF for intercontinental applications, plus:
+-   Waived conference fee
+-   Waived conference dinner fee
+-   Waived 1 year IGEL membership fee
 
-IGEL will provide bursaries of maximum 400 CHF for early career researchers with no travel funds. 
+Further information will be communicated once the proposal is submitted.
+If you want to request cost reduction or bursaries and are unsure whether you are eligible, please contact the organizers (igel2027conference@gmail.com) before April 2nd. Decisions about the bursaries will be communicated on April 23rd.
 
-**Amounts:**
-  - max 200 CHF for continental applications / 400 CHF for intercontinental applications, plus:
-  - Waived conference fee
-  - Waived conference dinner fee
-  - Waived 1 year IGEL membership fee
-    
-**Requirements:** 
-  -	Paper or poster accepted for presentation
-  -	CV (including current position and affiliation)
-  -	300 words introduction letter, stating your position (MA student, PhD student or post doc), your country of residence, your motivation for visiting the conference in person and whether or not you were able to secure any other financial support.
-
-There is a limited number of bursaries available. If you want to know whether you are eligible and you would like to request a bursary, please contact Marloes Mak (board@igelsociety.org) before April 2nd. Decisions about the bursaries will be communicated on April 23rd.
 
 ### Donations
 
